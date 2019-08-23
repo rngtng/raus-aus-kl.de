@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Immer Montags	</title>
+	<atom:link href="http://www.raus-aus-kl.de/2007/03/04/immer-montags/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.raus-aus-kl.de/2007/03/04/immer-montags/</link>
+	<description>Worte und Termine rund um Kaiserslautern</description>
+	<lastBuildDate>Fri, 28 Dec 2007 14:08:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+			<item>
+				<title>
+				By: MitschMiller				</title>
+				<link>http://www.raus-aus-kl.de/2007/03/04/immer-montags/comment-page-1/#comment-542</link>
+		<dc:creator><![CDATA[MitschMiller]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2007 14:08:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.raus-aus-kl.de/2007/03/04/immer-montags/#comment-542</guid>
+					<description><![CDATA[was geht an Sylvester?]]></description>
+		<content:encoded><![CDATA[<p>was geht an Sylvester?</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: MitschMiller				</title>
+				<link>http://www.raus-aus-kl.de/2007/03/04/immer-montags/comment-page-1/#comment-541</link>
+		<dc:creator><![CDATA[MitschMiller]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2007 14:07:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.raus-aus-kl.de/2007/03/04/immer-montags/#comment-541</guid>
+					<description><![CDATA[Hallo ihr lieben Kackbratzen! 
+Wer von Euch weiß´n ob die midnightMovers auch an Sylvester soulen? Tip?]]></description>
+		<content:encoded><![CDATA[<p>Hallo ihr lieben Kackbratzen!<br />
+Wer von Euch weiß´n ob die midnightMovers auch an Sylvester soulen? Tip?</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

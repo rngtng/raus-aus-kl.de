@@ -1,0 +1,338 @@
+/* 
+Theme Name: RausAusKL
+Description: Gemini theme widgetized and options page added by <a href="http://www.wordyblog.com">WordyBlog</a>.<br />Extensive options page includes choice of 11 different styles, header image, background, font colours, sidebar position and much more. You can almost design your own theme without having to edit any WordPress files.
+Version: 1.02
+Author: WordyBlog
+Author URI: http://www.wordyblog.com
+
+Credits:
+Updated version of Gemini by Jennifer Ledbetter http://www.geeksmakemehot.com.
+*/
+
+/* Generic stylesheet for styles applicable to all colourschemes.
+Styles specific to a particular colour scheme are contained in the individual stylesheets.
+*/
+
+
+.wp-smiley {
+	   border: none;
+	   padding: 0px;
+	   margin-right: 2px;
+	   margin-left: 2px;
+	}
+	
+p { 
+	font: 100%/175% Verdana, Helvetica, sans-serif;
+	}
+	
+/* ---------------------------------------------------------------------------------------
+Comments
+----------------------------------------------------------------------------------------*/
+
+#comment_preview {
+	background: #EFEFEF;
+	border: 1px solid #333;
+	padding: 5px;
+	margin-bottom: 15px;
+	color: #333;
+	width: 465px;
+}
+
+#commentlist ul {
+list-style: none;
+margin-left: -20px;
+}
+
+#commentlist li {
+list-style: none;
+margin-left: -20px;
+}
+
+
+#commentform { 
+	
+	width: 465px;
+	padding: 0px;
+	}
+	
+#commentform  #comment { 
+	width:465px; 
+	}
+	
+.commentbox {
+	background: #EFEFEF;
+	border: 1px solid #333;
+	padding: 5px;
+	margin-bottom: 15px;
+	color: #333;
+	width: 465px;
+	}
+
+.commentby {
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.commentinfo {
+	font-size: 10px;
+	margin-top: -10px;
+	border-bottom: 1px solid #333;
+}
+
+.commentid {
+	float: right;
+	font-size: 24px;
+	font-style: italic;
+	padding-left: 10px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #c0c0c0;
+}
+
+.commentid a {
+	color: #c0c0c0;
+	text-decoration: none;
+}
+
+/* ---------------------------------------------------------------------------------------
+no buttons
+If you have selected to show graphic bullets in sidebar links there may be times
+when you don't want the buttons to show on links. If that is the case enclose them in 
+<div class="nobuttons"></div> tags.
+----------------------------------------------------------------------------------------*/
+
+.nobuttons a  {
+		display: block;
+		padding: 3px;
+		padding-left: 3px;
+	
+	background-image: none !important;
+	padding-left: 0px !important;
+	border-bottom: none !important;
+	}
+.nobuttons a:visited {
+		display: block;
+		padding: 3px;
+		padding-left: 3px;
+	
+	background-image: none !important;
+	padding-left: 0px !important;
+	border-bottom: none !important;
+	}
+.nobuttons a img { 
+	border: none; 
+	padding: 0px;
+	border-bottom: none !important;
+	}
+	
+#recentcomments a {
+	background-image: none !important;
+	border-bottom: none !important;
+	}
+#recentcomments a:visited {
+	background-image: none !important;
+	border-bottom: none !important;
+	
+	}
+	
+#recentcomments a:hover {
+	background-image: none !important;
+	border-bottom: none !important;
+	
+	}
+.recentcomments a {
+	background-image: none !important;
+	border-bottom: none !important;
+	}
+.recentcomments a:visited {
+	background-image: none !important;
+	border-bottom: none !important;
+	
+	}
+	
+.recentcomments a:hover {
+	background-image: none !important;
+	border-bottom: none !important;
+	
+	}
+
+td a 
+	{
+	background-image: none !important;
+	padding: 0px !important;
+	background-position: bottom center;
+	border-bottom: none !important;
+	}
+td a:visited 
+	{
+	background-image: none !important;
+	padding: 0px !important;
+	background-position: bottom center;
+	border-bottom: none !important;
+	}
+td a:hover 
+	{
+	background-image: none !important;
+	padding: 0px !important;
+	background-position: bottom center;
+	border-bottom: none !important;
+	
+	}
+	
+#accessibility a {
+	display: inline;
+	}
+
+/*--------------------------- 'Comment Edit' Buttons ------------------------ */
+#ed_toolbar {
+ background: #d5d7db; 
+ padding: 0px;
+ padding-left: 5px;
+ width: 465px;
+ margin-bottom: -1px;
+}
+
+
+#ed_bold {
+ background: url("images/bold.gif") no-repeat top;
+ height: 22px;
+
+ width: 22px;
+ border: 0px none;
+}
+
+
+#ed_italic {
+ background: url("images/italic.gif") no-repeat top;
+ height: 22px;
+ width: 22px;
+ border: 0px none;
+ margin-left: 5px;
+}
+
+
+#ed_link {
+ background: url("images/link.gif") no-repeat top;
+ height: 22px;
+ width: 22px;
+ border: 0px none;
+ margin-left: 5px;
+}
+
+
+#ed_close{
+ background: url("images/close.gif") no-repeat top;
+ height: 22px;
+ width: 22px;
+ border: 0px none;
+ margin-left: 25px;
+}
+
+/*--------------------------- Lightbox styling ------------------------ */
+
+#lightbox{
+	position: absolute;
+	top: 40px;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	text-align: center;
+	line-height: 0;
+	}
+
+#lightbox a img{ border: none;
+}
+
+#outerImageContainer{
+	position: relative;
+	background-color: #fff;
+	width: 280px;
+	height: 250px;
+	margin: 0 auto;
+	}
+
+#imageContainer{
+	padding: 1px;
+	padding-top: 5px;
+	}
+
+#loading{
+	position: absolute;
+	top: 40%;
+	left: 0%;
+	height: 25%;
+	width: 100%;
+	text-align: center;
+	line-height: 0;
+	}
+#hoverNav{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+	}
+#imageContainer>#hoverNav{ left: 0;}
+#hoverNav a{ outline: none;}
+
+#prevLink, #nextLink{
+	width: 49%;
+	height: 100%;
+	background: transparent url("js/blank.gif") no-repeat; /* Trick IE into showing hover */
+	display: block;
+	}
+#prevLink { left: 0; float: left;}
+#nextLink { right: 0; float: right;}
+#prevLink:hover, #prevLink:visited:hover { background: url("js/prevlabel.gif") left 15% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url("js/nextlabel.gif") right 15% no-repeat; }
+
+
+#imageDataContainer{
+	font: 10px Verdana, Helvetica, sans-serif;
+	background-color: #fff;
+	margin: 0 auto;
+	line-height: 1.4em;
+	}
+
+#imageData{
+	padding:0 10px;
+	}
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em;	}	
+		
+#overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 90;
+	width: 100%;
+	height: 500px;
+	background-color: #000;
+	filter:alpha(opacity=60);
+	-moz-opacity: 0.6;
+	opacity: 0.6;
+	}
+	
+
+.clearfix:after {
+	content: "."; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+	}
+
+* html>body .clearfix {
+	display: inline-block; 
+	width: 100%;
+	}
+
+* html .clearfix {
+	/* Hides from IE-mac \*/
+	height: 1%;
+	/* End hide from IE-mac */
+	}	
+	

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Immer Dienstags	</title>
+	<atom:link href="http://www.raus-aus-kl.de/2007/03/05/immer-dienstags/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.raus-aus-kl.de/2007/03/05/immer-dienstags/</link>
+	<description>Worte und Termine rund um Kaiserslautern</description>
+	<lastBuildDate>Sun, 09 Nov 2008 15:34:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+			<item>
+				<title>
+				By: Kritik				</title>
+				<link>http://www.raus-aus-kl.de/2007/03/05/immer-dienstags/comment-page-1/#comment-544</link>
+		<dc:creator><![CDATA[Kritik]]></dc:creator>
+		<pubDate>Sun, 09 Nov 2008 15:34:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.raus-aus-kl.de/2007/03/05/immer-dienstags/#comment-544</guid>
+					<description><![CDATA[Immer Sonntags ist eine Adverb.Bestimmung der Zeit.
+Und schreibt man daher immer klein
+Immer sonntags (richtig)
+Immer Sonntags  (falsch)]]></description>
+		<content:encoded><![CDATA[<p>Immer Sonntags ist eine Adverb.Bestimmung der Zeit.<br />
+Und schreibt man daher immer klein<br />
+Immer sonntags (richtig)<br />
+Immer Sonntags  (falsch)</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Dinah				</title>
+				<link>http://www.raus-aus-kl.de/2007/03/05/immer-dienstags/comment-page-1/#comment-543</link>
+		<dc:creator><![CDATA[Dinah]]></dc:creator>
+		<pubDate>Sat, 18 Oct 2008 17:04:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.raus-aus-kl.de/2007/03/05/immer-dienstags/#comment-543</guid>
+					<description><![CDATA[Leute, die Salsa-Disco im Step&#039;s findet schon seit Sommer nicht mehr dienstags sondern mittwochs statt.]]></description>
+		<content:encoded><![CDATA[<p>Leute, die Salsa-Disco im Step&#8217;s findet schon seit Sommer nicht mehr dienstags sondern mittwochs statt.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

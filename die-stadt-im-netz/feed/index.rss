@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Die Stadt im Netz	</title>
+	<atom:link href="http://www.raus-aus-kl.de/die-stadt-im-netz/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.raus-aus-kl.de</link>
+	<description>Worte und Termine rund um Kaiserslautern</description>
+	<lastBuildDate>Tue, 13 Feb 2007 16:50:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+</channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Video der Verlosung	</title>
+	<atom:link href="http://www.raus-aus-kl.de/2007/08/20/video-der-verlosung/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.raus-aus-kl.de/2007/08/20/video-der-verlosung/</link>
+	<description>Worte und Termine rund um Kaiserslautern</description>
+	<lastBuildDate>Tue, 21 Aug 2007 20:28:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+			<item>
+				<title>
+				By: Heman				</title>
+				<link>http://www.raus-aus-kl.de/2007/08/20/video-der-verlosung/comment-page-1/#comment-954</link>
+		<dc:creator><![CDATA[Heman]]></dc:creator>
+		<pubDate>Tue, 21 Aug 2007 20:28:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.raus-aus-kl.de/2007/08/20/video-der-verlosung/#comment-954</guid>
+					<description><![CDATA[Total verpeilt, wie man sie kennt ;)]]></description>
+		<content:encoded><![CDATA[<p>Total verpeilt, wie man sie kennt 😉</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

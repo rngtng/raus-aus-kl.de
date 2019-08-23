@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="en-US"
+	xml:base="http://www.raus-aus-kl.de/wp-atom.php"
+	>
+	<title type="text">Raus aus Kaiserslautern</title>
+	<subtitle type="text">Worte und Termine rund um Kaiserslautern</subtitle>
+
+	<updated>2019-06-07T04:41:39Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de" />
+	<id>http://www.raus-aus-kl.de/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://www.raus-aus-kl.de/feed/atom/" />
+
+	<generator uri="https://wordpress.org/" version="5.2.2">WordPress</generator>
+	<entry>
+		<author>
+			<name>tobi</name>
+						<uri>http://</uri>
+						</author>
+		<title type="html"><![CDATA[Aus, aus, aus &#8211; ich bin Raus!]]></title>
+		<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de/2007/12/28/aus-aus-aus-ich-bin-raus/" />
+		<id>http://www.raus-aus-kl.de/2007/12/28/aus-aus-aus-ich-bin-raus/</id>
+		<updated>2011-05-31T15:47:31Z</updated>
+		<published>2007-12-28T00:30:47Z</published>
+		<category scheme="http://www.raus-aus-kl.de" term="Events" />		<summary type="html"><![CDATA[Hey liebe Leutz! Ich hoffe ihr habt Weihnachten gut hinter euch gebracht und eine schöne Zeit erlebt. Ich habe die Tage besonderst genossen um mich von dem ganzen Umzugedöhns zu erholen. Umzug? Jepp, Richtig! Seit letzter Woche bin ich Raus-Aus-Kaiserlautern!!! Hab mein Studium fertig und werde ab 1.Januar bei Qype.com in Hamburg anfangen. Ja, ich [&#8230;]]]></summary>
+				<content type="html" xml:base="http://www.raus-aus-kl.de/2007/12/28/aus-aus-aus-ich-bin-raus/"><![CDATA[<p><img src="http://www.raus-aus-kl.de/files/2007/12/logo.jpg" alt="" width="400" class="aligncenter size-full wp-image-1039" border="0" srcset="http://www.raus-aus-kl.de/files/2007/12/logo.jpg 585w, http://www.raus-aus-kl.de/files/2007/12/logo-300x150.jpg 300w" sizes="(max-width: 585px) 100vw, 585px" /><br />
+Hey liebe Leutz!<br />
+Ich hoffe ihr habt Weihnachten gut hinter euch gebracht und eine schöne Zeit erlebt. Ich habe die Tage besonderst genossen um mich von dem ganzen Umzugedöhns zu erholen. Umzug? Jepp, Richtig! <strong>Seit letzter Woche bin ich Raus-Aus-Kaiserlautern!!!</strong> Hab mein Studium fertig und werde ab 1.Januar bei <a href="http://www.qype.com">Qype.com</a> in Hamburg anfangen.<br />
+Ja, ich habs somit geschafft und schliesse hiermit mein Projekt Raus-Aus-KL ab. Trotz der so manchen kleinen Stadtlästereien und Kritiken die man hört oder ich geäusssert haben sollte, will ich meine sechs Jahre in Kaiserslautern auf keinen Fall missen und schaue auch mit einem traurigen Auge zurück: es war  eine sehr schöne Zeit! Ich habe in super WGs gewohnt, tolle Menschen getroffen, fätte Parties erlebt und verdammt viel Spaß gehabt (Ja, das geht auch in KL!!!). Gerade das letzte Jahr, speziell geprägt auch durch diesen Blog, war besonders spannend &amp; erlebnisreich.<br />
+Raus-Aus-KL ist ursprüngich aus einer &#8216;Schnapsidee&#8217; entstanden, vorallem weil ich das Bloggen ausprobieren wollte. Blogs in Tagebuchform gabs mir schon zuviele, also hab ich rumliegende Event Flyer und Plakate eingetipp und gepostet. Werbung für den Blog gabs kaum, bissl über Studivz, Freunde und Emailsignatur. Trotzdem kam die Aktion dann so gut an, dass ich es soweit es ging weitergeführt habe. Tja, und das Resultat nach über einem Jahr kennt ihr ja. In Zahlen gesprochen: ca. 440 postings, 220 Kommentare (+ über 2000 SPAM), seit Sommer über 100 Besucher täglich, insgesamt über 25.000.</p>
+<p>Da ich aber nun endgültig raus bin, hab ich mich nach langem Hin-und-Her entschlossen den Blog zu schliessen. Alles bleibt zwar online, aber neue Postings gibt&#8217;s nicht mehr. <strong>Somit ist der Blog TOT</strong>. Doch die IDEE lebt weiter &#8211; nun liegt es an euch weiterzumachen. Als kleiner Anfang, hier mal meine Sourcen:</p>
+<p>* Flyer &amp; Plakate aus Benderhof, AStA, Uni, Stadt<br />
+* RHRK, UG, Contact usw. Newsletter<br />
+* http://www.Kammgarn.de (<a href="http://feed43.com/1167028768852462.xml">RSS Feed</a>)<br />
+* http://www.Kultur-KL.de (<a href="http://feed43.com/4317840435345541.xml">RSS Feed</a>)<br />
+* http://www.Juz-kl.de (<a href="http://feed43.com/0075373551455467.xml">RSS Feed</a>)<br />
+* http://www.Indie-KL.de<br />
+* http://www.frohlocker.de<br />
+* <a href="http://www.asta.uni-kl.de/">AStA KL</a><br />
+* <a href="http://www.beatclub-kl.de">Beatclub-KL.de</a><br />
+* <a href="http://www.lokalzeitung-kl.de">Lokalzeitung KL</a> (<a href="http://feed43.com/3821531740657187.xml">RSS Feed</a>)<br />
+* Studivz Gruppen, u.a: &#8216;Indie KL&#8217;, &#8216;Bringt Spaß nach KL&#8217;..<br />
+* <a href="http://flashmob.twoday.net/topics/Kaiserslautern">Flashmob KL</a><br />
+* versch. MySpace Seiten</p>
+<p>Also Leutz, haut rein! Ich wünsch euch weiterhin viel Spaß und macht das Beste draus! Freu mich Euch auf KL Parties irgendwann wieder zu sehen.</p>
+<p>Let there be Rock!</p>
+<p>Tschö, Euer Tobi!</p>
+]]></content>
+						<link rel="replies" type="text/html" href="http://www.raus-aus-kl.de/2007/12/28/aus-aus-aus-ich-bin-raus/#comments" thr:count="9"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.raus-aus-kl.de/2007/12/28/aus-aus-aus-ich-bin-raus/feed/atom/" thr:count="9"/>
+		<thr:total>9</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>tobi</name>
+						<uri>http://</uri>
+						</author>
+		<title type="html"><![CDATA[Frohlocker im Kramladen!]]></title>
+		<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de/2007/12/22/frohlocker-im-kramladen/" />
+		<id>http://www.raus-aus-kl.de/2007/12/22/frohlocker-im-kramladen/</id>
+		<updated>2019-06-07T04:41:39Z</updated>
+		<published>2007-12-22T16:39:02Z</published>
+		<category scheme="http://www.raus-aus-kl.de" term="Events" />		<summary type="html"><![CDATA[Yeah! Frohlocker sind wieder am Start! Am Samstag wird mal wieder kräftigt gedanced! Hingehen, Pflichttermin! http://www.frohlocker.de]]></summary>
+				<content type="html" xml:base="http://www.raus-aus-kl.de/2007/12/22/frohlocker-im-kramladen/"><![CDATA[<p>Yeah! Frohlocker sind wieder am Start! Am Samstag wird mal wieder kräftigt gedanced! Hingehen, Pflichttermin!</p>
+<p>http://www.frohlocker.de</p>
+]]></content>
+						<link rel="replies" type="text/html" href="http://www.raus-aus-kl.de/2007/12/22/frohlocker-im-kramladen/#comments" thr:count="1"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.raus-aus-kl.de/2007/12/22/frohlocker-im-kramladen/feed/atom/" thr:count="1"/>
+		<thr:total>1</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>tobi</name>
+						<uri>http://</uri>
+						</author>
+		<title type="html"><![CDATA[Murphys Law und Painted Dogs im Hardrock Cafe KL]]></title>
+		<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de/2007/12/22/murphys-law-und-painted-dogs-im-hardrock-cafe-kl/" />
+		<id>http://www.raus-aus-kl.de/2007/12/22/murphys-law-und-painted-dogs-im-hardrock-cafe-kl/</id>
+		<updated>2007-12-22T16:35:09Z</updated>
+		<published>2007-12-22T16:35:09Z</published>
+		<category scheme="http://www.raus-aus-kl.de" term="Events" />		<summary type="html"><![CDATA[Rock im Hardrock: Murphys Law und Painted Dogs sind zu Gast im Hardrock Cafe KL!]]></summary>
+				<content type="html" xml:base="http://www.raus-aus-kl.de/2007/12/22/murphys-law-und-painted-dogs-im-hardrock-cafe-kl/"><![CDATA[<p>Rock im Hardrock: Murphys Law und Painted Dogs sind zu Gast im Hardrock Cafe KL!</p>
+]]></content>
+					</entry>
+		<entry>
+		<author>
+			<name>tobi</name>
+						<uri>http://</uri>
+						</author>
+		<title type="html"><![CDATA[DIE DREI ??? UND DER SUPER-PAPAGEI]]></title>
+		<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de/2007/12/22/die-drei-und-der-super-papagei/" />
+		<id>http://www.raus-aus-kl.de/2007/12/22/die-drei-und-der-super-papagei/</id>
+		<updated>2007-12-22T16:34:08Z</updated>
+		<published>2007-12-22T16:34:08Z</published>
+		<category scheme="http://www.raus-aus-kl.de" term="Events" />		<summary type="html"><![CDATA[DIE DREI ??? UND DER SUPER-PAPAGEI sind in der Kammgarn! Die Drei ??? Das so kultige &#8220;Vollplaybacktheater&#8221; ist keine ganz normale Theatergruppe. Die Schauspieler agieren auf der Bühne, die Stimme kommt jedoch vom Tonband, nämlich dem gleichnamigen &#8220;Hörspiel&#8221; aus dem Hause &#8220;Europa&#8221;. Los ab 20.00 im Kammgarn&#8230;]]></summary>
+				<content type="html" xml:base="http://www.raus-aus-kl.de/2007/12/22/die-drei-und-der-super-papagei/"><![CDATA[<p>DIE DREI ??? UND DER SUPER-PAPAGEI sind in der Kammgarn! Die Drei ??? Das so kultige &#8220;Vollplaybacktheater&#8221; ist keine ganz normale Theatergruppe. Die Schauspieler agieren auf der Bühne, die Stimme kommt jedoch vom Tonband, nämlich dem gleichnamigen &#8220;Hörspiel&#8221; aus dem Hause &#8220;Europa&#8221;. </p>
+<p>Los ab 20.00 im Kammgarn&#8230;</p>
+]]></content>
+					</entry>
+		<entry>
+		<author>
+			<name>tobi</name>
+						<uri>http://</uri>
+						</author>
+		<title type="html"><![CDATA[Götz Wiedmann]]></title>
+		<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de/2007/12/22/gotz-wiedmann/" />
+		<id>http://www.raus-aus-kl.de/2007/12/22/gotz-wiedmann/</id>
+		<updated>2007-12-22T16:32:11Z</updated>
+		<published>2007-12-22T16:32:11Z</published>
+		<category scheme="http://www.raus-aus-kl.de" term="Events" />		<summary type="html"><![CDATA[Götz Wiedmann im Cotton Club! Beginn: 20:30 http://www.kammgarn.de]]></summary>
+				<content type="html" xml:base="http://www.raus-aus-kl.de/2007/12/22/gotz-wiedmann/"><![CDATA[<p>Götz Wiedmann im Cotton Club!</p>
+<p>Beginn: 20:30 </p>
+<p>http://www.kammgarn.de</p>
+]]></content>
+					</entry>
+		<entry>
+		<author>
+			<name>tobi</name>
+						<uri>http://</uri>
+						</author>
+		<title type="html"><![CDATA[Sylvester im Contact Club]]></title>
+		<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de/2007/12/22/sylvester-im-contact-club/" />
+		<id>http://www.raus-aus-kl.de/2007/12/22/sylvester-im-contact-club/</id>
+		<updated>2007-12-22T16:31:17Z</updated>
+		<published>2007-12-22T16:31:17Z</published>
+		<category scheme="http://www.raus-aus-kl.de" term="Events" />		<summary type="html"><![CDATA[Und hier noch die Sylvester Dates: Freitag, 28.12.2007 Hertzmusic &#38; Friends  Drum &#38; Bass Special D-Vine (Riskindust KL), Rick (Hertzmusic KL), Monsieur Flip (Hertzmusic KL), Logos (KL), Sebastian (Hertzmusic KL), MC Step PB (DB Sounddepartment NK), MC Thommybee (Hertzmusic KL) + Live Visuals by Sebastian Kraus Samstag, 29.12.2007 Inventurparty  alles muss raus! Die [&#8230;]]]></summary>
+				<content type="html" xml:base="http://www.raus-aus-kl.de/2007/12/22/sylvester-im-contact-club/"><![CDATA[<p>Und hier noch die Sylvester Dates:</p>
+<p>Freitag, 28.12.2007<br />
+Hertzmusic &amp; Friends  Drum &amp; Bass Special<br />
+D-Vine (Riskindust KL), Rick (Hertzmusic KL), Monsieur Flip (Hertzmusic KL), Logos (KL), Sebastian (Hertzmusic KL), MC Step PB (DB Sounddepartment NK), MC Thommybee (Hertzmusic KL)<br />
++ Live Visuals by Sebastian Kraus</p>
+<p>Samstag, 29.12.2007<br />
+Inventurparty  alles muss raus!<br />
+Die ganze Nacht Getränke zum absoluten Hammer-Preis! Außerdem verlosen wir ein nagelneues Handy inkl. Gesprächsguthaben.<br />
+Special Guest exclusively by DJ League Germany  Details: www.contact-kl.de</p>
+<p>Montag, 31.12.2007  Silvester<br />
+Electronic Allstars &#8211; Silvester Bang<br />
+Marc Keim (Hertzmusic KL), Roddy (Hertzmusic KL), Fussel (Hertzmusic KL), Gigi Offi (128 BPM KL), B@zeball und Special Guest: Stefano Libelle (The Clashers / Loft Club LU)<br />
++ Live Visuals by ICODO</p>
+]]></content>
+					</entry>
+		<entry>
+		<author>
+			<name>tobi</name>
+						<uri>http://</uri>
+						</author>
+		<title type="html"><![CDATA[Weihnachten im Contact Club]]></title>
+		<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de/2007/12/22/weihnachten-im-contact-club/" />
+		<id>http://www.raus-aus-kl.de/2007/12/22/weihnachten-im-contact-club/</id>
+		<updated>2007-12-22T16:25:27Z</updated>
+		<published>2007-12-22T16:25:27Z</published>
+		<category scheme="http://www.raus-aus-kl.de" term="Events" />		<summary type="html"><![CDATA[Der Contact Club Kaiserlautern hat für Weihnachten Großes Programm: Samstag, 22.12.2007 50:50 Night: Entweder 15,- Euro zahlen für 30,- Euro Freiverzehr. Sonntag, 23.12.2007 RapOlution 5: Die Fortsetzung von Kaiserslauterns erfolgreichstem Rap-Event: Too Fuckin&#8217; Real, David Asphalt, DJ Waichill, DJ Stevenmac and many K-Town acts more Montag, 24.12.2007 Heiligabend Classic Christmas Night: Alle Mega-Knaller der 80er, [&#8230;]]]></summary>
+				<content type="html" xml:base="http://www.raus-aus-kl.de/2007/12/22/weihnachten-im-contact-club/"><![CDATA[<p>Der Contact Club Kaiserlautern hat für Weihnachten Großes Programm:</p>
+<p>Samstag, 22.12.2007<br />
+50:50 Night: Entweder 15,- Euro zahlen für 30,- Euro Freiverzehr.</p>
+<p>Sonntag, 23.12.2007<br />
+RapOlution 5: Die Fortsetzung von Kaiserslauterns erfolgreichstem Rap-Event: Too Fuckin&#8217; Real, David Asphalt, DJ Waichill, DJ Stevenmac and many K-Town acts more</p>
+<p>Montag, 24.12.2007  Heiligabend<br />
+Classic Christmas Night: Alle Mega-Knaller der 80er, 90er und von Heute: Die Crossover-Night mit der Musik aus drei Generationen mit den Classix aus NDW, Black, Soul, House, Wave &amp; mehr. Zu Weihnachten schenken wir jedem Gast ein Freigetränk!</p>
+<p>Dienstag, 25.12.2007   1. Weihnachtsfeiertag<br />
+Hertzclub X-Mas Rotation: Hertzmusic DJs + Special Guests: Asférico LIVE ! (Stoerung Barcelona), ZappzarÖ LIVE ! (Hertzmusic Köln), Syk LIVE ! (Hertzmusic KL), MC Thommybee (Hertzmusic KL)<br />
+Jeder DJ legt zwei Platten auf, dann ist der nächste dran! Die ultimative DJ-Rotation!<br />
++ Live Visuals on 3 screens by ICODO</p>
+<p>mehr hier:  www.contact-kl.de</p>
+]]></content>
+					</entry>
+		<entry>
+		<author>
+			<name>tobi</name>
+						<uri>http://</uri>
+						</author>
+		<title type="html"><![CDATA[Bee Low in der Markthalle]]></title>
+		<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de/2007/12/22/bee-low-in-der-markthalle-2/" />
+		<id>http://www.raus-aus-kl.de/2007/12/22/bee-low-in-der-markthalle-2/</id>
+		<updated>2007-12-22T16:17:07Z</updated>
+		<published>2007-12-22T16:17:07Z</published>
+		<category scheme="http://www.raus-aus-kl.de" term="Events" />		<summary type="html"><![CDATA[Am 1. Weihnachtstag legen Bee-Low und Groovescharnier in der Markthalle auf. Beginn 21:00 Uhr (?)]]></summary>
+				<content type="html" xml:base="http://www.raus-aus-kl.de/2007/12/22/bee-low-in-der-markthalle-2/"><![CDATA[<p><img src='http://www.raus-aus-kl.de/wp-content/uploads/2007/12/8241_markt_04.jpg' alt='8241_markt_04.jpg' align="right" width="160" />Am 1. Weihnachtstag legen Bee-Low und Groovescharnier in der Markthalle auf.</p>
+<p>Beginn 21:00 Uhr (?)<br /></p>
+]]></content>
+					</entry>
+		<entry>
+		<author>
+			<name>tobi</name>
+						<uri>http://</uri>
+						</author>
+		<title type="html"><![CDATA[RaKL LIVE: Wir sind raus!]]></title>
+		<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de/2007/12/16/rakl-live-wir-sind-raus/" />
+		<id>http://www.raus-aus-kl.de/2007/12/16/rakl-live-wir-sind-raus/</id>
+		<updated>2007-12-16T01:04:52Z</updated>
+		<published>2007-12-16T01:04:52Z</published>
+		<category scheme="http://www.raus-aus-kl.de" term="die Stadt lebt" />		<summary type="html"><![CDATA[2:03 Raus-Ausl-KL ist passiert! Wir sind froh das wir gelockt wurden! Sau geil! Ich vermisse euch! Danke &#8211; Euer Tobes!]]></summary>
+				<content type="html" xml:base="http://www.raus-aus-kl.de/2007/12/16/rakl-live-wir-sind-raus/"><![CDATA[<p>2:03 Raus-Ausl-KL ist passiert! Wir sind froh das wir gelockt wurden! Sau geil! Ich vermisse euch! Danke &#8211; Euer Tobes!</p>
+]]></content>
+						<link rel="replies" type="text/html" href="http://www.raus-aus-kl.de/2007/12/16/rakl-live-wir-sind-raus/#comments" thr:count="4"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.raus-aus-kl.de/2007/12/16/rakl-live-wir-sind-raus/feed/atom/" thr:count="4"/>
+		<thr:total>4</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>tobi</name>
+						<uri>http://</uri>
+						</author>
+		<title type="html"><![CDATA[MobileClubbing in Kaiserslautern II]]></title>
+		<link rel="alternate" type="text/html" href="http://www.raus-aus-kl.de/2007/12/14/mobileclubbing-in-kaiserslautern-ii/" />
+		<id>http://www.raus-aus-kl.de/2007/12/14/mobileclubbing-in-kaiserslautern-ii/</id>
+		<updated>2007-12-14T09:25:18Z</updated>
+		<published>2007-12-14T09:25:18Z</published>
+		<category scheme="http://www.raus-aus-kl.de" term="Events" />		<summary type="html"><![CDATA[Nach dem erfolgreichen und spaßigen MobileClubbing in der U-Bahn Station, wird am Dienstag erneut gezappelt: diesmal am Elf-Freunde-Kreisel hinter der beleuchteten Bahnhofsunterführung! Rest wie gehabt: Wann: Dienstag, 18.12 Beginn: 19 Uhr Mitbringen: mp3-Player oder ähnliches mit Eurer Lieblingsmusik Aktion: los tanzen &#38; Spaß haben! Mehr: http://flashmob.twoday.net/stories/4508975/]]></summary>
+				<content type="html" xml:base="http://www.raus-aus-kl.de/2007/12/14/mobileclubbing-in-kaiserslautern-ii/"><![CDATA[<p>Nach dem <a href="http://www.raus-aus-kl.de/2007/11/14/lautern-lebt-mobileclubbing-in-der-u-bahn-station/" target="_blank">erfolgreichen und spaßigen MobileClubbing</a> in der U-Bahn Station, wird am Dienstag erneut gezappelt: diesmal am Elf-Freunde-Kreisel hinter der beleuchteten Bahnhofsunterführung! Rest wie gehabt:<br />
+Wann: Dienstag, 18.12<br />
+Beginn: 19 Uhr<br />
+Mitbringen: mp3-Player oder ähnliches mit Eurer Lieblingsmusik<br />
+Aktion: los tanzen &amp; Spaß haben! </p>
+<p>Mehr: http://flashmob.twoday.net/stories/4508975/</p>
+]]></content>
+						<link rel="replies" type="text/html" href="http://www.raus-aus-kl.de/2007/12/14/mobileclubbing-in-kaiserslautern-ii/#comments" thr:count="5"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.raus-aus-kl.de/2007/12/14/mobileclubbing-in-kaiserslautern-ii/feed/atom/" thr:count="5"/>
+		<thr:total>5</thr:total>
+			</entry>
+	</feed>
