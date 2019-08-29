@@ -1,0 +1,62 @@
+# FireStats bots list
+# Generated at Sun Mar 4 16:26:34 EST 2007
+(info@netforex.org)
+Ask Jeeves
+CFNetwork
+Crawler
+DAUM Web Robot
+DepSpid
+Feedfetcher-Google
+GoogleBot
+Indy Library
+larbin
+Microsoft URL Control
+NaverBot
+QihooBot
+RSS_READER
+slurp
+spider
+Xenu Link Sleuth
+Yahoo! Slurp
+YahooSeeker
+Yoono
+^Bloglines
+^Bloglines Title Fetch
+^bot/
+^cfetch/
+^curl/
+^DoCoMo
+^e-SocietyRobot
+^Explorer /
+^findlinks
+^Gigabot
+^HMSE_Robot
+^htdig/
+^ia_archiver
+^ichiro/
+^intraVnews
+^Jakarta Commons-HttpClient/
+^Java/
+^lanshanbot
+^libwww-perl
+^Mediapartners-Google
+^Moreoverbot
+^Mozilla/5.0$
+^msnbot
+^OutfoxBot
+^sogou spider
+^sproose
+^Technoratibot
+^UniversalFeedParser/
+^unknown$
+^UOLCrawler
+^vBSEO
+^voyager
+^W3C-checklink
+^w3m
+^webbot
+^worio
+^XML Sitemaps Generator 1.0
+^Y!J-SRD
+^yacy
+^YahooFeedSeeker

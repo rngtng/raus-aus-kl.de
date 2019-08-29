@@ -1,0 +1,1677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FireStats\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-03-16 09:08+0100\n"
+"Last-Translator: BB2k <brainbooster@gmail.com>\n"
+"Language-Team: bb2k <bb2k@bb2k.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-KeywordsList: fs_e;fs_r\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French (Français)\n"
+"X-Poedit-SearchPath-0: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats\n"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/index.php:20
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/index.php:43
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:130
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/footer.php:31
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:49
+msgid "FireStats"
+msgstr "FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/index.php:23
+msgid "FireStats is installed inside WordPress"
+msgstr "FireStats est installé dans Wordpress"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/index.php:24
+msgid "Please access it from the WordPress admin interface"
+msgstr "A utiliser depuis l'interface d'administration de Wordpress"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:130
+msgid "Loading..."
+msgstr "Chargement..."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:149
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Total : %s pages vues et %s visites"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:150
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "Dernières 24 heures : %s pages vues et %s visites"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:198
+msgid "Only blog administrators can access FireStats"
+msgstr "Seuls les administrateurs peuvent accéder à FireStats"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:464
+msgid "Pages displayed : "
+msgstr "Pages affichées :"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:465
+msgid "Unique visitors : "
+msgstr "Visiteurs Uniques"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:466
+msgid "Pages displayed in last 24 hours : "
+msgstr "Hits des 24 dernières heures :"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:467
+msgid "Unique visitors in last 24 hours : "
+msgstr "Hits uniques des 24 dernières heures :"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:518
+msgid "pages viewed"
+msgstr "pages vues"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:518
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:519
+msgid "today"
+msgstr "aujourd'hui"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:519
+msgid "visits"
+msgstr "visites"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:528
+msgid "Powered by FireStats"
+msgstr "Contenu créé par FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/export-bots-list.php:21
+msgid "Error exporting bots list"
+msgstr "Erreur d'import de la liste des robots"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:34
+msgid "Unknown site type"
+msgstr "Type de site inconnu"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:77
+msgid "Collect hits from PHP pages"
+msgstr "Collecter les hits depuis des pages PHP"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:78
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "Pour permettre à FireStats de pister les accès aux pages, vous devez ajouter les lignes suivantes dans l'entête de toutes les pages que vous souhaitez surveiller (les pages doivent être des pages PHP)."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:84
+msgid "A typical page header will look like this:"
+msgstr "Typiquement, l'entête de page devra ressembler à ceci :"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:101
+msgid "WordPress"
+msgstr "Wordpress"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:102
+msgid "The WordPress plugin registers itself automatically when the its activated"
+msgstr "Le plugin Worpress s'enregistre seul automatiquement lorsqu'il est activé."
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:108
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:116
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:131
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:137
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:149
+msgid "plugin"
+msgstr "plugin"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:124
+msgid "module"
+msgstr "module"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:168
+#, php-format
+msgid "Collect hits from a %s site"
+msgstr "Collecter les hits depuis un site %s"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:189
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "et configurez le dans le menu d'administration avec le chemin %s et l'identifiant %s"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:199
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "editez ensuite les lignes dans %s pour qu'elle ressemblent à ceci :"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/help-window.php:206
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "Pour collecter les statistiques de votre site %s vous avez besoin d'installer le %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:153
+#, php-format
+msgid "Unsupported action code : %s"
+msgstr "Code d'action non supporté : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:162
+#, php-format
+msgid "Unexpexted output: %s"
+msgstr "Sortie inattendue : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:174
+#, php-format
+msgid "Saved %d entries to show"
+msgstr "%d entrées sauvées à afficher"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:176
+msgid "Saved"
+msgstr "Sauvé"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:188
+#, php-format
+msgid "Imported %d records from Counterize"
+msgstr "%d enregistrements importés depuis Counterize"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:189
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:116
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:218
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:36
+msgid "Import"
+msgstr "Importer"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:194
+#, php-format
+msgid "An Error occured while importing from Counterize : %s"
+msgstr "Une erreur a été rencontrée durant l'imporation depuis Counterize : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:205
+#, php-format
+msgid "Added %s to exclude list"
+msgstr "%s ajouté à la liste des exclusions"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:222
+#, php-format
+msgid "Removed %s from exclude list"
+msgstr "%s supprimé de la liste des exclusions"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:318
+msgid "Excluded users list saved"
+msgstr "Liste des utilisateurs à exclure sauvée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:336
+#, php-format
+msgid "Added %s to bots list"
+msgstr "%s ajouté à la liste des robots"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:349
+msgid "Empty string is not allowed"
+msgstr "Les chaines vides ne sont pas autorisées"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:359
+msgid "Removed"
+msgstr "Supprimé"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:410
+msgid "Not using configuration file"
+msgstr "N'utilise pas le fichier de configuration"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:417
+msgid "Not installed inside Wordpress"
+msgstr "N'est pas installé dans Wordpress"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:428
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "Echec de suppression de fs-config.php : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:449
+msgid "Error creating config file: "
+msgstr "Erreur de création du fichier de configuration:"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:472
+msgid "Error upgrading tables"
+msgstr "Erreur de mise à jour des tables"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:497
+msgid "Error installing tables"
+msgstr "Erreur d'installation des tables"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:608
+msgid "Error rebuilding database cache"
+msgstr "Erreur de reconstruction du cache de la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:612
+msgid "Database cache rebuilt successfully"
+msgstr "Le cache de la base de donnée est reconstruit avec succès"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:686
+#, php-format
+msgid "Unkown field: %s"
+msgstr "Champ inconnu : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:721
+msgid "IP-to-country database is already up-to-date"
+msgstr "La base de donnée IP-to-country est à jour"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:728
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "Une erreur a été rencontrée durant la mise à jour de la base de donnée IP-to-country"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:732
+msgid "file"
+msgstr "fichier"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:734
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Vous pouvez mettre à jour la base de donnée manuellement en téléchargeant %s et en le décompressant ici %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:739
+msgid "this"
+msgstr "Ceci"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:741
+#, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "Vous pouvez mettre à jour la base de donnée manuellement en téléchargeant %s et en le décompressant dans %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:743
+msgid "Error"
+msgstr "Erreur"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:765
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:784
+#, php-format
+msgid "Error updating bots list: %s"
+msgstr "Erreur de mise à jour de la liste des robots : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:777
+msgid "Successfully updated bots list"
+msgstr "Mise à jour de la liste de robots réussie"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:799
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Erreur de purge des enregistrements exclus: %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:804
+msgid "Purged excluded records"
+msgstr "Enregistrements exclus purgés"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:886
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-common.php:132
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:22
+msgid "Error connecting to database"
+msgstr "Erreur de connection à la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-hit.php:272
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:822
+#, php-format
+msgid "Database error: %s"
+msgstr "Erreur de base de donnée : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:30
+msgid "Statistics widget"
+msgstr "Widget de Statistiques "
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:35
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:40
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/version-check.php:148
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:168
+msgid "here"
+msgstr "ici"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:45
+#, php-format
+msgid "You can configure the sidebar widget from %s"
+msgstr "Vous pouvez configurer l'extension Widget Sidebar %s"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:49
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "Les widgets nécessitent le plugin %s pour un usage optilmal."
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:52
+msgid "Widgets"
+msgstr "Widgets"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:54
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Vous pouvez aussi ajouter manuellement le code suivant dans votre sidebar:"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:62
+msgid "Comments icons"
+msgstr "Icônes des commentaires"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:70
+msgid "Add flag icon to comments"
+msgstr "Ajouter un drapeau aux commentaires"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:79
+msgid "Add browser and operating system icons to comments"
+msgstr "Ajouter les icônes de navigateur et de système aux commentaires"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:84
+msgid "Blog footer"
+msgstr "Pied de page du blog"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:92
+msgid "Add FireStats footer to blog"
+msgstr "Ajouter FireStats en pied de page du blog"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:101
+msgid "Show statistics in footer"
+msgstr "Montrer les statistiques en pied de page"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:109
+msgid "Excluded users"
+msgstr "Utilisateurs exclus"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:113
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:135
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:120
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:132
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:148
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:126
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:218
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:239
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:283
+msgid "Save"
+msgstr "Sauver"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:128
+msgid "Advanced"
+msgstr "Avancé"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:129
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "Identifiant de site wordpress, chaque hit de ce blog en enregistré avec ceci comme identifiant source"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:130
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "Cecid evrait re le même identifiant que l'identifiant du site dans la table des sites. Vous ne devriez pas avoir à changer cela."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/version-check.php:41
+#, php-format
+msgid "Error getting version information from %s : %s"
+msgstr "Erreur lors de l'obtention de l'information de version %s : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/version-check.php:123
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "Une nouvelle version de la base de donnée IP-to-country est disponible! Vous pouvez la mettre à jour depuis l'onglet paramètres"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/version-check.php:146
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "La version %s est disponible ! Cliquez %s pour plus d'informations"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/version-check.php:172
+#, php-format
+msgid "Error opening %s"
+msgstr "Erreur d'ouverture %s"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:30
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:110
+msgid "ID"
+msgstr "ID"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:31
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:122
+msgid "Name"
+msgstr "Nom"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:32
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:123
+msgid "Type"
+msgstr "Type"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:33
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:36
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:149
+msgid "Page views"
+msgstr "Pages vues"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:50
+msgid "How to integrate with this site"
+msgstr "Comment intégrer ce site"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:73
+msgid "Orphaned hits"
+msgstr "Hits orphelins"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:85
+msgid "Add a new site"
+msgstr "Ajouter un nouveau site"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:120
+msgid "Generic PHP site"
+msgstr "Site PHP générique"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:122
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:124
+msgid "Django"
+msgstr "Django"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:126
+msgid "Drupal"
+msgstr "Drupal"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:128
+msgid "Gregarius"
+msgstr "Gregarius"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:130
+msgid "Joomla"
+msgstr "Joomla"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:132
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:134
+msgid "Trac"
+msgstr "Trac"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:136
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:586
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:610
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:656
+msgid "Unknown"
+msgstr "Inconnu"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:221
+msgid "Invalid"
+msgstr "Invalide"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:233
+msgid "All"
+msgstr "Tous"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:234
+msgid "Show statistics from"
+msgstr "Montrer les statistiques de"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:308
+msgid "unknown"
+msgstr "inconnu"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:375
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:292
+msgid "IP"
+msgstr "IP"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:376
+msgid "TimeStamp"
+msgstr "Date"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:377
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:293
+msgid "URL"
+msgstr "URL"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:378
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:294
+msgid "Referrer"
+msgstr "Referer"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:379
+msgid "Image"
+msgstr "Image"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:380
+msgid "UserAgent"
+msgstr "UserAgent"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:401
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:434
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:577
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:666
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:701
+msgid "No data yet, go get some hits"
+msgstr "Pas de données"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:496
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:520
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:546
+msgid "Empty"
+msgstr "Vide"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:528
+msgid "excluded"
+msgstr "exclus"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:606
+#, php-format
+msgid "(%d hits) (%d more from %s)"
+msgstr "(%d hits) (%d uniques depuis %s)"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:611
+#, php-format
+msgid "%d hits"
+msgstr "%d hits"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/html-utils.php:628
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d hits depuis %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:46
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:12
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:33
+msgid "Support FireStats"
+msgstr "Aider FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:51
+msgid "Demo"
+msgstr "Demonstration"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:61
+msgid "Hide"
+msgstr "Masquer"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:67
+msgid "No"
+msgstr "Non"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:68
+msgid "Yes"
+msgstr "Oui"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:94
+msgid "Statistics"
+msgstr "Statistiques"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:98
+msgid "Settings"
+msgstr "Paramètres"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:104
+msgid "WordPress settings"
+msgstr "Configuration Wordpress"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:112
+msgid "Database"
+msgstr "Base de donnée"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:120
+msgid "Sites management"
+msgstr "Gestion des sites"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:17
+msgid "You need to select an bot you want to remove from the table"
+msgstr "Vous devez sélectionner le robot que vous voulez supprimer de la table"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:39
+msgid "Invalid IP address"
+msgstr "Adresse IP invalide"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:48
+msgid "You need to select an IP address you want to remove from the table"
+msgstr "Vous devez sélectionner l'adresse IP que vous souhaitez supprimer de la table"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:76
+msgid "Automatic version check"
+msgstr "Détection automatique des versions"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:84
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "Vérifier automatiquement si une nouvelle version de FireStats est disponible (recommandé)"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:93
+msgid "IP-to-country database"
+msgstr "Base de donnée IP-to-country"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:96
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "Version de la base de donnée IP-to-country: %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:101
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "Vérifier automatiquement si une nouvelle version de la base de donnée IP-to-country est disponible"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:103
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "Mettre à jour la base de donnée IP-to-country maintenant"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:105
+msgid "Update"
+msgstr "Mise à jour"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:113
+msgid "Options"
+msgstr "Préférences"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:114
+msgid "Select language"
+msgstr "Choisir une langue"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:122
+msgid "How to translate to a new language"
+msgstr "Comment traduire dans une nouvelle langue"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:128
+msgid "Select your time zone"
+msgstr "Sélectionnez votre Zone de temps "
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:138
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "La sélection de la zone de temps nécessite une %s ou plus récente"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:142
+msgid "Select WHOIS provider"
+msgstr "Sélectionnez le fournisseur WHOIS"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:159
+msgid "Exclude hits"
+msgstr "Hits exclus"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:174
+msgid "Save excluded records (not recommended)"
+msgstr "Sauver les enregistrements exclus (non recommandé)"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:177
+msgid "Purge excluded records stored in the database"
+msgstr "Purger les enregistrements exclus de la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:180
+msgid "Purge"
+msgstr "Purge"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:190
+msgid "Bots list"
+msgstr "Liste des robots"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:196
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:243
+msgid "Add"
+msgstr "Ajouter"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:197
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:244
+msgid "Remove"
+msgstr "Supprimer"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:211
+msgid "Automatic update"
+msgstr "Mise à jour automatique"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:214
+msgid "Update now"
+msgstr "Mettre à jour maintenant"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:222
+msgid "Export"
+msgstr "Exporter"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-settings.php:238
+msgid "Excluded IPs"
+msgstr "Adresses IP exclues"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-common.php:114
+msgid "FireStats is properly installed in the database"
+msgstr "FireStats est correctement installé dans la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-common.php:117
+msgid "FireStats is not configured"
+msgstr "FireStats n'est pas configuré"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-common.php:120
+msgid "Database error, check your configuration"
+msgstr "Erreur de base de donnée, vérifiez la configuration"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-common.php:123
+msgid "FireStats is not installed in the database"
+msgstr "FireStats n'est pas installé dans la base de données"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-common.php:126
+msgid "FireStats database need to be upgraded"
+msgstr "La base de donnée de FireStats doit être mise à jour"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-common.php:129
+msgid "The FireStats database version is newer this code version, you need to upgrade FireStats"
+msgstr "La version de la base de donnée de FireStats est plus récente que l'installation de FireStats, vous devez mettre à jour FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-common.php:135
+msgid "Unknown database status code"
+msgstr "Code d'état de la base de donnée inconnu"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:103
+msgid "Database status"
+msgstr "Onglet base de données"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:138
+msgid "Click to upgrade"
+msgstr "Cliquez pour mettre à jour"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:139
+msgid "Upgrade"
+msgstr "Mise à jour"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:165
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Source de la configuration : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:171
+msgid "To use wordpress database, click this button."
+msgstr "Pour utiliser la base de donnée de Wordpress, cliquez sur ce bouton."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:172
+msgid "FireStats database configuration will be lost."
+msgstr "La configuration de la base de donnée de FireStats sera perdue."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:173
+msgid "Use Wordpress database"
+msgstr "Utilise la base de donnée de Wordpress"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:184
+msgid "To perform one of the following actions:"
+msgstr "Effectuez une de ces actions :"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:186
+msgid "Attach to an existing FireStats installation"
+msgstr "Lier à une installation existante de FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:187
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:307
+msgid "Install FireStats into an existing database"
+msgstr "Installer FireStats dans une base de donnée existante"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:188
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:310
+msgid "Create a new database and install FireStats there"
+msgstr "Créer et installer FireStats dans une nouvelle base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:190
+msgid "Follow instructions in the help"
+msgstr "Suivez les instructions dans l'aide"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:199
+msgid "Database host"
+msgstr "Hôte de la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:205
+msgid "Database name"
+msgstr "Nom de la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:211
+msgid "Database user name"
+msgstr "Utilisateur de la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:217
+msgid "Database password"
+msgstr "Mot de passe de la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:223
+msgid "Tables prefix"
+msgstr "Préfixe des tables"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:232
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:305
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:308
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:311
+msgid "Test connection"
+msgstr "Tester la connexion"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:242
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Cliquez pour installer et utiliser les nouvelles tables de FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:245
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:308
+msgid "Install tables"
+msgstr "Installer les tables"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:254
+msgid "Click to use this FireStats database"
+msgstr "Cliquez pour utiliser cette base de donnée FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:258
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:305
+msgid "Use this database"
+msgstr "Utiliser cette base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:270
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "Pour créer une nouvelle base de donnée, un utilisateur administrateur peut être utilisé dans ces champs."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:271
+msgid "However, For security reason, it is recommanded not to use a database administrator user for day to day operations."
+msgstr "Cependant, pour des raisons de sécurité, il est recommandé de ne pas utiliser l'utilisateur administrateur pour les opérations de tous les jours."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:272
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "Entre le nouvel utilisateur et le nouveau mot de passe FireStats, cet utilisateur sera le seul à avoir accès à la base de donnée FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:273
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Si vous n'indiquez pas d'utilisateur et de mot de passe, l'utilisateur et le mot de passe administrateur seront utilisés."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:280
+msgid "FireStats User name"
+msgstr "Nom d'utilisateur FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:284
+msgid "FireStats password"
+msgstr "Mot de passe FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:290
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:311
+msgid "Create database"
+msgstr "Créer la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:303
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:314
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:158
+msgid "Help"
+msgstr "Aide"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:304
+msgid "Attach to an existing FireStats database"
+msgstr "Lier à une base de donnée existante de FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:305
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:308
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Entrez les paramètres dans la table, pressez %s puis %s."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:311
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Entrez les paramètres dans la table, <u>vous devez saisir le l'administrateur de la base de donnée</u>. pressez %s, puis entrez l'utilisateur de la base de donnée de FireStats et son mot de passe, et pour finir pressez %s."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:315
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:330
+msgid "Configuration locked"
+msgstr "Configuration verrouillée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:316
+msgid "To change the database configuration you need to unlock it, please enter the password."
+msgstr "Pour changer la configuration de la base de donnée, vous devez déverouiller la configuration, entrez le mot de passe."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:317
+#, php-format
+msgid "if you forgot your password you can simply delete the file %s from firestats/php directory."
+msgstr "Si vous avez oublié votre mot de passe vous pouvez simplement supprimerr le fichier %s du répertoire firestats/php."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:331
+msgid "Database configuration is locked, to unlock for 5 minutes enter the lock password."
+msgstr "La configuration de la base de donnée est verrouillée. Pour la déverrouiller entrez le mot de passe."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:333
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:341
+msgid "Password"
+msgstr "Mot de passe"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:334
+msgid "Unlock"
+msgstr "Déverrouiler"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:338
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:80
+msgid "Configuration unlocked"
+msgstr "Configuration déverrouillée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:339
+msgid "Database configuration is open for changes, enter a password to lock."
+msgstr "La configuration de la base de donnée est ouverte, entrez un mot de passe pour la verrouiller."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-database.php:342
+msgid "Lock"
+msgstr "Verrous"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:87
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:201
+msgid "Error creating temporary file"
+msgstr "Erreur de création du fichier temporaire"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:96
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "Erreur de connection à %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:101
+#, php-format
+msgid "Error sending request to %s"
+msgstr "Erreur durant l'envoie de la requète à %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:115
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Erreur de lecture des données de %s : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:142
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "Erreur d'extraction de la base de donnée IP-to-country: %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:147
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Type de fichier non supporté : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:160
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "Impossible de mettre à jour la base de donnée ip-to-country, le répertoire est en lecture seule: %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:162
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:164
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "Impossible de mettre à jour la base de donnée ip-to-country, le ficher est en lecture seule: %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:179
+msgid "Error installing new IP-to-country database"
+msgstr "Erreur durant l'installation de la nouvelle base de donnée IP-to-country"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:185
+msgid "Successfuly updated IP-to-country database"
+msgstr "Mise à jour de la base de donnée IP-to-country réussie"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ip2country.php:189
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "Erreur de mise à jour de version du fichier : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:19
+msgid "Error accessing database"
+msgstr "Erreur d'accès à la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:25
+msgid "Cannot write configuration file (read only file or directory)"
+msgstr "Impossible d'écrire le fichier de configuration (le fichier ou le répertoire est en lecture seule)"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:28
+msgid "Error creating database"
+msgstr "Erreur de création de la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:31
+msgid "Error creating user"
+msgstr "Erreur de création de l'utilisateur"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:34
+msgid "Error creating tables"
+msgstr "Erreur de création de tables"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:37
+msgid "Error saving configuration"
+msgstr "Erreur de sauvegarde de la configuration"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:40
+msgid "Password not specified"
+msgstr "Mot de passe non spécifié"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:43
+msgid "Wrong password"
+msgstr "Mot de passe incorrect"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:53
+msgid "FireStats tables are not installed"
+msgstr "Les tables de FireStats ne sont pas installés"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:58
+msgid "FireStats is installed"
+msgstr "FireStats est installé"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:63
+msgid "Another FireStats database detected"
+msgstr "Une autre base de donnée FireStats a été détectée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:68
+msgid "New database created successfuly"
+msgstr "La nouvelle base de donnée a été créee avec succès"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:72
+msgid "Configuration is locked"
+msgstr "La configuration est verrouillée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:75
+msgid "Error changing lock file"
+msgstr "Erreur durant le changement du fichier de verrous"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:83
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Code d'erreur inattendu %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:311
+msgid "Not configured"
+msgstr "N'est pas configuré"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:314
+msgid "FireStats configuration file"
+msgstr "Fichier de configuration de FireStats"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:317
+msgid "Wordpress configuration file"
+msgstr "Fichier de configuration de Wordpress"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-import.php:24
+msgid "Counterize not detected"
+msgstr "Counterize n'est pas détecté"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:22
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:24
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:65
+msgid "Automatic"
+msgstr "Automatique"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:91
+msgid "Delete"
+msgstr "Effacer"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:91
+msgid "Transfer"
+msgstr "Transférer"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:103
+msgid "Manage sites"
+msgstr "Gestion des sites"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:118
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:323
+msgid "Clear"
+msgstr "Nettoyer"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:125
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:148
+msgid "Close"
+msgstr "Fermer"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:133
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Cela va effacer ce site de la base de données, l'opération est irréversible!"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:134
+msgid "What do you want to do with the site hits?"
+msgstr "Que voulez-vous faire avec les hits du site ?"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:137
+msgid "Delete all the hits"
+msgstr "Effacer tous les Hits"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:138
+msgid "Transfer the hits to another site"
+msgstr "Transférer les Hits vers un autre site"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:141
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Entrez un identifiant de site pour y transférer les hits."
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:159
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Attention, vous pouvez faire beaucoup de dégats ici, faites attention!"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:161
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "Firestats peut collecter des statistiques de plusieurs sites (sur un seul serveur)"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:163
+msgid "The site need to be registered in the sites table"
+msgstr "Ce site a besoin d'être enregistré dans la table des sites"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:164
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "Le site devrait être configuré pour utiliser son identifiant lorsqu'il reporte un Hit, cliquez sur le bouton d'aide a côté du site que vous venez de créer pour plus d'informations."
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-sites.php:167
+#, php-format
+msgid "Click %s for more information"
+msgstr "Cliquez sur %s pour plus d'informations"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:37
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:150
+msgid "Visits"
+msgstr "Visites"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:38
+msgid "Installed"
+msgstr "Installé"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:48
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain.<br/>"
+msgstr "Même si FireStats est gratuit, son développement et sa maintenance nécessitent beaucoup de travail.<br/>"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:49
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated.<br/>"
+msgstr "Si vous aimez FireStats et voulez montrer votre soutient pour le travail effectué. Vous pouvez faire un petit don. Même $5 seraient grandement appréciés."
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:52
+msgid "Yeah, I want to help"
+msgstr "Oui, Je veux aider"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:53
+msgid "Nah, go away"
+msgstr "Non, laisser tomber"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:54
+msgid "Maybe later"
+msgstr "Plus tard peut être"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:55
+msgid "Already donated"
+msgstr "J'ai déjà donné"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:66
+#, php-format
+msgid "%d seconds ago"
+msgstr "il y a %d secondes"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:69
+#, php-format
+msgid "%d minutes ago"
+msgstr "il y a %d minutes"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:72
+msgid "one hour ago"
+msgstr "il y a une heure"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:75
+#, php-format
+msgid "%d hours ago"
+msgstr "il y a %d heures"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:78
+msgid "one day ago"
+msgstr "il y a un jour"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:81
+#, php-format
+msgid "%d days ago"
+msgstr "il y a %d jours"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:84
+#, php-format
+msgid "%d weeks ago"
+msgstr "il y a %d semaines"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:87
+#, php-format
+msgid "%d months ago"
+msgstr "il y a %d mois"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/donation-window.php:90
+#, php-format
+msgid "%d years ago"
+msgstr "il y a %d ans"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:68
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:102
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:117
+msgid "Refresh statistics"
+msgstr "Rafraîchir les statistiques"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:91
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/js/firestats.js.php:211
+msgid "Not a positive number : "
+msgstr "N'est pas un nombre positif :"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:137
+msgid "Auto refresh every"
+msgstr "Rafraîchir automatiquement toutes les"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:140
+msgid "minutes"
+msgstr "minutes"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:141
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:174
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:199
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:266
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:328
+msgid "Apply"
+msgstr "Actualiser"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:146
+msgid "Status"
+msgstr "Etat"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:151
+msgid "Page views in last 24 hours"
+msgstr "Pages vues des 24 dernières heures"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:152
+msgid "Visits in last 24 hours"
+msgstr "Visites des 24 dernières heures"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:158
+msgid "Recent referrers"
+msgstr "Referers récents"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:162
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:188
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:254
+msgid "Maximum"
+msgstr "Maximum"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:169
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:193
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:213
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:234
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:261
+msgid "Days ago"
+msgstr "Jours à afficher"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:184
+msgid "Recent popular pages"
+msgstr "Pages populaires récentes"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:208
+msgid "Browsers"
+msgstr "Navigateurs"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:229
+msgid "Operating systems"
+msgstr "Systèmes d'exploitation"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:250
+msgid "Countries"
+msgstr "Pays"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:274
+msgid "Hits table"
+msgstr "Tableau des hits"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:278
+msgid "Number of hits to show"
+msgstr "Nombre de hits à afficher"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:295
+msgid "User agent"
+msgstr "User Agent"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-stats.php:299
+msgid "Filter"
+msgstr "filtre"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:13
+msgid "Import in progress"
+msgstr "Importation en cours"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:23
+msgid "You can import your hits from another statistics system here."
+msgstr "Vous pouvez importer vos hits depuis un autre système de statistiques ici."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:25
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:28
+msgid "Recalculate database cache"
+msgstr "Recalculer le cache de la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:26
+msgid "In case of data consistency problems, The database cache may need to be rebuilt."
+msgstr "En cas de problèmes d'uniformité de données, le cache de la base de donnée doit être reconstruit."
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:27
+msgid "Its not normally needed, but it does not cause any damage"
+msgstr "Ce n'est normalement pas necessaire, mais ça ne pause pas de problèmes"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:30
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:35
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:41
+msgid "Counterize"
+msgstr "Counterize"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:35
+#, php-format
+msgid "%s detected"
+msgstr "%s détecté"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/page-import.php:41
+#, php-format
+msgid "%s was not detected"
+msgstr "%s n'est pas détecté"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:24
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:53
+msgid "Site name not specified"
+msgstr "Nom du site non spécifié"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:36
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:57
+msgid "Site ID must be a positive number"
+msgstr "L'identifiant de site doit être un nombre positif"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:39
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:73
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "Un site avec l'identifiant %s existe déjà"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:64
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:115
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:131
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "Aucun site avec l'identifiant %s existe"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:174
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:211
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Adresse IP invalide : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:186
+#, php-format
+msgid "The IP address %s is already in the database"
+msgstr "L'adresse IP %s est déjà dans la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:247
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "Le robot %s est déjà dans la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:790
+msgid "Others"
+msgstr "Autres"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/db-sql.php:857
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Erreur d'ouverture du fichier :  %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:7
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:14
+msgid "Import bots list"
+msgstr "importer la liste des robots"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:25
+msgid "Select bot-list file"
+msgstr "Sélectionner le fichier de liste de robots"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:26
+msgid "Import type"
+msgstr " type d'import"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:28
+msgid "Add to bots list"
+msgstr "Ajouter à la liste des robots"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:29
+msgid "Replace bots list"
+msgstr "Remplacer la liste des robots"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:31
+msgid "Send File"
+msgstr "Envoyer le fichier"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:41
+msgid "Incorrect file format"
+msgstr "Format de fichier incorrect"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:53
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Erreur d'import de la liste des robots : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:58
+msgid "bots list imported successfully"
+msgstr "La nouvelle liste de robots a été importée avec succès"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:41
+msgid "User name and password are required to connect to database"
+msgstr "Un nom d'utilisateur et un mot de passe sont necessaire pour ce connecter à la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:42
+msgid "Error establishing mySQL database connection"
+msgstr "Erreur de connexion à la base de donnée mySQL"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Database name is required to connect to database"
+msgstr "Le nom de la base de donnée est necessaire pour ce connecter à la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:44
+msgid "mySQL database connection is not active"
+msgstr "La connexion à la base de donnée mySQL n'est pas active"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:45
+msgid "Unexpected error while querying database"
+msgstr "Erreur inatendue lors d'une requête sur la base de donnée"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:122
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:133
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "Impossible de ce déconnecter : %s"
+
+# C:\Documents
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:133
+msgid "Not connected"
+msgstr "Non connecté"
+
+#: /home/bb2k/workspace/firestats/branches/firestats-1.2/firestats/js/firestats.js.php:525
+#, fuzzy
+msgid "Session expired, press ok to reload"
+msgstr "La session à expiré. Appuyez sur OK pour recharger la page."
+

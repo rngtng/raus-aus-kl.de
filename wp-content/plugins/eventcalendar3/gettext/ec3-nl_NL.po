@@ -1,0 +1,270 @@
+# Event Calendar plug-in for WordPress.
+# Copyright (C) 2006, Alex Tingle
+# This file is distributed under the same license as the wpcal package.
+# Alex Tingle <alex DOT ec3pot AT firetree.net>, 2005.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wpcal 3.1._pre15\n"
+"Report-Msgid-Bugs-To: eventcalendar@firetree.net\n"
+"POT-Creation-Date: 2006-10-25 20:42+0100\n"
+"PO-Revision-Date: 2006-10-05 20:03+0100\n"
+"Last-Translator: Gerjan Boer <gerjan@famboer.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin.php:80
+#, fuzzy
+msgid "Event Editor"
+msgstr "Event programma editor"
+
+#: admin.php:87
+msgid "Start"
+msgstr "Start"
+
+#: admin.php:88
+msgid "End"
+msgstr "Einde"
+
+#: admin.php:89
+msgid "All Day"
+msgstr "De hele dag"
+
+#: admin.php:90
+msgid "Repeat"
+msgstr "Herhaal"
+
+#: admin.php:111
+msgid "Add a new event"
+msgstr ""
+
+#: admin.php:161
+msgid "Delete this event"
+msgstr ""
+
+#: admin.php:287
+msgid "Error upgrading database for EventCalendar plugin."
+msgstr ""
+
+#: admin.php:348
+#, php-format
+msgid "Upgraded database to EventCalendar Version %s"
+msgstr ""
+
+#: admin.php:352
+msgid "Table already existed"
+msgstr ""
+
+#: admin.php:380 admin.php:390 admin.php:435
+msgid "Event Calendar Options"
+msgstr "Event Kalender Opties"
+
+#: admin.php:439
+msgid "Event category"
+msgstr "Event categorie"
+
+#: admin.php:449
+msgid ""
+"Event posts are put into this category for you. Don't make this your default "
+"post category."
+msgstr ""
+
+#: admin.php:455
+#, fuzzy
+msgid "Show schedule within posts"
+msgstr "Geef de event box weer in berichten"
+
+#: admin.php:459
+msgid "Show Schedule"
+msgstr "Geef weer"
+
+#: admin.php:462
+msgid "Hide Schedule"
+msgstr "Verbergen"
+
+#: admin.php:469
+msgid "Show events as blog entries"
+msgstr "Laat events zien als blog berichten"
+
+#: admin.php:473
+msgid "Events are Normal Posts"
+msgstr "Events zijn normale berichten"
+
+#: admin.php:476
+msgid "Keep Events Separate"
+msgstr "Houd events apart"
+
+#: admin.php:480
+msgid ""
+"Keep Events Separate: the Event Category page shows future events, in date "
+"order. Events do not appear on front page."
+msgstr ""
+"Houd events apart: de event categorie pagina laat toekomstige events zien,"
+"gesorteerd op datum. Events verschijnen niet op de home page."
+
+#: admin.php:486 admin.php:498
+msgid "Timezone"
+msgstr ""
+
+#: admin.php:490
+msgid "unknown"
+msgstr ""
+
+#: admin.php:494
+msgid ""
+"You cannot change your timezone. Turn off PHP's 'safe mode' or upgrade to "
+"PHP5."
+msgstr ""
+
+#: admin.php:510
+msgid "Calendar Display"
+msgstr "Kalender display"
+
+#: admin.php:515
+msgid "Number of months"
+msgstr "Aantal maanden"
+
+#: admin.php:522
+msgid "Show all categories in calendar"
+msgstr "Laat alle categoriën in de kalender zien"
+
+#: admin.php:526
+msgid "Only Show Events"
+msgstr "Laat alleen events zien"
+
+#: admin.php:529
+msgid "Show All Posts"
+msgstr "Laat alle berichten zien"
+
+#: admin.php:536
+msgid "Show day names as"
+msgstr "Geef dagnamen weer als"
+
+#: admin.php:540
+msgid "Single Letter"
+msgstr "Een letter"
+
+#: admin.php:543
+msgid "3-Letter Abbreviation"
+msgstr "3-letter afkorting"
+
+#: admin.php:546
+msgid "Full Day Name"
+msgstr "Volledige dagnaam"
+
+#: admin.php:553
+msgid "Show Event Calendar logo"
+msgstr "Geef Event Kalender logo weer"
+
+#: admin.php:557
+msgid "Show Logo"
+msgstr "Geef logo weer"
+
+#: admin.php:560
+msgid "Hide Logo"
+msgstr "Verberg logo"
+
+#: admin.php:567
+msgid "Position of navigation links"
+msgstr "Positie van navigatie links"
+
+#: admin.php:571
+msgid "Above Calendar"
+msgstr "Boven de kalender"
+
+#: admin.php:574
+msgid "Below Calendar"
+msgstr "Onder de kalender"
+
+#: admin.php:577
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: admin.php:581
+msgid ""
+"The navigation links are more usable when they are above the calendar, but "
+"you might prefer them below or hidden for aesthetic reasons."
+msgstr ""
+"De navigatie links zijn handiger als ze boven de kalender staan, maar je kan "
+"voorkeur hebben voor onder de kalender of verborgen, om vormgevingsredenen"
+
+#: admin.php:587
+msgid "Popup event lists"
+msgstr "Popup event lijsten"
+
+#: admin.php:591
+msgid "Show Popups"
+msgstr "Geef popups weer"
+
+#: admin.php:594
+msgid "Hide Popups"
+msgstr "Verberg popups"
+
+#: admin.php:598
+msgid "You might want to disable popups if you use Nicetitles."
+msgstr "Je kan popups eventueel uitschakelen als je Nicetitles gebruikt"
+
+#: admin.php:611
+msgid "EXAMPLE SIDEBAR CODE:"
+msgstr ""
+
+#: template-functions.php:29
+msgid "You must choose an event category."
+msgstr ""
+
+#: template-functions.php:32 widget.php:83 widget.php:146
+#: K2/ec3_sidebar_module.php:64
+msgid "Go to Event Calendar Options"
+msgstr "Ga naar Event Kalender opties"
+
+#: template-functions.php:91
+msgid "Subscribe to iCalendar."
+msgstr "Meld je aan voor iCalendar"
+
+#: template-functions.php:155 template-functions.php:435
+msgid "all day"
+msgstr "de hele dag"
+
+#: template-functions.php:271 widget.php:91 widget.php:95
+#: K2/ec3_sidebar_module.php:31
+msgid "Event Calendar"
+msgstr "Event Kalender"
+
+#: template-functions.php:351 widget.php:155 widget.php:159
+#: K2/ec3_sidebar_module.php:71 K2/ec3_sidebar_module.php:77
+msgid "Upcoming Events"
+msgstr "Nabije events"
+
+#: template-functions.php:451
+msgid "No events."
+msgstr "Geen events"
+
+#: template-functions.php:488 template-functions.php:502
+#: template-functions.php:514
+msgid "to"
+msgstr "tot"
+
+#: widget.php:139
+msgid "Number of events:"
+msgstr "Aantal events"
+
+#~ msgid "Schedule Editor"
+#~ msgstr "Event programma editor"
+
+#~ msgid "Show"
+#~ msgstr "Geef weer"
+
+#~ msgid "Hide"
+#~ msgstr "Verbergen"
+
+#~ msgid "EventCalendar module"
+#~ msgstr "EventKalender module"
+
+#~ msgid "Options set."
+#~ msgstr "Opties bewaard."
+
+#~ msgid "Update options"
+#~ msgstr "Wijzig opties"

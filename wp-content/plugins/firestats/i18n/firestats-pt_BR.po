@@ -1,0 +1,1699 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FireStats 0.9.5-beta\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-03-16 07:35-0300\n"
+"Last-Translator: Fábio Nogueira <deb-user-ba@ubuntu.com>\n"
+"Language-Team: Fábio Nogueira <deb-user-ba@ubuntu.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: fs_e;fs_r;pt_BR\n"
+"X-Poedit-Basepath: /home/ubuntuser/dev/firestats-1.2/\n"
+"X-Poedit-SearchPath-0: /home/ubuntuser/dev/firestats-1.2\n"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:130
+#: /home/ubuntuser/dev/firestats-1.2/firestats/index.php:20
+#: /home/ubuntuser/dev/firestats-1.2/firestats/index.php:43
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:49
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/footer.php:31
+msgid "FireStats"
+msgstr "FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:130
+msgid "Loading..."
+msgstr "Carregando..."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:49
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:149
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Total : %s acessos e %s acessos únicos"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:50
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:150
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "Últimas 24 horas : %s acessos e %s acessos únicos"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:208
+msgid "Only blog administrators can access FireStats"
+msgstr "Somente administradores do blog podem acessar o FireStats"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:474
+msgid "Pages displayed : "
+msgstr "Páginas exibidas :"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:11
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:475
+msgid "Unique visitors : "
+msgstr "Acessos únicos :"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:476
+msgid "Pages displayed in last 24 hours : "
+msgstr "Acessos nas últimas 24 horas :"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:13
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:477
+msgid "Unique visitors in last 24 hours : "
+msgstr "Acessos únicos nas últimas 24 horas :"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:528
+msgid "pages viewed"
+msgstr " páginas visualizadas"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:528
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:529
+msgid "today"
+msgstr "hoje"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:529
+msgid "visits"
+msgstr " visitas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: /home/ubuntuser/dev/firestats-1.2/firestats/firestats-wordpress.php:538
+msgid "Powered by FireStats"
+msgstr "Produzido pelo FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:296
+#: /home/ubuntuser/dev/firestats-1.2/firestats/index.php:23
+msgid "FireStats is installed inside WordPress"
+msgstr "Firestats está instalado no Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:26
+#: /home/ubuntuser/dev/firestats-1.2/firestats/index.php:24
+msgid "Please access it from the WordPress admin interface"
+msgstr "Por favor, acesse através da interface de administração do Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:69
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:190
+#: /home/ubuntuser/dev/firestats-1.2/firestats/js/firestats.js.php:211
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:91
+msgid "Not a positive number : "
+msgstr "Não é um número positivo :"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/js/firestats.js.php:525
+msgid "Session expired, press ok to reload"
+msgstr "Sessão expirada, pressione ok para recarregar"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:62
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:153
+#, php-format
+msgid "Unsupported action code : %s"
+msgstr "Código de ação não suportado: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:69
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:162
+#, php-format
+msgid "Unexpexted output: %s"
+msgstr "Saída inesperada: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:81
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:174
+#, php-format
+msgid "Saved %d entries to show"
+msgstr "Entradas %d salvas para exibir"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:83
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:176
+msgid "Saved"
+msgstr "Salvo"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:94
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:188
+#, php-format
+msgid "Imported %d records from Counterize"
+msgstr "Importados %d registros desde Counterize"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:189
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:116
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:218
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:36
+msgid "Import"
+msgstr "Importar"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:99
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:194
+#, php-format
+msgid "An Error occured while importing from Counterize : %s"
+msgstr "Ocorreu um erro durante a importação de Counterize : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:110
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:205
+#, php-format
+msgid "Added %s to exclude list"
+msgstr "%s Adicionado a lista de exclusão"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:126
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:222
+#, php-format
+msgid "Removed %s from exclude list"
+msgstr "%s removido da lista de exclusão"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:171
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:318
+msgid "Excluded users list saved"
+msgstr "Lista de usuários excluídos salva"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:336
+#, php-format
+msgid "Added %s to bots list"
+msgstr "Adicionado %s a lista de BOT's"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:201
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:349
+msgid "Empty string is not allowed"
+msgstr "Não é permitida strings vazias"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:211
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:359
+msgid "Removed"
+msgstr "Removido"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:290
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:410
+msgid "Not using configuration file"
+msgstr "Sem utilizar o arquivo de configuração"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:296
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:417
+msgid "Not installed inside Wordpress"
+msgstr "Não instalado no Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:306
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:428
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "Falha ao apagar fs-config.php : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:449
+msgid "Error creating config file: "
+msgstr "Erro ao criar arquivo de configuração:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:354
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:472
+msgid "Error upgrading tables"
+msgstr "Erro ao atualizar tabelas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:354
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:497
+msgid "Error installing tables"
+msgstr "Erro instalando tabelas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:608
+msgid "Error rebuilding database cache"
+msgstr "Erro reconstruindo o cache do banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:354
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:612
+msgid "Database cache rebuilt successfully"
+msgstr "Cache do banco de dados reconstruída com sucesso"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/ajax-handler.php:515
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:686
+#, php-format
+msgid "Unkown field: %s"
+msgstr "Campo desconhecido: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:721
+msgid "IP-to-country database is already up-to-date"
+msgstr "Banco de dados do IP-to-country já atualizado"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:728
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "Ocorreu um erro ao tentar atualizar o banco de dados IP-to-country"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:732
+msgid "file"
+msgstr "arquivo"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:734
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Você pode atualizar o banco da dados manualmente baixando este %s e extraindo dentro de %s "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:739
+msgid "this"
+msgstr "isto"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:741
+#, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "Você pode atualizar o banco da dados manualmente abrindo %s e baixando o <b>zip_url</b>, e extraindo dentro de %s "
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:743
+msgid "Error"
+msgstr "Erro"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:765
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:784
+#, php-format
+msgid "Error updating bots list: %s"
+msgstr "Erro ao atualizar a lista de bots: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:777
+msgid "Successfully updated bots list"
+msgstr "ALista de bots atualizada com sucesso"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:799
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Erro limpando registros excluídos: %s"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:804
+msgid "Purged excluded records"
+msgstr "Limpados registros excluídos"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ajax-handler.php:886
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:22
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-common.php:132
+msgid "Error connecting to database"
+msgstr "Erro ao conectar o banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/version-check.php:41
+#, php-format
+msgid "Error getting version information from %s : %s"
+msgstr "Erro ao obter informações de %s : %s"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/version-check.php:123
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "Uma nova versão do banco de dados IP-to-country está disponível! Você pode atualiza-lo através da aba configurações"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:71
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/version-check.php:146
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "Versão %s disponível! clique %s para maiores informações"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/version-check.php:148
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:35
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:40
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:168
+msgid "here"
+msgstr "aqui"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/version-check.php:172
+#, php-format
+msgid "Error opening %s"
+msgstr "Erro abrindo %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/export-bots-list.php:21
+msgid "Error exporting bots list"
+msgstr "Erro ao exportar lista de bots"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:46
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:12
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:33
+msgid "Support FireStats"
+msgstr "Suporte do FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/tabbed-pane.php:32
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:51
+msgid "Demo"
+msgstr "Demo"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:32
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:61
+msgid "Hide"
+msgstr "Ocultar"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:67
+msgid "No"
+msgstr "Não"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:68
+msgid "Yes"
+msgstr "Sim"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:45
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:94
+msgid "Statistics"
+msgstr "Estatísticas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:49
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:98
+msgid "Settings"
+msgstr "Configurações"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:104
+msgid "WordPress settings"
+msgstr "Configurações do Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:112
+msgid "Database"
+msgstr "Banco de dados"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/tabbed-pane.php:120
+msgid "Sites management"
+msgstr "Gerenciamento de sites"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1482
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-hit.php:272
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:822
+#, php-format
+msgid "Database error: %s"
+msgstr "Erro no banco de dados: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1384
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-import.php:24
+msgid "Counterize not detected"
+msgstr "Counterize não detectado"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/import-bots-list.php:7
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/import-bots-list.php:14
+msgid "Import bots list"
+msgstr "Importar lista de bots"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/import-bots-list.php:25
+msgid "Select bot-list file"
+msgstr "Selecionar arquivo de lista de bots"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/import-bots-list.php:26
+msgid "Import type"
+msgstr "Tipo de Importação"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/import-bots-list.php:28
+msgid "Add to bots list"
+msgstr "Adicionar à lista de bots"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:92
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/import-bots-list.php:29
+msgid "Replace bots list"
+msgstr "Substituir lista de bots"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/import-bots-list.php:31
+msgid "Send File"
+msgstr "Enviar Arquivo"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/import-bots-list.php:41
+msgid "Incorrect file format"
+msgstr "Formato de arquivo inválido"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/import-bots-list.php:53
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Erro ao importar lista de bots : %s "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:198
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/import-bots-list.php:58
+msgid "bots list imported successfully"
+msgstr "Lista de bots importada com sucesso"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/ajax-handler.php:515
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:34
+msgid "Unknown site type"
+msgstr "Tipo de site desconhecido"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-help.php:2
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:77
+msgid "Collect hits from PHP pages"
+msgstr "Coletar acessos das páginas PHP"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:14
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:78
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "Para permitir que o FireStats controle o acesso de suas páginas, você precisa adicionar a seguinte linha dentro do cabeçalho de cada uma das páginas que deseja monitorar (deve ser uma página PHP)."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:21
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:84
+msgid "A typical page header will look like this:"
+msgstr "Um cabeçalho típico de página seria algo parecido como isto:"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:101
+msgid "WordPress"
+msgstr "Wordpress"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:102
+msgid "The WordPress plugin registers itself automatically when the its activated"
+msgstr "O plug-in do Wordpress se registra ele mesmo automaticamente quando for ativado"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:108
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:116
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:131
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:137
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:149
+msgid "plugin"
+msgstr "plugin"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:124
+msgid "module"
+msgstr "módulo"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-help.php:2
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:168
+#, php-format
+msgid "Collect hits from a %s site"
+msgstr "Coletar acessos do site %s"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:189
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "e então configure-o no menu administração com o caminho %s e a identificação %s"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:199
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "e então edite as linhas em %s para que tenha isto:"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/help-window.php:206
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "Para coletar estatísticas do seu site %s, você precisa instalar o %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:19
+msgid "Error accessing database"
+msgstr "Erro acessando o banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:25
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:25
+msgid "Cannot write configuration file (read only file or directory)"
+msgstr "Impossível escrever no arquivo de configuração (arquivo de somente-leitura ou diretório)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:28
+msgid "Error creating database"
+msgstr "Erro ao criar o banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:31
+msgid "Error creating user"
+msgstr "Erro ao criar o usuário"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:34
+msgid "Error creating tables"
+msgstr "Erro ao criar tabelas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:290
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:37
+msgid "Error saving configuration"
+msgstr "Erro salvando configuração"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:40
+msgid "Password not specified"
+msgstr "Senha não especificada"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:43
+msgid "Wrong password"
+msgstr "Senha incorreta"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:110
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:53
+msgid "FireStats tables are not installed"
+msgstr "As tabelas do FireStats não estão instaladas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:58
+msgid "FireStats is installed"
+msgstr "Firestats está instalado"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:124
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:63
+msgid "Another FireStats database detected"
+msgstr "Detectado outro banco de dados do FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:198
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:68
+msgid "New database created successfuly"
+msgstr "Novo banco de dados criado com sucesso"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:22
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:72
+msgid "Configuration is locked"
+msgstr "Configuração bloqueada"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:75
+msgid "Error changing lock file"
+msgstr "Erro ao modificar arquivo de bloqueio"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:22
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:80
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:338
+msgid "Configuration unlocked"
+msgstr "Configuração desbloqueada"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:45
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:83
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Código de error inesperado %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:15
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:311
+msgid "Not configured"
+msgstr "Não configurado"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:11
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:314
+msgid "FireStats configuration file"
+msgstr "Arquivo de configuração do FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:13
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-config-utils.php:317
+msgid "Wordpress configuration file"
+msgstr "Arquivo de configuração do Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:45
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:30
+msgid "Statistics widget"
+msgstr "Widget de estatísticas"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:45
+#, php-format
+msgid "You can configure the sidebar widget from %s"
+msgstr "Você pode configurar a barra lateral do widget através de %s"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:49
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "O widget de estatísticas necessita do plugin %s para o uso otimizado."
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:52
+msgid "Widgets"
+msgstr "Widgets"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:54
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Você pode adicionar manualmente o seguinte código ao seu tema da barra lateral:"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:62
+msgid "Comments icons"
+msgstr "Ícones de comentários"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:70
+msgid "Add flag icon to comments"
+msgstr "Adicionar ícone de sinal aos comentários"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:79
+msgid "Add browser and operating system icons to comments"
+msgstr "Adicionar ícones do navegador e sistema operacional aos comentários"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:84
+msgid "Blog footer"
+msgstr "Rodapé do blog"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:92
+msgid "Add FireStats footer to blog"
+msgstr "Adicionar o rodapé FireStats ao blog"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:101
+msgid "Show statistics in footer"
+msgstr "Exibir estatísticas no rodapé"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:73
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:109
+msgid "Excluded users"
+msgstr "Usuários excluídos"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:13
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:77
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:113
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:135
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:132
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:148
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:218
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:239
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:283
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:126
+msgid "Save"
+msgstr "Salvar"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:128
+msgid "Advanced"
+msgstr "Avançado"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:129
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "Identificação do site Wordpress, cada acesso deste blog será gravado com isto como identificação da fonte do site."
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-wordpress-settings.php:130
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "Este deverá ser a mesma identificação que a identificação do site na tabela de sites. Normalmente você não precisará alterar isto."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:97
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:17
+msgid "You need to select an bot you want to remove from the table"
+msgstr "Você precisa selecionar o bot que deseja eliminar da tabela"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:39
+msgid "Invalid IP address"
+msgstr "Endereço de IP inválido"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:128
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:48
+msgid "You need to select an IP address you want to remove from the table"
+msgstr "Você precisa selecionar o endereço IP que deseja eliminar da tabela"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:76
+msgid "Automatic version check"
+msgstr "Verificação automática da versão"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:23
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:84
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "Checar automaticamente se existe uma nova versão do FireStats (recomendado)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:93
+msgid "IP-to-country database"
+msgstr "Banco de dados IP-to-country"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:96
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "Versão do banco de dados do IP-to-country : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:23
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:101
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "Checar automaticamente se existe uma nova versão do banco de dados IP-to-country"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:103
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "Atualizar banco de dados IP-to-country (Somente se necessário)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:105
+msgid "Update"
+msgstr "Atualizar"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:113
+msgid "Options"
+msgstr "Opções"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:40
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:114
+msgid "Select language"
+msgstr "Selecionar idioma"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:45
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:122
+msgid "How to translate to a new language"
+msgstr "Como traduzir para um novo idioma"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:128
+msgid "Select your time zone"
+msgstr "Selecione seu fuso horário"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:138
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "A seleção de fuso hrário necessita de %s ou recente"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:142
+msgid "Select WHOIS provider"
+msgstr "Selecionar o provedor WHOIS"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:54
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:159
+msgid "Exclude hits"
+msgstr "Acessos excluídos"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:174
+msgid "Save excluded records (not recommended)"
+msgstr "Registros excluídos salvos (não recomendado)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:522
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:177
+msgid "Purge excluded records stored in the database"
+msgstr "Limpar registro excluídos gravados no banco de dados"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:180
+msgid "Purge"
+msgstr "Limpar"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:92
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:190
+msgid "Bots list"
+msgstr "Lista de bots"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:59
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:97
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:196
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:243
+msgid "Add"
+msgstr "Adicionar"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:60
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:98
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:197
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:244
+msgid "Remove"
+msgstr "Eliminar"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:211
+msgid "Automatic update"
+msgstr "Atualização automática"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:214
+msgid "Update now"
+msgstr "Atualizar agora"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:222
+msgid "Export"
+msgstr "Exportar"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:54
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-settings.php:238
+msgid "Excluded IPs"
+msgstr "IPs excluídos"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:52
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:80
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:3
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:68
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:102
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:117
+msgid "Refresh statistics"
+msgstr "Atualizar estatísticas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:36
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:137
+msgid "Auto refresh every"
+msgstr "Atualizar automaticamente a cada"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:39
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:140
+msgid "minutes"
+msgstr "minuto(s)"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:141
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:174
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:199
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:266
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:328
+msgid "Apply"
+msgstr "Aplicar"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:7
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:146
+msgid "Status"
+msgstr "Estado"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:149
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:36
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:33
+msgid "Page views"
+msgstr "Páginas visualizadas"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:150
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:37
+msgid "Visits"
+msgstr "Visitas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:151
+msgid "Page views in last 24 hours"
+msgstr "Páginas visualizadas nas últimas 24 horas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:152
+msgid "Visits in last 24 hours"
+msgstr "Visitas nas últimas 24 horas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:19
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:158
+msgid "Recent referrers"
+msgstr "Referências recentes"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:23
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:50
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:162
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:188
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:254
+msgid "Maximum"
+msgstr "Máximo"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:31
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:58
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:169
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:193
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:213
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:234
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:261
+msgid "Days ago"
+msgstr "Dias atrás"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:26
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:184
+msgid "Recent popular pages"
+msgstr "Páginas mais visitadas recentemente"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:33
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:208
+msgid "Browsers"
+msgstr "Navegadores"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:43
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:229
+msgid "Operating systems"
+msgstr "Sistemas operacionais"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:125
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:250
+msgid "Countries"
+msgstr "Países"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:52
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:274
+msgid "Hits table"
+msgstr "Tabela de acessos"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:8
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:278
+msgid "Number of hits to show"
+msgstr "Número de acessos a exibir"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:998
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:292
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:375
+msgid "IP"
+msgstr "IP"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1000
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:293
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:377
+msgid "URL"
+msgstr "URL"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1001
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:294
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:378
+msgid "Referrer"
+msgstr "Referência"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:295
+msgid "User agent"
+msgstr "Agente do usuário"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:299
+msgid "Filter"
+msgstr "Filtro"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-stats.php:323
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:118
+msgid "Clear"
+msgstr "Limpar"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:22
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:24
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:65
+msgid "Automatic"
+msgstr "Automático"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:91
+msgid "Delete"
+msgstr "Apagar"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:91
+msgid "Transfer"
+msgstr "Transferência"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:103
+msgid "Manage sites"
+msgstr "Gerenciar sites"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:110
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:30
+msgid "ID"
+msgstr "ID"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:122
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:31
+msgid "Name"
+msgstr "Nome"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:123
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:32
+msgid "Type"
+msgstr "Tipo"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:125
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:148
+msgid "Close"
+msgstr "Fechar"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:133
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Isto irá apagar este site do banco de dados, esta operação é irreversível!"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:134
+msgid "What do you want to do with the site hits?"
+msgstr "O que você deseja fazer com os acessos deste site?"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:137
+msgid "Delete all the hits"
+msgstr "Apagar todos os acessos"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:138
+msgid "Transfer the hits to another site"
+msgstr "Transferir os acessos para o outro site"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:141
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Entre com a identificação de um site existente para transferir os acessos"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:21
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:86
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:158
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:303
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:314
+msgid "Help"
+msgstr "Ajuda"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:159
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Atenção, você pode bagunçar as coisas a partir daqui, tenha muito cuidado!"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:161
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "O FireStats pode coletar estatísticas de vários sites (no mesmo servidor)."
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:163
+msgid "The site need to be registered in the sites table"
+msgstr "O site precisa ser registrado na tabela de sites"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:164
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "O site deve ser configurado para utilizar esta identificação quando reportar um acesso, para maiores informações clique no botão de ajuda próximo ao site que você criou"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-sites.php:167
+#, php-format
+msgid "Click %s for more information"
+msgstr "Clique em %s para maiores informações"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:87
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:201
+msgid "Error creating temporary file"
+msgstr "Erro ao criar arquivo temporário"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:96
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "Erro ao abrir conexão com %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/ip2country.php:27
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:101
+#, php-format
+msgid "Error sending request to %s"
+msgstr "Erro ao enviar pedido a %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:115
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Erro lendo dados de %s : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:142
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "Erro extraindo banco de dados do IP-to-country: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:62
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:147
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Tipo de arquivo não suportado: %s"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:160
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "Impossível atualizar banco de dados do IP-to-country, diretório com somente-leitura : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:162
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:164
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "impossível atualizar banco de dados IP-to-country, arquivo somente-leitura : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:179
+msgid "Error installing new IP-to-country database"
+msgstr "Erro instalando novo banco de dados IP-to-country"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:185
+msgid "Successfuly updated IP-to-country database"
+msgstr "Atualizado banco de dados IP-to-country com sucesso"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ip2country.php:189
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "Erro atualizando arquivo da versão: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:97
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:38
+msgid "Installed"
+msgstr "Instalado"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:48
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain.<br/>"
+msgstr "Mesmo sendo o FireStats gratuito, o mesmo necessita de muito tempo e trabalho árduo para desenvolvê-lo e mantê-lo.<br/>"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:49
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated.<br/>"
+msgstr "Se você gosta do FireStats e deseja mostrar o seu apoio pelo trabalho árduo realizado, podes fazer uma pequena doação. Mesmo 5 dólares serão bem-vindos.<br/>"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:52
+msgid "Yeah, I want to help"
+msgstr "Sim, Eu preciso de ajuda"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:53
+msgid "Nah, go away"
+msgstr "Não, caia fora"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:54
+msgid "Maybe later"
+msgstr "Talvez mais tarde"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:55
+msgid "Already donated"
+msgstr "Já contribui"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:66
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d segundos atrás"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:39
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:69
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d minutos atrás"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:72
+msgid "one hour ago"
+msgstr "uma hora atrás"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:75
+#, php-format
+msgid "%d hours ago"
+msgstr "%d hora(s) atrás"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:31
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:58
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:78
+msgid "one day ago"
+msgstr "Um dia atrás"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:31
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:58
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:81
+#, php-format
+msgid "%d days ago"
+msgstr "%d dias atrás"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:84
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d semana(s) atrás"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:87
+#, php-format
+msgid "%d months ago"
+msgstr "%d meses atrás"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:31
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:58
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/donation-window.php:90
+#, php-format
+msgid "%d years ago"
+msgstr "%d anos atrás"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-common.php:114
+msgid "FireStats is properly installed in the database"
+msgstr "Firestats está instalado corretamente no banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-common.php:117
+msgid "FireStats is not configured"
+msgstr "Firestats não está configurado"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:98
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-common.php:120
+msgid "Database error, check your configuration"
+msgstr "Erro no banco de dados, verifique suas configurações"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-common.php:123
+msgid "FireStats is not installed in the database"
+msgstr "Firestats não está instalado no banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:124
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-common.php:126
+msgid "FireStats database need to be upgraded"
+msgstr "O banco de dados do FireStats precisa ser atualizado"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:107
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-common.php:129
+msgid "The FireStats database version is newer this code version, you need to upgrade FireStats"
+msgstr "A versão do banco de dados é posterior a versão do programa, você precisa atualizar o FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:110
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-common.php:135
+msgid "Unknown database status code"
+msgstr "Código do estado do banco de dados desconhecido"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:103
+msgid "Database status"
+msgstr "Status do banco de dados"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:138
+msgid "Click to upgrade"
+msgstr "Clique para atualizar"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:139
+msgid "Upgrade"
+msgstr "Atualizar"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:22
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:165
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Origem da configuração : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:28
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:171
+msgid "To use wordpress database, click this button."
+msgstr "Para usar o banco de dados do Wordpress, clique neste botão."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:29
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:172
+msgid "FireStats database configuration will be lost."
+msgstr "A configuração do banco de dados do FireStats será perdida."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:30
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:173
+msgid "Use Wordpress database"
+msgstr "Utilizar o banco de dados do Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:50
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:184
+msgid "To perform one of the following actions:"
+msgstr "Para realizar uma das seguintes ações:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:52
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:186
+msgid "Attach to an existing FireStats installation"
+msgstr "Anexar a uma instalação existente do FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:53
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:187
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:307
+msgid "Install FireStats into an existing database"
+msgstr "Instalar FireStats num banco de dados existente"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:54
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:188
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:310
+msgid "Create a new database and install FireStats there"
+msgstr "Criar um novo banco de dados e instalar o FireStats nele"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:90
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:190
+msgid "Follow instructions in the help"
+msgstr "Siga as instruções da ajuda"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:199
+msgid "Database host"
+msgstr "Servidor do banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:65
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:205
+msgid "Database name"
+msgstr "Nome do banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:69
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:211
+msgid "Database user name"
+msgstr "Nome do usuário do banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:73
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:217
+msgid "Database password"
+msgstr "Senha do banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:77
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:223
+msgid "Tables prefix"
+msgstr "Prefixo para as tabelas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:84
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:232
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:305
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:308
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:311
+msgid "Test connection"
+msgstr "Testar conexão"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:94
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:242
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Clique para instalar e alternar para as tabelas novas do FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:97
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:245
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:308
+msgid "Install tables"
+msgstr "Instalar tabelas"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:106
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:254
+msgid "Click to use this FireStats database"
+msgstr "Clique para utilizar o banco de dados do FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:30
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:258
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:305
+msgid "Use this database"
+msgstr "Utilizar este banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:167
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:270
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "Para criar um novo banco de dados, um usuário administrador deve utilizar os campos a seguir."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:168
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:271
+msgid "However, For security reason, it is recommanded not to use a database administrator user for day to day operations."
+msgstr "Porém, por motivo de segurança, é recomendável não utilizar um usuário administrador para as operações diárias."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:169
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:272
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "Entre com o novo nome de usuário e senha para o FireStats, este usuário somente terá acesso ao banco de dados do FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:170
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:273
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Se você não especificar um usuário e senha, o usuário e senha do Administrador será utilizado."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:280
+msgid "FireStats User name"
+msgstr "Nome do usuário do Firestats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:284
+msgid "FireStats password"
+msgstr "Senha do FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:290
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:311
+msgid "Create database"
+msgstr "Criar banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:52
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:304
+msgid "Attach to an existing FireStats database"
+msgstr "Anexar a um banco de dados existente do FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:23
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:26
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:305
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:308
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Entre com os parâmetros na tabela, pressione %s e depois %s."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:29
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:311
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Entre com os parâmetros na tabela, <u> você precisa utilizar um usuário administrador do banco de dados </u>. Pressione %s, e depois entre com o usuário e a senha do banco de dados do FireStats, e para finalizar pressione %s."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:22
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:315
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:330
+msgid "Configuration locked"
+msgstr "Configuração bloqueada"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:222
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:316
+msgid "To change the database configuration you need to unlock it, please enter the password."
+msgstr "Para alterar a configuração do banco de dados, você precisa desbloquea-la, por favor entre com a senha."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:223
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:317
+#, php-format
+msgid "if you forgot your password you can simply delete the file %s from firestats/php directory."
+msgstr "Se você esqueceu sua senha, basta apagar o arquivo %s do diretório firestats/php."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:237
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:331
+msgid "Database configuration is locked, to unlock for 5 minutes enter the lock password."
+msgstr "Configuração do banco de dados bloqueada, entre com a senha para desbloquea-la por 5 minutos."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:239
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:247
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:333
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:341
+msgid "Password"
+msgstr "Senha"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:240
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:334
+msgid "Unlock"
+msgstr "Desbloquear"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:245
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:339
+msgid "Database configuration is open for changes, enter a password to lock."
+msgstr "A configuração do banco de dados está aberta para ser modificada, entre com uma senha para bloquea-la."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:248
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-database.php:342
+msgid "Lock"
+msgstr "Bloquear"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:116
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:13
+msgid "Import in progress"
+msgstr "Realizando importação"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:37
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:23
+msgid "You can import your hits from another statistics system here."
+msgstr "Você pode importar seus acessos de outro sistema de estatísticas aqui."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:25
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:28
+msgid "Recalculate database cache"
+msgstr "Recalcular cache do banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-import.php:7
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:26
+msgid "In case of data consistency problems, The database cache may need to be rebuilt."
+msgstr "No caso de problemas de inconsistência de dados, Pode-se reconstruir o cache do banco de dados."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-import.php:8
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:27
+msgid "Its not normally needed, but it does not cause any damage"
+msgstr "Normalmente não é necessário e isso não causará nenhum dano"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:125
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:30
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:35
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:41
+msgid "Counterize"
+msgstr "Counterize"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:35
+#, php-format
+msgid "%s detected"
+msgstr "%s detectado"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1384
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/page-import.php:41
+#, php-format
+msgid "%s was not detected"
+msgstr "%s não foi detectado"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:50
+msgid "How to integrate with this site"
+msgstr "Como integrar com este site"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1253
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:73
+msgid "Orphaned hits"
+msgstr "Acessos orfãos"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:85
+msgid "Add a new site"
+msgstr "Adicionar um novo site"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:120
+msgid "Generic PHP site"
+msgstr "Site PHP Genérico"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:122
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:124
+msgid "Django"
+msgstr "Django"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:126
+msgid "Drupal"
+msgstr "Drupal"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:128
+msgid "Gregarius"
+msgstr "Gregarius"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:130
+msgid "Joomla"
+msgstr "Joomla"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:132
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:134
+msgid "Trac"
+msgstr "Trac"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:10
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1226
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:136
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:586
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:610
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:656
+msgid "Unknown"
+msgstr "Desconhecido"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/html-utils.php:27
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:221
+msgid "Invalid"
+msgstr "Inválido"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:233
+msgid "All"
+msgstr "Tudo"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:234
+msgid "Show statistics from"
+msgstr "Exibir estatísticas de "
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:943
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:308
+msgid "unknown"
+msgstr "desconhecido"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:999
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:376
+msgid "TimeStamp"
+msgstr "Timestamp"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1002
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:379
+msgid "Image"
+msgstr "Imagem"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:380
+msgid "UserAgent"
+msgstr "UserAgent"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1024
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1047
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1217
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1319
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:401
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:434
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:577
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:666
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:701
+msgid "No data yet, go get some hits"
+msgstr "Ainda sem dados, ir buscar alguns acessos"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1112
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1145
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1170
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:496
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:520
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:546
+msgid "Empty"
+msgstr "Vazio"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1153
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:528
+msgid "excluded"
+msgstr "excluído"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1248
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:606
+#, php-format
+msgid "(%d hits) (%d more from %s)"
+msgstr "(%d acesso(s)) (%d mais de %s)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1253
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:611
+#, php-format
+msgid "%d hits"
+msgstr "%d acesso(s)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1270
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/html-utils.php:628
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d acesso(s) de %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:24
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:53
+msgid "Site name not specified"
+msgstr "Nome do site não informado"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:69
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:190
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:36
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:57
+msgid "Site ID must be a positive number"
+msgstr "A Identificação do site deve ser um número positivo"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:39
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:73
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "Um site com a identificação %s já existe"
+
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:64
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:115
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:131
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "Nenhum site com a identificação %s existe"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:453
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:487
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:174
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:211
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Endereço IP inválido: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:463
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:186
+#, php-format
+msgid "The IP address %s is already in the database"
+msgstr "O endereço IP %s já está em no banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:522
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:247
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "A máscara para o bot %s já está no banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:790
+msgid "Others"
+msgstr "Outros"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/db-sql.php:857
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Erro abrindo : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:41
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:41
+msgid "User name and password are required to connect to database"
+msgstr "Nome de usuário e senha são necessários para conectar o banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:42
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:42
+msgid "Error establishing mySQL database connection"
+msgstr "Erro conectando o banco de dados do MySQL"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:43
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Database name is required to connect to database"
+msgstr "Nome do banco de dados é necessário para conectar o banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:44
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:44
+msgid "mySQL database connection is not active"
+msgstr "A conexão ao banco de dados MySQL não está ativa"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:45
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:45
+msgid "Unexpected error while querying database"
+msgstr "Erro inesperado enquanto examinava o banco de dados"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:114
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:125
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:122
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:133
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "Não é posível desconectar: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:84
+#: /home/ubuntuser/dev/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:133
+msgid "Not connected"
+msgstr "Não conectado"
+

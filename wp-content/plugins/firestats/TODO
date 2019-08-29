@@ -1,0 +1,6 @@
+* hunt down TODOs in the code
+* Dynamic graphs.
+* Use session cookie to detect sessions.
+* Store post creation time and add info to graphs.
+* Track user actions (from page x to page y, posted a comment etc).
+* Check out the great openrico ajax toolkit : try to use the live grid for the table!

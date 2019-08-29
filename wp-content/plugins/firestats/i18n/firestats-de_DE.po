@@ -1,0 +1,1032 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FireStats\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-03-15 07:37+0100\n"
+"Last-Translator: johannes <johannes@nedso.org>\n"
+"Language-Team: Johannes P <johannes P>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German(Deutsch)\n"
+"X-Poedit-Country: Austria\n"
+"X-Poedit-KeywordsList: fs_r ;fs_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\Dateien\\firestats\n"
+
+msgid "FireStats"
+msgstr "FireStats "
+
+msgid "Loading..."
+msgstr "Laden..."
+
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Total: %s Treffer und %s unique Treffer"
+
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "Letzte 24 Stunden: %s Treffer und %s unique Treffer"
+
+msgid "Only blog administrators can access FireStats"
+msgstr "Nur blog Administratoren können auf FireStats zugreifen"
+
+msgid "Pages displayed : "
+msgstr "Angezeigte Seiten:"
+
+msgid "Unique visitors : "
+msgstr "Unique Besucher:"
+
+msgid "Pages displayed in last 24 hours : "
+msgstr "Seiten angezeigt in den letzten 24 Stunden"
+
+msgid "Unique visitors in last 24 hours : "
+msgstr "Unique Besucher der letzten 24 Stunden:"
+
+msgid "pages viewed"
+msgstr "Seiten angezeigt"
+
+msgid "today"
+msgstr "heute"
+
+msgid "visits"
+msgstr " Besuche"
+
+msgid "Powered by FireStats"
+msgstr "Powered by FireStats"
+
+msgid "FireStats is installed inside WordPress"
+msgstr "FireStats wurde in Wordpress installiert"
+
+msgid "Please access it from the WordPress admin interface"
+msgstr "Bitte über Wordpress Admin-Interface darauf zugreifen"
+
+msgid "Not a positive number : "
+msgstr "Keine positive Zahl:"
+
+msgid "Session expired, press ok to reload"
+msgstr "Session abgelaufen, drücke OK um neu zu laden"
+
+#, php-format
+msgid "Unsupported action code : %s"
+msgstr "Nicht unterstützte Aktion: %s"
+
+#, php-format
+msgid "Unexpexted output: %s"
+msgstr "Unerwartete Ausgabe: %s"
+
+#, php-format
+msgid "Saved %d entries to show"
+msgstr "Einstellung gespeichert! %d Einträge werden agezeigt."
+
+msgid "Saved"
+msgstr "Gepeichert"
+
+#, php-format
+msgid "Imported %d records from Counterize"
+msgstr "%d Einträge von Counterize importiert"
+
+msgid "Import"
+msgstr "Importieren"
+
+#, php-format
+msgid "An Error occured while importing from Counterize : %s"
+msgstr "Während dem Import von Counterize ist ein Fehler passiert: %s"
+
+#, php-format
+msgid "Added %s to exclude list"
+msgstr "%s zur Ausschlussliste hinzugefügt"
+
+#, php-format
+msgid "Removed %s from exclude list"
+msgstr "%s von der Ausschlussliste entfernt"
+
+msgid "Excluded users list saved"
+msgstr "Liste der ausgeschlossenen Benutzer gespeichert"
+
+#, php-format
+msgid "Added %s to bots list"
+msgstr "%s zur Botliste hinzugefügt"
+
+msgid "Empty string is not allowed"
+msgstr "Du musst etwas eintragen"
+
+msgid "Removed"
+msgstr "Entfernt"
+
+msgid "Not using configuration file"
+msgstr "Keine Konfigurationsdatei verwendet"
+
+msgid "Not installed inside Wordpress"
+msgstr "Nicht in Wordpress installiert"
+
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "Fehler beim löschen von fs-config.php: %s"
+
+msgid "Error creating config file: "
+msgstr "Fehler beim erstellen der Konfigurationsdatei:"
+
+msgid "Error upgrading tables"
+msgstr "Fehler beim updaten der Tabellen"
+
+msgid "Error installing tables"
+msgstr "Fehler beim Installieren der Tabellen"
+
+msgid "Error rebuilding database cache"
+msgstr "Fehler beim Wiederherstellen des Datenbankcaches"
+
+msgid "Database cache rebuilt successfully"
+msgstr "Der Datenbankcache wurde erfolgreich wiederhergestellt"
+
+#, php-format
+msgid "Unkown field: %s"
+msgstr "Unbekanntes Feld: %s"
+
+msgid "IP-to-country database is already up-to-date"
+msgstr "IP-to-country Datenbank ist bereits aktuell"
+
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "Fehler beim Update der IP-to-country Datenbank"
+
+msgid "file"
+msgstr "Datei"
+
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Du kannst die Datenbank manuell updaten indem du die Datei %s herunterlädst und in %s extrahierst"
+
+msgid "this"
+msgstr "diese"
+
+#, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "Du kannst die Datenbank manuell updaten indem du die Datei %s öffnest und <b>zip_url</b> herunterlädst und in %s extrahierst"
+
+msgid "Error"
+msgstr "Fehler"
+
+#, php-format
+msgid "Error updating bots list: %s"
+msgstr "Fehler beim upaten der Botliste: %s"
+
+msgid "Successfully updated bots list"
+msgstr "Botliste wurde erfolgreich aktualisiert"
+
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Fehler beim Bereinigen der ausgeschlossenen Einträge: %s"
+
+msgid "Purged excluded records"
+msgstr "Ausgeschlossene Einträge bereinigt"
+
+msgid "Error connecting to database"
+msgstr "Fehler beim Verbinden der Datenbank"
+
+msgid "FireStats is properly installed in the database"
+msgstr "FireStats wurde erfolgreich in die Datenbank installiert"
+
+msgid "FireStats is not configured"
+msgstr "FireStats ist nicht konfiguriert"
+
+msgid "Database error, check your configuration"
+msgstr "Datenbankfehler, überprüfe die Konfiguration"
+
+msgid "FireStats is not installed in the database"
+msgstr "FireStats wurde nicht in die Datenbank installiert"
+
+msgid "FireStats database need to be upgraded"
+msgstr "FireStats  Datenbank muss upgegradet werden"
+
+msgid "The FireStats database version is newer this code version, you need to upgrade FireStats"
+msgstr "Die FireStats Datenbank ist von neuerer Version als die FireStats Dateien. Du musst die FireStats Dateien upgraden."
+
+msgid "Unknown database status code"
+msgstr "Unbekannter Datenbank-Statuscode"
+
+msgid "Error accessing database"
+msgstr "Fehler beim Datenbankzugriff"
+
+msgid "Cannot write configuration file (read only file or directory)"
+msgstr "Kann Konfigdatei nicht schreiben (Datei / Verzeichnis benötigt Schreibrecht)"
+
+msgid "Error creating database"
+msgstr "Fehler beim Erstellen der Datenbank"
+
+msgid "Error creating user"
+msgstr "Fehler bei der Usererstellung"
+
+msgid "Error creating tables"
+msgstr "Fehler beim Anlegen der Tabellen"
+
+msgid "Error saving configuration"
+msgstr "Fehler beim Speichern der Konfiguration"
+
+msgid "Password not specified"
+msgstr "Passwort nicht angegeben"
+
+msgid "Wrong password"
+msgstr "Falsches Passwort"
+
+msgid "FireStats tables are not installed"
+msgstr "FireStats Tabellen sind nicht installiert"
+
+msgid "FireStats is installed"
+msgstr "FireStats ist installiert"
+
+msgid "Another FireStats database detected"
+msgstr "Andere FireStats Datenbank entdeckt"
+
+msgid "New database created successfuly"
+msgstr "Neue Datenbank erfolgreich erstellt"
+
+msgid "Configuration is locked"
+msgstr "Konfiguration ist gesperrt"
+
+msgid "Error changing lock file"
+msgstr "Fehler beim Ändern der Sperrdatei"
+
+msgid "Configuration unlocked"
+msgstr "Konfiguration offen"
+
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Unerwarteter Fehlercode %s"
+
+msgid "Not configured"
+msgstr "Nicht konfiguriert"
+
+msgid "FireStats configuration file"
+msgstr "FireStats Konfigurationsdatei"
+
+msgid "Wordpress configuration file"
+msgstr " Wordpress Konfigurationsdatei"
+
+#, php-format
+msgid "Database error: %s"
+msgstr "Datenbankfehler: %s"
+
+msgid "Counterize not detected"
+msgstr "Counterize nicht gefunden"
+
+msgid "Site name not specified"
+msgstr "Seitenname nicht angegeben"
+
+msgid "Site ID must be a positive number"
+msgstr "SeitenID muss positiv sein"
+
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "Eine Seite mit der ID %s existiert bereits"
+
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "Die Seite mit der id %s existiert nicht"
+
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Ungültige IP Adresse: %s"
+
+#, php-format
+msgid "The IP address %s is already in the database"
+msgstr "Die IP %s ist bereits in der Datenbank"
+
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "Der Bot %s ist bereits in der Datenbank"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "Others"
+msgstr "Andere"
+
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Fehler beim Öffnen der Date:i %s"
+
+msgid "Support FireStats"
+msgstr "Unterstütze FireStats"
+
+msgid "Page views"
+msgstr "Angezeigte Seiten"
+
+msgid "Visits"
+msgstr "Besuche"
+
+msgid "Installed"
+msgstr "Installiert"
+
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain.<br/>"
+msgstr "Obwohl FireStats gratis ist, braucht es eine menge Zeit für Entwicklung und Wartung.<br/>"
+
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated.<br/>"
+msgstr "Wenn dir FireStats gefällt und du meine harte Arbeit unterstützen möchtest, kannst du etwas spenden. Selbst eine $5 Spende wäre toll.<br/>"
+
+msgid "Yeah, I want to help"
+msgstr "Ja, ich möchte helfen"
+
+msgid "Nah, go away"
+msgstr "Nein, ich will nicht"
+
+msgid "Maybe later"
+msgstr "Vielleicht später"
+
+msgid "Already donated"
+msgstr "Ich habe bereits gespendet"
+
+#, php-format
+msgid "%d seconds ago"
+msgstr "noch %d sekunden "
+
+#, php-format
+msgid "%d minutes ago"
+msgstr "vor %d Minuten"
+
+msgid "one hour ago"
+msgstr "vor einer Stunde"
+
+#, php-format
+msgid "%d hours ago"
+msgstr "vor %d Stunden"
+
+msgid "one day ago"
+msgstr "vor einem Tag"
+
+#, php-format
+msgid "%d days ago"
+msgstr "vor %d Tagen"
+
+#, php-format
+msgid "%d weeks ago"
+msgstr "vor %d Wochen"
+
+#, php-format
+msgid "%d months ago"
+msgstr "vor %d Monaten"
+
+#, php-format
+msgid "%d years ago"
+msgstr "vor %d Jahren"
+
+msgid "Error exporting bots list"
+msgstr "Fehler beim exportieren der Botliste"
+
+msgid "Unknown site type"
+msgstr "Unbekannter Seitentyp"
+
+msgid "Collect hits from PHP pages"
+msgstr "Treffer von PHP Seiten sammeln"
+
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "Um FireStats den Zugriff auf Seiten überwachen zu lassen, musst du folgendes im Header Tag jeder Seite einfügen (es muss eine PHP Seite sein)"
+
+msgid "A typical page header will look like this:"
+msgstr "Ein typischer Seitenkopf sollte so aussehen:"
+
+msgid "WordPress"
+msgstr "WordPress"
+
+msgid "The WordPress plugin registers itself automatically when the its activated"
+msgstr "Das WordPress Plugin registriert sich automatisch beim Aktivieren"
+
+msgid "plugin"
+msgstr "Plugin"
+
+msgid "module"
+msgstr "Modul"
+
+#, php-format
+msgid "Collect hits from a %s site"
+msgstr "Treffer von %s Seiten sammeln"
+
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "und konfigureiere es dann im Administrationsmenü mit dem Pfad %s und der ID %s"
+
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "und bearbeite die zeilen in %s welche folgendes enthalten:"
+
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "Um Statistiken von deiner %s seite zu bekommen, musst du %s installieren"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "How to integrate with this site"
+msgstr "Wie man in diese Seite interiert"
+
+msgid "Orphaned hits"
+msgstr "Verwaiste Treffer"
+
+msgid "Add a new site"
+msgstr "Neue Seite hinzufügen"
+
+msgid "Generic PHP site"
+msgstr "Standard PHP Seite"
+
+msgid "Wordpress"
+msgstr "Wordpress"
+
+msgid "Django"
+msgstr "Django"
+
+msgid "Drupal"
+msgstr "Drupal"
+
+msgid "Gregarius"
+msgstr "Gregarius"
+
+msgid "Joomla"
+msgstr "Joomla"
+
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+msgid "Trac"
+msgstr "Trac"
+
+msgid "Invalid"
+msgstr "Ungültig"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Show statistics from"
+msgstr "Zeige Statistik von"
+
+msgid "unknown"
+msgstr "unbekannt"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "TimeStamp"
+msgstr "Zeitstempel"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Referrer"
+msgstr "Referrer"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "UserAgent"
+msgstr "UserAgent"
+
+msgid "No data yet, go get some hits"
+msgstr "Keine Daten bis jetzt"
+
+msgid "Empty"
+msgstr "Leer"
+
+msgid "excluded"
+msgstr "ausgeschlossen"
+
+#, php-format
+msgid "(%d hits) (%d more from %s)"
+msgstr "(%d Treffer) (%d weitere von %s)"
+
+#, php-format
+msgid "%d hits"
+msgstr "%d Treffer"
+
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d Treffer von %s"
+
+msgid "Import bots list"
+msgstr "Importiere Botliste"
+
+msgid "Select bot-list file"
+msgstr "Botliste auswählen:"
+
+msgid "Import type"
+msgstr "Import-Typ"
+
+msgid "Add to bots list"
+msgstr "Zur Botliste hinzufügen"
+
+msgid "Replace bots list"
+msgstr "Ersetze Botliste"
+
+msgid "Send File"
+msgstr "Datei senden"
+
+msgid "Incorrect file format"
+msgstr "Falsches Dateiformat"
+
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Fehler beim Importieren der Botliste: %s"
+
+msgid "bots list imported successfully"
+msgstr "Botliste erfolgreich importiert"
+
+msgid "Error creating temporary file"
+msgstr "Fehler beim Erstellen der Temporärdatei"
+
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "Fehler bei Verbindungsaufbau zu %s"
+
+#, php-format
+msgid "Error sending request to %s"
+msgstr "Fehler bei Abfrage von %s"
+
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Fehler beim Lesen der Daten von %s: %s"
+
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "Fehler beim Verbinden der IP-to-country Datenbank: %s"
+
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Nicht unterstützter Dateityp: %s"
+
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "kann IP-to-country Datenbank nicht updaten. read-only Verzeichnis: %s"
+
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "kann IP-to-country Datenbank nicht updaten. read-only Datei: %s"
+
+msgid "Error installing new IP-to-country database"
+msgstr "Fehler beim installieren der IP-to-country Datenbank"
+
+msgid "Successfuly updated IP-to-country database"
+msgstr "IP-to-country Datenbank erfolgreich upgedatet"
+
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "Fehler beim upaten der Versionsdatei: %s"
+
+msgid "Database status"
+msgstr "Datenbankstatus"
+
+msgid "Click to upgrade"
+msgstr "Klicke zum upgraden"
+
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Konfigurationsquelle: %s"
+
+msgid "To use wordpress database, click this button."
+msgstr "Um die Wordpress Datenbank zu verwenden drücke diesen Knopf."
+
+msgid "FireStats database configuration will be lost."
+msgstr "FireStats Datenbankkonfiguration geht verloren."
+
+msgid "Use Wordpress database"
+msgstr "Benutze Wordpress Datenbank"
+
+msgid "To perform one of the following actions:"
+msgstr "Eine der folgenden Aktionen durchführen:"
+
+msgid "Attach to an existing FireStats installation"
+msgstr "Existierende FireStats Installation verwenden"
+
+msgid "Install FireStats into an existing database"
+msgstr "Installiere FireStats in eine existierende Datenbank"
+
+msgid "Create a new database and install FireStats there"
+msgstr "Erstelle neue Datenbank und installiere FireStats"
+
+msgid "Follow instructions in the help"
+msgstr "Folge den Anweisungen in der Hilfe"
+
+msgid "Database host"
+msgstr "Datenbank Hostname"
+
+msgid "Database name"
+msgstr "Datenbankname"
+
+msgid "Database user name"
+msgstr "Datenbank Benutzername"
+
+msgid "Database password"
+msgstr "Datenbank Passwort"
+
+msgid "Tables prefix"
+msgstr "Tabellen Präfix"
+
+msgid "Test connection"
+msgstr "Verbindung testen"
+
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Klicke um zu installieren und  um zu den neuen FireStats Tabellen zu wechseln"
+
+msgid "Install tables"
+msgstr "Tabellen erstellen"
+
+msgid "Click to use this FireStats database"
+msgstr "Klicke um diese FireStats  Datenbank zu verwenden"
+
+msgid "Use this database"
+msgstr "Benutze diese Datenbank"
+
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "Um eine neue Datenbank zu erstellen, musst du Adminrechte haben."
+
+msgid "However, For security reason, it is recommanded not to use a database administrator user for day to day operations."
+msgstr "Es ist sicherer, wenn man ein Benutzerkonto ohne Adminrechten zur täglichen Verwendung benutzt."
+
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "Gib einen neuen Benutzernamen und ein neuse Passwort für FireStats ein, dieser Benutzer kann dann nur die FireStats Datenbank benutzen"
+
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Wenn du keinen neuen User anlegst, wird das Adminkonto verwendet!"
+
+msgid "FireStats User name"
+msgstr "FireStats Benutzername"
+
+msgid "FireStats password"
+msgstr "FireStats Passwort"
+
+msgid "Create database"
+msgstr "Datenbank erstellen"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Attach to an existing FireStats database"
+msgstr "Zu einer bestehenden FireStats Datenbank verbinden"
+
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Gib die Parameter in die Ferlder ein und drücke %s und dann %s."
+
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Gib die Parameter in die Felder ein. <u>Dazu benötigst du Administratorrechte</u>. Danach drücke %s. Nun gib einen FireStats Datenbankusernamen und Passwort ein und drücke anschliessend %s."
+
+msgid "Configuration locked"
+msgstr "Konfiguration gesperrt"
+
+msgid "To change the database configuration you need to unlock it, please enter the password."
+msgstr "Um die Datenbankkonfiguration zu ändern, musst du das Passwort eingeben."
+
+#, php-format
+msgid "if you forgot your password you can simply delete the file %s from firestats/php directory."
+msgstr "wenn du deinen Usernamen und Passwort vergessen hast, lösche einfach die Datei %s im firestat/php Verzeichnis."
+
+msgid "Database configuration is locked, to unlock for 5 minutes enter the lock password."
+msgstr "Die Datenbankkonfiguration ist gesperrt, gib das Passwort ein um für 5 Minuten zu öffnen."
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Unlock"
+msgstr "Öffnen"
+
+msgid "Database configuration is open for changes, enter a password to lock."
+msgstr "Datenbankkonfiguration ist offen für Änderungen, gib ein Passwort zum Sperren ein."
+
+msgid "Lock"
+msgstr "Sperren"
+
+msgid "Import in progress"
+msgstr "Import läuft"
+
+msgid "You can import your hits from another statistics system here."
+msgstr "Du kannst hier Treffer eines anderen Statistiksystems importieren."
+
+msgid "Recalculate database cache"
+msgstr "Neuerstellung des Datenbank Caches"
+
+msgid "In case of data consistency problems, The database cache may need to be rebuilt."
+msgstr "Im Falle einer Datenbankinkonsistenz muss der Datenbank Cache möglicherweise wieder aufgebaut werden."
+
+msgid "Its not normally needed, but it does not cause any damage"
+msgstr "Wird normalerweise nicht benötigt, verursacht aber keinen Schaden."
+
+msgid "Counterize"
+msgstr "Counterize"
+
+#, php-format
+msgid "%s detected"
+msgstr "%s gefunden"
+
+#, php-format
+msgid "%s was not detected"
+msgstr "%s wurde nicht gefunden"
+
+msgid "You need to select an bot you want to remove from the table"
+msgstr "Du musst einen Bot aussuchen, den du von der Übersicht entfernen möchtest"
+
+msgid "Invalid IP address"
+msgstr "Ungültige IP"
+
+msgid "You need to select an IP address you want to remove from the table"
+msgstr "Du musst eine IP aussuchen, den du von der Übersicht entfernen möchtest"
+
+msgid "Automatic version check"
+msgstr "Automatische Versionskontrolle"
+
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "Automatisch prüfen, ob eine neue FireStats Version verfügbar ist (empfohlen)"
+
+msgid "IP-to-country database"
+msgstr "IP-to-country Datenbank"
+
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "IP-to-country Datenbank Version: %s"
+
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "Automatisch prüfen, ob eine neue IP-to-country Datenbank verfügbar ist"
+
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "IP-to-country Datenbank updaten (nur wenn notwendig)"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Options"
+msgstr "Einstellungen"
+
+msgid "Select language"
+msgstr "Sprache wählen"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "How to translate to a new language"
+msgstr "Wie man in eine neue Sprache übersetzt"
+
+msgid "Select your time zone"
+msgstr "Bitte wählen deine Zeitzone"
+
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "Zeitzonenauswahl benötigt %s oder neuer"
+
+msgid "Select WHOIS provider"
+msgstr "WHOIS Betreiber auswählen"
+
+msgid "Exclude hits"
+msgstr "Treffer ausschliessen"
+
+msgid "Save excluded records (not recommended)"
+msgstr "Ausgeschlossene Einträge speichern (nicht empfohlen)"
+
+msgid "Purge excluded records stored in the database"
+msgstr "Ausgeschlossenen Einträge in der Datenbank bereinigen"
+
+msgid "Purge"
+msgstr "Bereinigen"
+
+msgid "Bots list"
+msgstr "Botliste"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Automatic update"
+msgstr "Automatisch aktualisieren"
+
+msgid "Update now"
+msgstr "Jetzt aktualisieren"
+
+msgid "Export"
+msgstr "Exportieren"
+
+msgid "Excluded IPs"
+msgstr "Ausgeschlossenen IPs"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Manage sites"
+msgstr "Seiten verwalten"
+
+msgid "Clear"
+msgstr "Löschen"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Dies wird diese Seite aus der Datenbank löschen. Dies ist endgültig!"
+
+msgid "What do you want to do with the site hits?"
+msgstr "Was möchtest du mit den Seitentreffern tun?"
+
+msgid "Delete all the hits"
+msgstr "Alle Treffer löschen"
+
+msgid "Transfer the hits to another site"
+msgstr "Übertrage die Treffer auf eine andere Seite"
+
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Eine vorhandene SeitenID eintragen um die Treffer zu transferieren"
+
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Warnung: Hier kann einiges schief gehen, sei vorsichtig!"
+
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "FireStats sammelt Statistikdaten von mehreren Seiten (auf dem gleichen Server)"
+
+msgid "The site need to be registered in the sites table"
+msgstr "Die Seite muss in die Seitentabelle eingetragen werden"
+
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "Die Seite sollte ihre eigen ID verwenden um Treffer aufzuzeichnen. Klicke auf den Hilfeknopf neben der erstellten Seite um mehr Info zu bekommen."
+
+#, php-format
+msgid "Click %s for more information"
+msgstr "Klicke %s für mehr Information"
+
+msgid "here"
+msgstr "hier"
+
+msgid "Refresh statistics"
+msgstr "Statistik auffrischen"
+
+msgid "Auto refresh every"
+msgstr "Automatisches Auffrischen alle"
+
+msgid "minutes"
+msgstr "Minuten"
+
+msgid "Apply"
+msgstr "Anwenden"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Page views in last 24 hours"
+msgstr "Angezeigte Seiten der letzten 24 Stunden"
+
+msgid "Visits in last 24 hours"
+msgstr "Besuche der letzten 24 Stunden"
+
+msgid "Recent referrers"
+msgstr "Letzte Referrer"
+
+msgid "Maximum"
+msgstr "Maximum:"
+
+msgid "Days ago"
+msgstr "Tage für Rückblick:"
+
+msgid "Recent popular pages"
+msgstr "Letzte meistbesuchte Seiten"
+
+msgid "Browsers"
+msgstr "Browser"
+
+msgid "Operating systems"
+msgstr "Betriebssysteme"
+
+msgid "Countries"
+msgstr "Länder"
+
+msgid "Hits table"
+msgstr "Treffer Tabelle"
+
+msgid "Number of hits to show"
+msgstr "Anzahl der angezeigten Treffer"
+
+msgid "User agent"
+msgstr "Useragent"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Statistics widget"
+msgstr "Statistik Widget"
+
+#, php-format
+msgid "You can configure the sidebar widget from %s"
+msgstr "Du kannst das Sidebar-Widget von %s konfigurieren"
+
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "Das Statistik Widget benötigt das %s plugin."
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Du kannst folgenden Code auch händisch in dein Sidebar-Theme einfügen:"
+
+msgid "Comments icons"
+msgstr "Kommentar Icons"
+
+msgid "Add flag icon to comments"
+msgstr "Flaggen-Icon zu den Kommentaren hinzufügen"
+
+msgid "Add browser and operating system icons to comments"
+msgstr "Browser und Betriebssystem-Icon zu den Kommentaren hinzufügen"
+
+msgid "Blog footer"
+msgstr "Blog Fusszeile"
+
+msgid "Add FireStats footer to blog"
+msgstr "Füge FireStats Fusszeile zum Blog hinzu"
+
+msgid "Show statistics in footer"
+msgstr "Zeige Statistik in der Fusszeile"
+
+msgid "Excluded users"
+msgstr "Ausgeschlossenen Benutzer"
+
+msgid "Advanced"
+msgstr "Erweitert"
+
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "WordPress SeitenID, jeder Treffer dieses blogs wird mit dieser Quell-SeitenID aufgezeichnet."
+
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "Diese sollte die gleiche ID wie in der Seitentabelle haben. Musst du normalerweise nicht ändern."
+
+msgid "Demo"
+msgstr "Demo"
+
+msgid "Hide"
+msgstr "Ausblenden"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "WordPress settings"
+msgstr "WordPress Einstellungen"
+
+msgid "Database"
+msgstr "Datenbank"
+
+msgid "Sites management"
+msgstr "Seitenverwaltung"
+
+#, php-format
+msgid "Error getting version information from %s : %s"
+msgstr "Fehler beim Lesen der Versionsinformation von %s: %s"
+
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "Eine neue Version der IP-to-country Datenbank ist verfügbar! Du kannst sie von den Einstellungen aus updaten!"
+
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "Version %s ist verfügbar! Klicke %s für mehr Informaionen"
+
+#, php-format
+msgid "Error opening %s"
+msgstr "Fehler beim Öffnen von %s"
+
+msgid "User name and password are required to connect to database"
+msgstr "Username und Passwort werden für die Verbindung benötigt"
+
+msgid "Error establishing mySQL database connection"
+msgstr "Fehler beim Verbinden mit der mySQL Datenbank"
+
+msgid "Database name is required to connect to database"
+msgstr "Datenbankname wird benötigt"
+
+msgid "mySQL database connection is not active"
+msgstr "mySQL Verbindung nicht aktiv"
+
+msgid "Unexpected error while querying database"
+msgstr "Unerwarteter Fehler bei der Abfrage der Datenbank"
+
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "%s konnte nicht getrennt werden"
+
+msgid "Not connected"
+msgstr "Nicht verbunden"
+

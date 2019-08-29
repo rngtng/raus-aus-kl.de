@@ -1,0 +1,1459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Firestats\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-03-17 11:15+0100\n"
+"Last-Translator: Zsolt Acsai <lupus.lupine@gmail.com>\n"
+"Language-Team: Cenzi <lupus.lupine@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: Hungary\n"
+"X-Poedit-KeywordsList: fs_e;fs_r\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:\\work\\firestats-1.2\\firestats\n"
+
+# c:/temp/firestats/firestats-wordpress.php:80
+# c:/temp/firestats/index.php:22
+# c:/temp/firestats/index.php:45
+# c:/temp/firestats/php/footer.php:8
+msgid "FireStats"
+msgstr "FireStats"
+
+# c:/temp/firestats/firestats-wordpress.php:80
+msgid "Loading..."
+msgstr "Betöltés..."
+
+# c:/temp/firestats/firestats-wordpress.php:99
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Összesen : %s találat - %s újratöltés"
+
+# c:/temp/firestats/firestats-wordpress.php:100
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "24 óra adatai : %s találat - %s újratöltés"
+
+# c:\work\firestats-1.2\firestats/firestats-wordpress.php:208
+msgid "Only blog administrators can access FireStats"
+msgstr "Csak a blog-adminok férhetnek hozzá a FireStats-hoz"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/firestats-wordpress.php:413
+msgid "Pages displayed : "
+msgstr "Megtekintett oldalak : "
+
+# c:/temp/firestats/php/page-stats.php:30
+msgid "Unique visitors : "
+msgstr "Egyedi látogatók : "
+
+# c:/temp/firestats/php/page-stats.php:31
+msgid "Pages displayed in last 24 hours : "
+msgstr "Megtekintett oldalak 24 órája : "
+
+# c:/temp/firestats/php/page-stats.php:32
+msgid "Unique visitors in last 24 hours : "
+msgstr "Egyedi látogatók 24 órája : "
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/firestats-wordpress.php:467
+#, fuzzy
+msgid "pages viewed"
+msgstr " megtekintett oldal"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/firestats-wordpress.php:467
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/firestats-wordpress.php:468
+msgid "today"
+msgstr "ma"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/firestats-wordpress.php:468
+#, fuzzy
+msgid "visits"
+msgstr " látogató"
+
+# c:/temp/firestats/firestats-wordpress.php:80
+# c:/temp/firestats/index.php:22
+# c:/temp/firestats/index.php:45
+# c:/temp/firestats/php/footer.php:8
+msgid "Powered by FireStats"
+msgstr "Powered by FireStats"
+
+# c:/temp/firestats/index.php:25
+msgid "FireStats is installed inside WordPress"
+msgstr "FireStats a Wordpress rendszerre telepítve lett"
+
+# c:/temp/firestats/index.php:26
+msgid "Please access it from the WordPress admin interface"
+msgstr "Lépjen be a Wordpress adminrendszeren keresztül"
+
+# c:/temp/firestats/js/firestats.js.php:95
+# c:/temp/firestats/js/firestats.js.php:221
+msgid "Not a positive number : "
+msgstr "Nem pozitív szám :"
+
+# c:\work\firestats-1.2\firestats/js/firestats.js.php:525
+msgid "Session expired, press ok to reload"
+msgstr "A session érvényessége lejárt, kattints az ok gombra a frissítéshez"
+
+# c:/temp/firestats/php/ajax-handler.php:97
+#, php-format
+msgid "Unsupported action code : %s"
+msgstr "Hibás parancs kód : %s"
+
+# c:/temp/firestats/php/ajax-handler.php:105
+#, php-format
+msgid "Unexpexted output: %s"
+msgstr "Hibás kimenet : %s"
+
+# c:/temp/firestats/php/ajax-handler.php:117
+#, php-format
+msgid "Saved %d entries to show"
+msgstr "Mentve: %d bejegyzés"
+
+# c:/temp/firestats/php/ajax-handler.php:119
+msgid "Saved"
+msgstr "Mentve"
+
+# c:/temp/firestats/php/ajax-handler.php:131
+#, php-format
+msgid "Imported %d records from Counterize"
+msgstr "%d bejegyzés lett a Counterize programból importálva"
+
+# c:/temp/firestats/php/ajax-handler.php:132
+# c:/temp/firestats/php/page-import.php:17
+# c:/temp/firestats/php/tabbed-pane.php:98
+msgid "Import"
+msgstr "Importálás"
+
+# c:/temp/firestats/php/ajax-handler.php:137
+#, php-format
+msgid "An Error occured while importing from Counterize : %s"
+msgstr "Hiba lépet fel a Counterize importálásából : %s"
+
+# c:/temp/firestats/php/ajax-handler.php:148
+#, php-format
+msgid "Added %s to exclude list"
+msgstr "%s hozzá lett adva a kivétel listához"
+
+# c:/temp/firestats/php/ajax-handler.php:165
+#, php-format
+msgid "Removed %s from exclude list"
+msgstr "%s el lett távolsítva a kivétel listából"
+
+# c:/temp/firestats/php/ajax-handler.php:210
+msgid "Excluded users list saved"
+msgstr "Kivétel listva mentve"
+
+# c:/temp/firestats/php/ajax-handler.php:228
+#, php-format
+msgid "Added %s to bots list"
+msgstr "%s hozzá lett adva a robot listához"
+
+# c:/temp/firestats/php/ajax-handler.php:241
+msgid "Empty string is not allowed"
+msgstr "Üres mező nincs engedélyezve"
+
+# c:/temp/firestats/php/ajax-handler.php:251
+msgid "Removed"
+msgstr "Eltávolítva"
+
+# c:/temp/firestats/php/ajax-handler.php:302
+msgid "Not using configuration file"
+msgstr "Nincs konfigurációs fájl"
+
+# c:/temp/firestats/php/ajax-handler.php:309
+msgid "Not installed inside Wordpress"
+msgstr "Nem lett telepítve a Wordpress rendszerből"
+
+# c:/temp/firestats/php/ajax-handler.php:320
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "fs-config.php törlése sikertelen : %s"
+
+# c:/temp/firestats/php/ajax-handler.php:341
+msgid "Error creating config file: "
+msgstr "Konfigurációs fájl elkészítése közben hiba lépett fel:"
+
+# c:/temp/firestats/php/ajax-handler.php:364
+msgid "Error upgrading tables"
+msgstr "Hiba a táblák frissítésében"
+
+# c:/temp/firestats/php/ajax-handler.php:389
+msgid "Error installing tables"
+msgstr "Hiba a táblák telepítésekor"
+
+# c:/temp/firestats/php/ajax-handler.php:498
+msgid "Error rebuilding database cache"
+msgstr "Hiba az adatbázis újjáépítésekor"
+
+# c:/temp/firestats/php/ajax-handler.php:502
+msgid "Database cache rebuilt successfully"
+msgstr "Adatbázis sikeresen felépítve"
+
+# c:/temp/firestats/php/ajax-handler.php:538
+#, php-format
+msgid "Unkown field: %s"
+msgstr "Ismeretlen mező : %s"
+
+# c:/temp/firestats/php/ajax-handler.php:573
+msgid "IP-to-country database is already up-to-date"
+msgstr "IP-to-country frissítésére nincs szükség"
+
+# c:/temp/firestats/php/ajax-handler.php:565
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "Hiba lépett fel az IP-to-country frissítésekor"
+
+# c:/temp/firestats/php/ajax-handler.php:563
+msgid "file"
+msgstr "fájl"
+
+# c:/temp/firestats/php/ajax-handler.php:567
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Frissítheti az adatbázist a %s letöltésével, amit a %s könyvtárba kell kibontani"
+
+# c:\work\firestats-1.2\firestats/php/ajax-handler.php:739
+msgid "this"
+msgstr "ez"
+
+# c:/temp/firestats/php/ajax-handler.php:567
+#, fuzzy, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "Frissítheti az adatbázist a %s letöltésével, amit a %s könyvtárba kell kibontani"
+
+# c:/temp/firestats/php/ajax-handler.php:568
+msgid "Error"
+msgstr "Hiba"
+
+# c:/temp/firestats/php/ip2country.php:186
+#, fuzzy, php-format
+msgid "Error updating bots list: %s"
+msgstr "Hiba a robotlista frissítésekor: %s"
+
+# c:/temp/firestats/php/ip2country.php:182
+msgid "Successfully updated bots list"
+msgstr "Robotlista sikeresen frissült"
+
+# c:/temp/firestats/php/ajax-handler.php:583
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Hiba a bejegyzésekben: %s"
+
+# c:/temp/firestats/php/ajax-handler.php:588
+msgid "Purged excluded records"
+msgstr "Bejegyzések"
+
+# c:/temp/firestats/php/db-config-utils.php:22
+msgid "Error connecting to database"
+msgstr "Sikertelen kapcsolódás az adatbázishoz"
+
+# c:/temp/firestats/php/db-common.php:111
+msgid "FireStats is properly installed in the database"
+msgstr "FireStats adatbázisa telepítve lett"
+
+# c:/temp/firestats/php/db-config-utils.php:58
+#, fuzzy
+msgid "FireStats is not configured"
+msgstr "FireStats telepítve van"
+
+# c:/temp/firestats/php/db-common.php:114
+#, fuzzy
+msgid "Database error, check your configuration"
+msgstr "Adatbázis hiba, menjen a %s-be a helyes konfigurációért"
+
+# c:/temp/firestats/php/db-common.php:111
+#, fuzzy
+msgid "FireStats is not installed in the database"
+msgstr "FireStats adatbázisa telepítve lett"
+
+# c:/temp/firestats/php/page-database.php:48
+#, fuzzy
+msgid "FireStats database need to be upgraded"
+msgstr "A FireStats adatbázis frissítésre szorul"
+
+# c:/temp/firestats/php/db-common.php:123
+msgid "The FireStats database version is newer this code version, you need to upgrade FireStats"
+msgstr "A FireStats adatbázis verzió újabb, frissítenie kell a jelenlegit"
+
+# c:/temp/firestats/php/db-common.php:126
+msgid "Unknown database status code"
+msgstr "Ismeretlen adatbázis kód"
+
+# c:/temp/firestats/php/db-config-utils.php:19
+msgid "Error accessing database"
+msgstr "Hiba az adatbázishoz való kapcsolódáskor"
+
+# c:/temp/firestats/php/db-config-utils.php:25
+msgid "Cannot write configuration file (read only file or directory)"
+msgstr "Írhatatlan a konfigurációs fájl (csak olvasható)"
+
+# c:/temp/firestats/php/db-config-utils.php:28
+msgid "Error creating database"
+msgstr "Hiba az adatbázis létrehozásánál"
+
+# c:/temp/firestats/php/db-config-utils.php:31
+msgid "Error creating user"
+msgstr "Hiba a felhasználó létrehozásakor"
+
+# c:/temp/firestats/php/db-config-utils.php:34
+msgid "Error creating tables"
+msgstr "Hiba a táblák létrehozásakor"
+
+# c:/temp/firestats/php/db-config-utils.php:37
+msgid "Error saving configuration"
+msgstr "Hiba a konfiguráció mentésekor"
+
+# c:/temp/firestats/php/db-config-utils.php:40
+msgid "Password not specified"
+msgstr "Hibás jelszó"
+
+# c:/temp/firestats/php/db-config-utils.php:43
+msgid "Wrong password"
+msgstr "Hibás jelszó"
+
+# c:/temp/firestats/php/db-config-utils.php:53
+msgid "FireStats tables are not installed"
+msgstr "FireStats táblák nincsennek telepítve"
+
+# c:/temp/firestats/php/db-config-utils.php:58
+msgid "FireStats is installed"
+msgstr "FireStats telepítve van"
+
+# c:/temp/firestats/php/db-config-utils.php:63
+msgid "Another FireStats database detected"
+msgstr "Másik FireStats adatbázist találtunk"
+
+# c:/temp/firestats/php/db-config-utils.php:68
+msgid "New database created successfuly"
+msgstr "Adatbázis létrehozása sikeres volt"
+
+# c:/temp/firestats/php/db-config-utils.php:72
+msgid "Configuration is locked"
+msgstr "Konfiguráció lezárva"
+
+# c:/temp/firestats/php/db-config-utils.php:75
+msgid "Error changing lock file"
+msgstr "Hiba a záró fájl változtatásánál"
+
+# c:/temp/firestats/php/db-config-utils.php:80
+# c:/temp/firestats/php/page-database.php:248
+msgid "Configuration unlocked"
+msgstr "Konfiguráció nyitva"
+
+# c:/temp/firestats/php/db-config-utils.php:83
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Hiba kód: %s"
+
+# c:/temp/firestats/php/db-config-utils.php:311
+msgid "Not configured"
+msgstr "Nincs beállítva"
+
+# c:/temp/firestats/php/db-config-utils.php:314
+msgid "FireStats configuration file"
+msgstr "FireStats konfigurációs fájl"
+
+# c:/temp/firestats/php/db-config-utils.php:317
+msgid "Wordpress configuration file"
+msgstr "Wordpress konfigurációs fájl"
+
+# c:/temp/firestats/php/db-sql.php:573
+#, php-format
+msgid "Database error: %s"
+msgstr "Adatbázis hiba : %s"
+
+# c:/temp/firestats/php/db-import.php:24
+msgid "Counterize not detected"
+msgstr "Nincs Counterize"
+
+# c:/temp/firestats/php/db-config-utils.php:40
+#, fuzzy
+msgid "Site name not specified"
+msgstr "Hibás jelszó"
+
+# c:/temp/firestats/js/firestats.js.php:95
+# c:/temp/firestats/js/firestats.js.php:221
+#, fuzzy
+msgid "Site ID must be a positive number"
+msgstr "Nem pozitív szám :"
+
+# c:\work\firestats-1.2\firestats/php/db-sql.php:39
+# c:\work\firestats-1.2\firestats/php/db-sql.php:73
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "A %s oldal ID már létezik."
+
+# c:\work\firestats-1.2\firestats/php/db-sql.php:64
+# c:\work\firestats-1.2\firestats/php/db-sql.php:115
+# c:\work\firestats-1.2\firestats/php/db-sql.php:131
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "Nincs oldal a %s ID-vel"
+
+# c:/temp/firestats/php/db-sql.php:15
+# c:/temp/firestats/php/db-sql.php:52
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Hibás IP cím : %s"
+
+# c:/temp/firestats/php/db-sql.php:27
+#, php-format
+msgid "The IP address %s is already in the database"
+msgstr "Az IP cím %s már az adatbázisban van"
+
+# c:/temp/firestats/php/db-sql.php:89
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "A robot %s már az adatbázisban van"
+
+# c:/temp/firestats/php/html-utils.php:357
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+# c:/temp/firestats/php/db-sql.php:541
+msgid "Others"
+msgstr "Egyéb"
+
+# c:/temp/firestats/php/version-check.php:188
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Hiba a fájl megnyitásakor: %s"
+
+# c:/temp/firestats/firestats-wordpress.php:80
+# c:/temp/firestats/index.php:22
+# c:/temp/firestats/index.php:45
+# c:/temp/firestats/php/footer.php:8
+#, fuzzy
+msgid "Support FireStats"
+msgstr "FireStats"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-stats.php:29
+msgid "Page views"
+msgstr "Oldal megtekintések"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-stats.php:30
+msgid "Visits"
+msgstr "Látogatások"
+
+# c:/temp/firestats/php/page-database.php:155
+# c:/temp/firestats/php/page-database.php:218
+#, fuzzy
+msgid "Installed"
+msgstr "Telepítve:"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:42
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain.<br/>"
+msgstr "Habar a FireStats ingyenes, hosszu idot, es kemeny munkat vesz igenybe a fejlesztese.<br/>"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:43
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated.<br/>"
+msgstr "Ha szereted a FireStats-t, és tamogatni szeretned a fejlesztest, akkor adomanyozhatsz nekunk.<br/>"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:47
+msgid "Yeah, I want to help"
+msgstr "Igen, segiteni szeretnek"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:48
+msgid "Nah, go away"
+msgstr "Menj innen"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:49
+msgid "Maybe later"
+msgstr "Talan kesobb"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:50
+msgid "Already donated"
+msgstr "Mar adomanyoztam"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:60
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d másodperce"
+
+# c:/temp/firestats/php/page-stats.php:20
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d perce"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:66
+msgid "one hour ago"
+msgstr "egy órája"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:69
+#, php-format
+msgid "%d hours ago"
+msgstr "%d órája"
+
+# c:/temp/firestats/php/page-stats.php:50
+# c:/temp/firestats/php/page-stats.php:77
+# c:/temp/firestats/php/page-stats.php:97
+# c:/temp/firestats/php/page-stats.php:120
+# c:/temp/firestats/php/page-stats.php:150
+msgid "one day ago"
+msgstr "egy napja"
+
+# c:/temp/firestats/php/page-stats.php:50
+# c:/temp/firestats/php/page-stats.php:77
+# c:/temp/firestats/php/page-stats.php:97
+# c:/temp/firestats/php/page-stats.php:120
+# c:/temp/firestats/php/page-stats.php:150
+#, php-format
+msgid "%d days ago"
+msgstr "%d napja"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:78
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d hete"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:81
+#, php-format
+msgid "%d months ago"
+msgstr "%d hónapja"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:84
+#, php-format
+msgid "%d years ago"
+msgstr "%d years ago"
+
+# c:/temp/firestats/php/db-config-utils.php:34
+msgid "Error exporting bots list"
+msgstr "Hiba a robotok exportálásakor"
+
+# c:/temp/firestats/php/ajax-handler.php:538
+#, fuzzy
+msgid "Unknown site type"
+msgstr "Ismeretlen mező : %s"
+
+# c:/temp/firestats/php/page-help.php:2
+msgid "Collect hits from PHP pages"
+msgstr "Találatok a PHP oldalakról"
+
+# c:/temp/firestats/php/page-help.php:10
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "Engedélyezheted FireStats-t, hogy a többi Wordpressen kívüli oldalt is átnázze, de ehhez az oldalak fejlécébe a következő PHP kódot kell beillesztened (az oldalaknak mindenképpen php oldalaknak kell lenniük)."
+
+# c:/temp/firestats/php/page-help.php:19
+msgid "A typical page header will look like this:"
+msgstr "A fejléc így néz ki :"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/tabbed-pane.php:90
+#, fuzzy
+msgid "WordPress"
+msgstr "Wordpress beállítások"
+
+# c:\work\firestats-1.2\firestats/php/help-window.php:102
+msgid "The WordPress plugin registers itself automatically when the its activated"
+msgstr "A WordPress kiegészítő automatikusan regisztrálja magát, amikor aktiválod"
+
+# c:\work\firestats-1.2\firestats/php/help-window.php:108
+# c:\work\firestats-1.2\firestats/php/help-window.php:116
+# c:\work\firestats-1.2\firestats/php/help-window.php:131
+# c:\work\firestats-1.2\firestats/php/help-window.php:137
+# c:\work\firestats-1.2\firestats/php/help-window.php:149
+msgid "plugin"
+msgstr "kiegészítő"
+
+# c:\work\firestats-1.2\firestats/php/help-window.php:124
+msgid "module"
+msgstr "modul"
+
+# c:/temp/firestats/php/page-help.php:2
+#, fuzzy, php-format
+msgid "Collect hits from a %s site"
+msgstr "Találatok a PHP oldalakról"
+
+# c:\work\firestats-1.2\firestats/php/help-window.php:189
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "és ezután az admin menü elérését (%s) és ID-jét (%s) kell beállítanod"
+
+# c:\work\firestats-1.2\firestats/php/help-window.php:199
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "ezek után szerkeszd át a sorokat (%s), hogy ezt tartalmazzák:"
+
+# c:\work\firestats-1.2\firestats/php/help-window.php:206
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "A statisztika elkészítéséhez az oldaladról (%s) telepítened kell a következőt: %s"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:30
+# c:\work\firestats-1.2\firestats/php/page-sites.php:110
+msgid "ID"
+msgstr "ID"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:31
+# c:\work\firestats-1.2\firestats/php/page-sites.php:122
+msgid "Name"
+msgstr "Név"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:32
+# c:\work\firestats-1.2\firestats/php/page-sites.php:123
+msgid "Type"
+msgstr "Tipus"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:50
+msgid "How to integrate with this site"
+msgstr "Hogyan integrálódjon a oldalba"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:73
+msgid "Orphaned hits"
+msgstr "Régebbi találatok"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:85
+msgid "Add a new site"
+msgstr "Új oldal felvétele"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:120
+msgid "Generic PHP site"
+msgstr "PHP oldal"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:122
+msgid "Wordpress"
+msgstr "Wordpress"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:124
+msgid "Django"
+msgstr "Django"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:126
+msgid "Drupal"
+msgstr "Drupal"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:128
+msgid "Gregarius"
+msgstr "Gregarius"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:130
+msgid "Joomla"
+msgstr "Joomla"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:132
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:134
+msgid "Trac"
+msgstr "Trac"
+
+# c:/temp/firestats/php/html-utils.php:27
+msgid "Invalid"
+msgstr "Érvénytelen"
+
+# c:\work\firestats-1.2\firestats/php/html-utils.php:233
+msgid "All"
+msgstr "Összes"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:73
+#, fuzzy
+msgid "Show statistics from"
+msgstr "Statisztika megjelenítése a footerben"
+
+# c:/temp/firestats/php/html-utils.php:80
+msgid "unknown"
+msgstr "ismeretlen"
+
+# c:/temp/firestats/php/html-utils.php:136
+msgid "IP"
+msgstr "IP"
+
+# c:/temp/firestats/php/html-utils.php:137
+msgid "TimeStamp"
+msgstr "Idő"
+
+# c:/temp/firestats/php/html-utils.php:138
+msgid "URL"
+msgstr "URL"
+
+# c:/temp/firestats/php/html-utils.php:139
+msgid "Referrer"
+msgstr "Referrer"
+
+# c:/temp/firestats/php/html-utils.php:140
+msgid "Image"
+msgstr "Kép"
+
+# c:/temp/firestats/php/html-utils.php:141
+msgid "UserAgent"
+msgstr "UserAgent"
+
+# c:/temp/firestats/php/html-utils.php:162
+# c:/temp/firestats/php/html-utils.php:198
+# c:/temp/firestats/php/html-utils.php:348
+# c:/temp/firestats/php/html-utils.php:442
+# c:/temp/firestats/php/html-utils.php:477
+msgid "No data yet, go get some hits"
+msgstr "Jelenleg nincs adat"
+
+# c:/temp/firestats/php/html-utils.php:264
+# c:/temp/firestats/php/html-utils.php:288
+# c:/temp/firestats/php/html-utils.php:314
+msgid "Empty"
+msgstr "Üres"
+
+# c:/temp/firestats/php/html-utils.php:296
+msgid "excluded"
+msgstr "kizárva"
+
+# c:/temp/firestats/php/html-utils.php:377
+#, php-format
+msgid "(%d hits) (%d more from %s)"
+msgstr "(%d találat) (%d egyéb a %s címről)"
+
+# c:/temp/firestats/php/html-utils.php:382
+#, php-format
+msgid "%d hits"
+msgstr "%d találat"
+
+# c:/temp/firestats/php/html-utils.php:399
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d egyéb a %s címről"
+
+# c:/temp/firestats/php/ajax-handler.php:228
+#, fuzzy
+msgid "Import bots list"
+msgstr "Hozzáadás a robotokhoz"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/import-bots-list.php:18
+msgid "Select bot-list file"
+msgstr "Robotlista fájl kiválasztása"
+
+# c:/temp/firestats/php/ajax-handler.php:132
+# c:/temp/firestats/php/page-import.php:17
+# c:/temp/firestats/php/tabbed-pane.php:98
+msgid "Import type"
+msgstr "Importálás típusa"
+
+# c:/temp/firestats/php/ajax-handler.php:228
+msgid "Add to bots list"
+msgstr "Hozzáadás a robotokhoz"
+
+# c:/temp/firestats/php/page-settings.php:85
+msgid "Replace bots list"
+msgstr "Robot lista kicserélése"
+
+# c:\work\firestats-1.2\firestats/php/import-bots-list.php:31
+msgid "Send File"
+msgstr "Fájl küldése"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/import-bots-list.php:34
+msgid "Incorrect file format"
+msgstr "Hibás fájlformátum"
+
+# c:/temp/firestats/php/ip2country.php:186
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Hiba a robotlilsta importálásakor : %s"
+
+# c:/temp/firestats/php/db-config-utils.php:68
+msgid "bots list imported successfully"
+msgstr "robotlista sikeresen importálva"
+
+# c:/temp/firestats/php/ip2country.php:83
+# c:/temp/firestats/php/ip2country.php:198
+msgid "Error creating temporary file"
+msgstr "Hiba a temp fájl elkészítésekor"
+
+# c:/temp/firestats/php/ip2country.php:92
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "Hiba a kapcsolat megnyitásakor a %s címre"
+
+# c:/temp/firestats/php/ip2country.php:98
+#, php-format
+msgid "Error sending request to %s"
+msgstr "Hiba a %s címre való küldéskor"
+
+# c:/temp/firestats/php/ip2country.php:112
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Hiba a %s adatok olvasásakor: %s"
+
+# c:/temp/firestats/php/ip2country.php:139
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "Hiba az IP-to-country kibontásakor: %s"
+
+# c:/temp/firestats/php/ip2country.php:144
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Ismeretlen fájltipus : %s"
+
+# c:/temp/firestats/php/ip2country.php:157
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "Nem lehet frissíteni az ip-to-country-t, csak olvasható könyvtár: %s"
+
+# c:/temp/firestats/php/ip2country.php:159
+# c:/temp/firestats/php/ip2country.php:161
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "Nem lehet frissíteni az ip-to-country-t, csak olvasható fájl: %s"
+
+# c:/temp/firestats/php/ip2country.php:176
+msgid "Error installing new IP-to-country database"
+msgstr "Hiba az új IP-to-country telepítésekor"
+
+# c:/temp/firestats/php/ip2country.php:182
+msgid "Successfuly updated IP-to-country database"
+msgstr "Sikeres IP-to-country frissítés"
+
+# c:/temp/firestats/php/ip2country.php:186
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "Hibás frissítési verzió : %s"
+
+# c:/temp/firestats/php/db-common.php:100
+#, fuzzy
+msgid "Database status"
+msgstr "Adatbázis fül"
+
+# c:\work\firestats-1.2\firestats/php/page-database.php:138
+msgid "Click to upgrade"
+msgstr "Kattintsál a frissítésre"
+
+# c:/temp/firestats/php/page-database.php:49
+msgid "Upgrade"
+msgstr "Frisítés"
+
+# c:/temp/firestats/php/page-database.php:75
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Konfiguráció forrása : %s"
+
+# c:/temp/firestats/php/page-database.php:81
+msgid "To use wordpress database, click this button."
+msgstr "A WordPress adatbázis használatához kattintson ide."
+
+# c:/temp/firestats/php/page-database.php:82
+msgid "FireStats database configuration will be lost."
+msgstr "A FireStats konfiguráció el fog veszni."
+
+# c:/temp/firestats/php/page-database.php:83
+msgid "Use Wordpress database"
+msgstr "Wordpress adatbázis használata"
+
+# c:/temp/firestats/php/page-database.php:94
+msgid "To perform one of the following actions:"
+msgstr "Parancsok végrehajtása :"
+
+# c:/temp/firestats/php/page-database.php:96
+msgid "Attach to an existing FireStats installation"
+msgstr "Régebbi FireStats telepítés csatolása"
+
+# c:/temp/firestats/php/page-database.php:97
+# c:/temp/firestats/php/page-database.php:217
+msgid "Install FireStats into an existing database"
+msgstr "FireStats telepítése meglévő adatbázisba"
+
+# c:/temp/firestats/php/page-database.php:98
+# c:/temp/firestats/php/page-database.php:220
+msgid "Create a new database and install FireStats there"
+msgstr "Új FireStats adatbázis telepítése"
+
+# c:/temp/firestats/php/page-database.php:100
+msgid "Follow instructions in the help"
+msgstr "Tanácsok követése a súgóból."
+
+# c:/temp/firestats/php/page-database.php:109
+msgid "Database host"
+msgstr "Adatbázis host"
+
+# c:/temp/firestats/php/page-database.php:115
+msgid "Database name"
+msgstr "Adatbázis neve"
+
+# c:/temp/firestats/php/page-database.php:121
+msgid "Database user name"
+msgstr "Adatbázis felhasználó neve"
+
+# c:/temp/firestats/php/page-database.php:127
+msgid "Database password"
+msgstr "Adatbázis jelszava"
+
+# c:/temp/firestats/php/page-database.php:133
+msgid "Tables prefix"
+msgstr "Táblázat prefixe"
+
+# c:/temp/firestats/php/page-database.php:142
+# c:/temp/firestats/php/page-database.php:215
+# c:/temp/firestats/php/page-database.php:218
+# c:/temp/firestats/php/page-database.php:221
+msgid "Test connection"
+msgstr "Próba kapcsolat"
+
+# c:/temp/firestats/php/page-database.php:152
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Kattintson a DireStats táblázatok telepítéséhez"
+
+# c:/temp/firestats/php/page-database.php:155
+# c:/temp/firestats/php/page-database.php:218
+msgid "Install tables"
+msgstr "Táblázatok telepítése"
+
+# c:/temp/firestats/php/page-database.php:164
+msgid "Click to use this FireStats database"
+msgstr "kattintson a FireStats adatbázis használatához"
+
+# c:/temp/firestats/php/page-database.php:168
+# c:/temp/firestats/php/page-database.php:215
+msgid "Use this database"
+msgstr "Adatbázis használata"
+
+# c:/temp/firestats/php/page-database.php:180
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "Új adatbázis készítéséhez az adminisztrátornak jóvá kell hagynia a mezőkez."
+
+# c:/temp/firestats/php/page-database.php:181
+msgid "However, For security reason, it is recommanded not to use a database administrator user for day to day operations."
+msgstr "Biztonsági okokból nem ajánlott az adatbázis használata mindennapi szerkesztésre."
+
+# c:/temp/firestats/php/page-database.php:182
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "Írja be a FireStats felhasználói nevét és jelszavát. A későbbiekben ezzel férhet majd hozzá a FireStats adatbázishoz."
+
+# c:/temp/firestats/php/page-database.php:183
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Ha nem választ külön felhasználói nevet és jelszót, akkor az Admin beállítások fognak működni."
+
+# c:/temp/firestats/php/page-database.php:190
+msgid "FireStats User name"
+msgstr "FireStats felhasználói név"
+
+# c:/temp/firestats/php/page-database.php:194
+msgid "FireStats password"
+msgstr "FireStats jelszó"
+
+# c:/temp/firestats/php/page-database.php:200
+# c:/temp/firestats/php/page-database.php:221
+msgid "Create database"
+msgstr "Adatbázis elkészítése"
+
+# c:/temp/firestats/php/page-database.php:213
+# c:/temp/firestats/php/page-database.php:224
+# c:/temp/firestats/php/tabbed-pane.php:111
+msgid "Help"
+msgstr "Súgó"
+
+# c:/temp/firestats/php/page-database.php:214
+msgid "Attach to an existing FireStats database"
+msgstr "Meglévő FireStats adatbázis"
+
+# c:/temp/firestats/php/page-database.php:215
+# c:/temp/firestats/php/page-database.php:218
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Írja be a paramétereket a táblába, nyomja a %s gombot, és ezután a %s gombot."
+
+# c:/temp/firestats/php/page-database.php:221
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Írja be a paramétereket a táblába, <u>de elötte adminként kell bejelentkezned</u>.nyomd meg a %s gombot, és lépj be a FireStats adatbázisba, majd nyomd meg az %s gombot."
+
+# c:/temp/firestats/php/page-database.php:225
+# c:/temp/firestats/php/page-database.php:240
+msgid "Configuration locked"
+msgstr "Konfiguráció lezárva"
+
+# c:/temp/firestats/php/page-database.php:226
+msgid "To change the database configuration you need to unlock it, please enter the password."
+msgstr "A konfiguráció megváltoztatásához ki kell nyitni - ezt a jelszó megadásával teheti meg."
+
+# c:/temp/firestats/php/page-database.php:227
+#, php-format
+msgid "if you forgot your password you can simply delete the file %s from firestats/php directory."
+msgstr "Ha elfelejtette a jelszót, egyszerűen csak törölje ki a %s fájlt a firestats/php könyvtárból."
+
+# c:/temp/firestats/php/page-database.php:241
+msgid "Database configuration is locked, to unlock for 5 minutes enter the lock password."
+msgstr "Adatbázis konfiguráció zárva van. A kinyitásához írja be a jelszót."
+
+# c:/temp/firestats/php/page-database.php:243
+# c:/temp/firestats/php/page-database.php:251
+msgid "Password"
+msgstr "Jelszó"
+
+# c:/temp/firestats/php/page-database.php:244
+msgid "Unlock"
+msgstr "Kinyit"
+
+# c:/temp/firestats/php/page-database.php:249
+msgid "Database configuration is open for changes, enter a password to lock."
+msgstr "Adatbázis konfiguráció nyitva van a változtatásokhoz. A lezárásához írja be a jelszót."
+
+# c:/temp/firestats/php/page-database.php:252
+msgid "Lock"
+msgstr "Lezár"
+
+# c:/temp/firestats/js/firestats.js.php:447
+msgid "Import in progress"
+msgstr "Importálás folyamatban"
+
+# c:/temp/firestats/php/page-import.php:4
+msgid "You can import your hits from another statistics system here."
+msgstr "Importálhatja más rendszerekből a statisztikáját."
+
+# c:/temp/firestats/php/page-import.php:6
+# c:/temp/firestats/php/page-import.php:9
+msgid "Recalculate database cache"
+msgstr "Adatbázis újrakalkulása"
+
+# c:/temp/firestats/php/page-import.php:7
+msgid "In case of data consistency problems, The database cache may need to be rebuilt."
+msgstr "Ebben az esetben az adatmennyiség jelenthet problémát. Az adatbázis újraépítése szükséges lehet."
+
+# c:/temp/firestats/php/page-import.php:8
+msgid "Its not normally needed, but it does not cause any damage"
+msgstr "Nem szükséges, de nem okozhat gondot"
+
+# c:/temp/firestats/php/page-import.php:11
+# c:/temp/firestats/php/page-import.php:16
+# c:/temp/firestats/php/page-import.php:22
+msgid "Counterize"
+msgstr "Counterize"
+
+# c:/temp/firestats/php/page-import.php:16
+#, php-format
+msgid "%s detected"
+msgstr "%s megtalálva"
+
+# c:/temp/firestats/php/page-import.php:22
+#, php-format
+msgid "%s was not detected"
+msgstr "%s nincs meg"
+
+# c:/temp/firestats/js/firestats.js.php:123
+msgid "You need to select an bot you want to remove from the table"
+msgstr "Válassza ki az eltávolítandó robotot a listából"
+
+# c:/temp/firestats/js/firestats.js.php:145
+msgid "Invalid IP address"
+msgstr "Hibás IP cím"
+
+# c:/temp/firestats/js/firestats.js.php:154
+msgid "You need to select an IP address you want to remove from the table"
+msgstr "Jelölje ki az eltávolítandó IP címet a listából"
+
+# c:/temp/firestats/php/page-settings.php:5
+msgid "Automatic version check"
+msgstr "Automatikus verzió ellenőrzés"
+
+# c:/temp/firestats/php/page-settings.php:13
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "Automatikusan ellenőrizze, hogy van-e újabb FireStats verzió (ajánlott)"
+
+# c:/temp/firestats/php/page-settings.php:22
+msgid "IP-to-country database"
+msgstr "IP-to-country adatbázis"
+
+# c:/temp/firestats/php/page-settings.php:25
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "IP-to-country adatbázis verzió: %s"
+
+# c:/temp/firestats/php/page-settings.php:30
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "Automatikusan ellenőrzi, hogy van-e újabb IP-to-country verzió"
+
+# c:/temp/firestats/php/page-settings.php:32
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "IP-to-country frissítése"
+
+# c:/temp/firestats/php/page-settings.php:34
+msgid "Update"
+msgstr "Frissítés"
+
+# c:\work\firestats-1.2\firestats/php/page-settings.php:113
+msgid "Options"
+msgstr "Beállítások"
+
+# c:/temp/firestats/php/page-settings.php:43
+msgid "Select language"
+msgstr "Nyelv kiválasztása"
+
+# c:/temp/firestats/php/page-settings.php:47
+# c:/temp/firestats/php/page-settings.php:129
+# c:/temp/firestats/php/page-stats.php:21
+# c:/temp/firestats/php/page-stats.php:47
+# c:/temp/firestats/php/page-stats.php:55
+# c:/temp/firestats/php/page-stats.php:74
+# c:/temp/firestats/php/page-stats.php:82
+# c:/temp/firestats/php/page-stats.php:102
+# c:/temp/firestats/php/page-stats.php:125
+# c:/temp/firestats/php/page-stats.php:147
+# c:/temp/firestats/php/page-stats.php:155
+# c:/temp/firestats/php/page-stats.php:174
+msgid "Save"
+msgstr "Mentés"
+
+# c:/temp/firestats/php/page-settings.php:48
+msgid "How to translate to a new language"
+msgstr "Új nyelvre fordítás"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-settings.php:57
+msgid "Select your time zone"
+msgstr "Válaszd ki az időzónád"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-settings.php:67
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "Időzóna kiválasztásához szükséges: %s"
+
+# c:\work\firestats-1.2\firestats/php/page-settings.php:142
+msgid "Select WHOIS provider"
+msgstr "Válaszd ki a WHOIS szolgáltatót"
+
+# c:/temp/firestats/php/page-settings.php:54
+msgid "Exclude hits"
+msgstr "Kivételek"
+
+# c:/temp/firestats/php/page-settings.php:69
+msgid "Save excluded records (not recommended)"
+msgstr "Kivételek mentése"
+
+# c:/temp/firestats/php/page-settings.php:72
+msgid "Purge excluded records stored in the database"
+msgstr "Kivételek adatainak tisztítása az adatbázisból"
+
+# c:/temp/firestats/php/page-settings.php:75
+msgid "Purge"
+msgstr "Tisztítás"
+
+# c:/temp/firestats/php/page-settings.php:85
+msgid "Bots list"
+msgstr "Robot lista"
+
+# c:/temp/firestats/php/page-settings.php:90
+# c:/temp/firestats/php/page-settings.php:109
+msgid "Add"
+msgstr "Hozzáadás"
+
+# c:/temp/firestats/php/page-settings.php:91
+# c:/temp/firestats/php/page-settings.php:110
+msgid "Remove"
+msgstr "Törlés"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-settings.php:128
+msgid "Automatic update"
+msgstr "Automatikus frissítés"
+
+# c:/temp/firestats/php/page-settings.php:34
+msgid "Update now"
+msgstr "Frissítés"
+
+# c:/temp/firestats/php/ajax-handler.php:132
+# c:/temp/firestats/php/page-import.php:17
+# c:/temp/firestats/php/tabbed-pane.php:98
+msgid "Export"
+msgstr "Exportálás"
+
+# c:/temp/firestats/php/page-settings.php:104
+msgid "Excluded IPs"
+msgstr "IP kivételek"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-settings.php:128
+#, fuzzy
+msgid "Automatic"
+msgstr "Automatikus frissítés"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:91
+msgid "Delete"
+msgstr "Törlés"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:91
+msgid "Transfer"
+msgstr "Átvitel"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-stats.php:29
+#, fuzzy
+msgid "Manage sites"
+msgstr "Oldal megtekintések"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:118
+# c:\work\firestats-1.2\firestats/php/page-stats.php:323
+msgid "Clear"
+msgstr "Tisztítás"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:125
+# c:\work\firestats-1.2\firestats/php/page-sites.php:148
+msgid "Close"
+msgstr "Bezárás"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:133
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Ezzel az oldalt törlöd az adatbázisból. A művelet visszafordíthatatlan lesz!"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:134
+msgid "What do you want to do with the site hits?"
+msgstr "Biztos, hogy törölni akarod az összes találatot?"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:137
+msgid "Delete all the hits"
+msgstr "Összes találat törlése"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:138
+msgid "Transfer the hits to another site"
+msgstr "Másik oldal találatainak átvitele"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:141
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Írd be a másik ID-t a találatok átviteléhet"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:159
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Figyelem! Információkat veszíthetsz el, legyél óvatos!"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:161
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "FireStats statisztikákat gyűjt össze az oldalakról (amik ugyan azon a szerveren vannak)"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:163
+msgid "The site need to be registered in the sites table"
+msgstr "Az oldalt be kell regisztrálni az oldal-táblázatba"
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:164
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "Az oldal be lesz állítva, hogy megfelelően regisztrálja a találatokat. További információt a súgó gomb alatt találhatsz."
+
+# c:\work\firestats-1.2\firestats/php/page-sites.php:167
+#, php-format
+msgid "Click %s for more information"
+msgstr "Kattints %s további információért."
+
+# c:/temp/firestats/php/version-check.php:164
+msgid "here"
+msgstr "ide"
+
+# c:/temp/firestats/js/firestats.js.php:55
+# c:/temp/firestats/js/firestats.js.php:106
+# c:/temp/firestats/php/page-stats.php:4
+msgid "Refresh statistics"
+msgstr "Statisztika frissitese"
+
+# c:/temp/firestats/php/page-stats.php:17
+msgid "Auto refresh every"
+msgstr "Automatikus frissítés"
+
+# c:/temp/firestats/php/page-stats.php:20
+msgid "minutes"
+msgstr "percenként"
+
+# c:\work\firestats-1.2\firestats/php/page-stats.php:141
+# c:\work\firestats-1.2\firestats/php/page-stats.php:174
+# c:\work\firestats-1.2\firestats/php/page-stats.php:199
+# c:\work\firestats-1.2\firestats/php/page-stats.php:266
+# c:\work\firestats-1.2\firestats/php/page-stats.php:328
+msgid "Apply"
+msgstr "Módosítás"
+
+# c:/temp/firestats/php/page-stats.php:26
+msgid "Status"
+msgstr "Állapot"
+
+# c:/temp/firestats/php/page-stats.php:31
+msgid "Page views in last 24 hours"
+msgstr "Megtekintések 24 órája"
+
+# c:/temp/firestats/php/page-stats.php:31
+msgid "Visits in last 24 hours"
+msgstr "Látogatások 24 órája"
+
+# c:/temp/firestats/php/page-stats.php:38
+msgid "Recent referrers"
+msgstr "Gyakori oldalak"
+
+# c:/temp/firestats/php/page-stats.php:42
+# c:/temp/firestats/php/page-stats.php:69
+# c:/temp/firestats/php/page-stats.php:142
+msgid "Maximum"
+msgstr "Maximum"
+
+# c:/temp/firestats/php/page-stats.php:50
+# c:/temp/firestats/php/page-stats.php:77
+# c:/temp/firestats/php/page-stats.php:97
+# c:/temp/firestats/php/page-stats.php:120
+# c:/temp/firestats/php/page-stats.php:150
+msgid "Days ago"
+msgstr "Napja"
+
+# c:/temp/firestats/php/page-stats.php:65
+msgid "Recent popular pages"
+msgstr "Népszerű oldalak"
+
+# c:/temp/firestats/php/page-stats.php:92
+msgid "Browsers"
+msgstr "Böngészők"
+
+# c:/temp/firestats/php/page-stats.php:115
+msgid "Operating systems"
+msgstr "Operációs rendszerek"
+
+# c:/temp/firestats/php/page-stats.php:138
+msgid "Countries"
+msgstr "Országok"
+
+# c:/temp/firestats/php/page-stats.php:165
+msgid "Hits table"
+msgstr "Találatok"
+
+# c:/temp/firestats/php/page-stats.php:169
+msgid "Number of hits to show"
+msgstr "Megjelenő találatok száma"
+
+# c:/temp/firestats/php/html-utils.php:141
+#, fuzzy
+msgid "User agent"
+msgstr "UserAgent"
+
+# c:\work\firestats-1.2\firestats/php/page-stats.php:299
+msgid "Filter"
+msgstr "Szűrő"
+
+# c:/temp/firestats/php/tabbed-pane.php:64
+msgid "Statistics widget"
+msgstr "Statisztika widget"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:17
+#, php-format
+msgid "You can configure the sidebar widget from %s"
+msgstr "Beállíthatod %s a sidebarodon a widgetet."
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:21
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "A statisztika widgethez szükséges a %s plugin."
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:24
+msgid "Widgets"
+msgstr "Widgets"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:26
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Manuálisan felveheted a következő kódot a sidebarodba:"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:34
+msgid "Comments icons"
+msgstr "Komment ikonok"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:42
+msgid "Add flag icon to comments"
+msgstr "Zászló a kommenteknél"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:51
+msgid "Add browser and operating system icons to comments"
+msgstr "Böngésző és operációs rendszer ikon a kommenteknél"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:56
+msgid "Blog footer"
+msgstr "Blog footer"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:64
+msgid "Add FireStats footer to blog"
+msgstr "FireStats footer a blogon"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:73
+msgid "Show statistics in footer"
+msgstr "Statisztika megjelenítése a footerben"
+
+# c:/temp/firestats/php/page-settings.php:125
+msgid "Excluded users"
+msgstr "Felhasználó kivételek"
+
+# c:\work\firestats-1.2\firestats/php/page-wordpress-settings.php:128
+msgid "Advanced"
+msgstr "Haladó"
+
+# c:\work\firestats-1.2\firestats/php/page-wordpress-settings.php:129
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "WordPress ID, minden találat ebből a blogból felvételre kerül"
+
+# c:\work\firestats-1.2\firestats/php/page-wordpress-settings.php:130
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "Ugyan annak az ID-nek kell lennie, mint az oldal ID-je. Ha nem ez látható, meg kell változtatni."
+
+# c:/temp/firestats/php/tabbed-pane.php:35
+msgid "Demo"
+msgstr "Demo"
+
+# c:/temp/firestats/php/tabbed-pane.php:27
+msgid "Hide"
+msgstr "Elrejt"
+
+# c:\work\firestats-1.2\firestats/php/tabbed-pane.php:67
+msgid "No"
+msgstr "Nem"
+
+# c:\work\firestats-1.2\firestats/php/tabbed-pane.php:68
+msgid "Yes"
+msgstr "Igen"
+
+# c:/temp/firestats/php/tabbed-pane.php:64
+msgid "Statistics"
+msgstr "Statisztika"
+
+# c:/temp/firestats/php/tabbed-pane.php:78
+msgid "Settings"
+msgstr "Beállítások"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/tabbed-pane.php:90
+msgid "WordPress settings"
+msgstr "Wordpress beállítások"
+
+# c:/temp/firestats/php/tabbed-pane.php:93
+msgid "Database"
+msgstr "Adatbázis"
+
+# c:\work\firestats-1.2\firestats/php/tabbed-pane.php:120
+msgid "Sites management"
+msgstr "Oldalbeállítások"
+
+# c:/temp/firestats/php/ip2country.php:112
+#, php-format
+msgid "Error getting version information from %s : %s"
+msgstr "Hiba az információ lekérésnél %s : %s"
+
+# c:/temp/firestats/php/version-check.php:142
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "Új IP-to-country jelent meg! Frissíteni a Beállítások fül alatt lehet."
+
+# c:/temp/firestats/php/version-check.php:162
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "A %s verzió elérhető! További információhoz kattintson %s"
+
+# c:/temp/firestats/php/version-check.php:188
+#, php-format
+msgid "Error opening %s"
+msgstr "Hiba a megnyitáskor %s"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:41
+msgid "User name and password are required to connect to database"
+msgstr "Felhasználói név és jelszó szükséges az adatbázishoz kapcsolódáshoz"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:42
+msgid "Error establishing mySQL database connection"
+msgstr "Hiba a mySQL adatbázishoz kapcsolódáskor"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Database name is required to connect to database"
+msgstr "Szükséges az adatbázis neve a kapcsolódáshoz"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:44
+msgid "mySQL database connection is not active"
+msgstr "mySQL adatbázis inaktív"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:45
+msgid "Unexpected error while querying database"
+msgstr "Kiszámíthatatlan hiba"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:121
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:132
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "Nem lehet lekapcsolódni : %s"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:132
+msgid "Not connected"
+msgstr "Nincs kapcsolat"
+

@@ -1,0 +1,721 @@
+/* 
+Theme Name: Gemini-Plus
+Description: Gemini theme widgetized and control admin panel added by <a href="http://www.wordyblog.com">WordyBlog</a>.<br />10 different ready-made variations on theme or easy to roll your own.
+Version: 1.00
+Author: WordyBlog
+Author URI: http://www.wordyblog.com
+
+Credits:
+Updated version of Gemini by Jennifer Ledbetter http://www.geeksmakemehot.com.
+*/
+
+/* ---------------------------------------------------------------------------------------
+Layout - Two column fixed width centered
+----------------------------------------------------------------------------------------*/
+
+body {
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	text-align: center; /* IE 5.5 hack */
+	background: #fff;
+	color: #333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(images-green/bg.png);
+	background-attachment: fixed;
+	background-position: top;
+	background-repeat: repeat-x;
+}
+
+#farouter {
+	background: #fff;
+	width: 800px; 
+	border: 1px solid #333;
+	margin: 20px auto 20px auto;
+	text-align: left;  /* IE 5.5 hack part II */
+	}
+	
+#outer {
+	}
+	
+#rap {
+	background: #fff;
+	}
+	
+#masthead {
+	background-image: url(images-green/headertrees.jpg);
+	height: 200px;
+	width: 780px;
+	overflow: hidden;
+	letter-spacing: 0.2em;
+	margin: 10px 10px 0 10px;
+	padding: 0 0px 0px 0px;
+	font-size: 150%;
+	font-weight: normal;
+	font-family: 'Century Gothic', Arial, Helvetica, sans-serif; 
+	background-position: left;
+	background-repeat: repeat-y;
+	border: 1px solid #025012;
+}
+
+#main {
+	padding-left:35px;
+	}
+	
+#content {
+	float: left;
+	width: 525px; 
+	overflow: hidden;
+	padding-top: 10px;
+	}
+	
+#menu {
+	float: right;
+	width: 205px; 
+	overflow: hidden;
+	margin-right: 10px; 
+	border-left: 1px dashed #7aa055;
+	}
+	
+#nav {
+	padding-left: 10px;
+	}
+	
+#logo {
+	padding-top: 25px; 
+	padding-left: 12px;
+	}
+	
+#hmenu {
+	margin: 8px; 
+	height: 30px;
+	background: #d0e3b8;
+		border: 1px solid #025012;
+	}
+	
+#hnav {
+	margin: 0;
+	padding: 0;
+	background: #d0e3b8;
+	}
+	
+#clearer { 
+	clear: both; 
+	margin: 0; padding: 0;
+	}
+	
+#footer { 
+	margin: 8px 8px 8px 8px; 
+	background: #d0e3b8;
+	}
+
+
+/* ---------------------------------------------------------------------------------------
+Typographical
+----------------------------------------------------------------------------------------*/
+
+/* --- Linkage ---*/
+	
+a {
+	color: #d0e3b8; 
+	text-decoration: none; 
+	}
+	
+a:visited { 
+	color: #d0e3b8; 
+	text-decoration: none; 
+	}
+
+a:active { 
+	color: #d0e3b8; 
+	text-decoration: none; 
+	}
+	
+a:hover { 
+	color: #d0e3b8; 
+	text-decoration: underline; 
+	}
+
+
+
+	
+/* --- Special Text used by Wordpress --- */
+
+acronym, abbr, span.caps { 
+	border-bottom: 1px dashed #333; 
+	cursor: help; 
+	font-size: 90%; 
+	letter-spacing: .07em;
+	}
+
+blockquote {
+	border-left: 1px solid #d0e3b8;
+	margin-left: 1.5em; 
+	padding: 5px;
+	}
+	
+cite { 
+	font-size: 90%; 
+	font-style: normal; 
+	}
+	
+/* --- Heading Fonts --- */
+
+#header a { 
+	color: #ffff00; 
+	text-decoration: none; 
+	
+
+	}
+	
+#header a:hover { 
+	text-decoration: none; 
+	}
+	
+h1 { 
+	margin: 0; 
+	padding: 20px; 
+	text-align: center; 
+	}
+	
+h2 {
+	color: #7aa055;
+	font-size: 24px;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	margin: 0 10px 10px 0;
+	padding: 10px 0 0 0;
+	font: 100% 'Century Gothic', Arial, Helvetica, sans-serif; 
+}
+
+
+	
+h2#tagline {
+	margin:0; 
+	margin-right: 25px; 
+	padding:0;
+	text-align: center;
+	color: yellow;
+	border: 0;
+	}
+
+
+h3 a {
+	color: #7aa055; 
+	}
+	
+h3 a:hover {
+	color: #7aa055;
+	}
+	
+h3 a:visited {
+	color: #7aa055;
+	}
+
+h3 {
+	font: 18px 'Century Gothic', Arial, Helvetica, sans-serif;
+	margin-left: 0; 
+	margin-top: 30px;
+	color: #7aa055;  
+	font-weight: bold;
+	}
+	
+h3#comments { 
+	margin-left: 20px;
+	}
+	
+h3#respond { 
+	margin-left: 20px; 
+	}
+	
+h4 {
+	font-size: 20px;
+	font-weight: normal;
+	font-family: 'Century Gothic', Arial, Helvetica, sans-serif;
+	color: #333;
+	}
+	
+/* --- Meta --- */	
+.meta { 
+	color: #7aa055;
+	font-size: .95em;
+	font-weight: normal;
+	margin-bottom: 25px;
+	border-bottom: 1px solid #7aa055;
+	padding: 5px 0px 3px 0px;
+	}
+	
+.meta a {
+	color: #7aa055;
+	}
+	
+.meta li, ul.post-meta li {
+	display: inline;
+	}
+	
+.meta ul {
+	display: inline;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	}
+
+ul.post-meta {
+	list-style: none;
+	}
+
+ul.post-meta span.post-meta-key {
+	font-weight: bold;
+	}
+		
+/* --- Feedback --- */
+.feedback {
+	font: 24px 'Century Gothic', Arial, Helvetica, sans-serif;
+	margin-left: 15px; 
+	margin-top: 30px;
+	color: #d0e3b8;  
+	font-weight: normal;
+	}
+
+.feedback a, .feedback a:visited, .feedback a:active {
+	color: #d0e3b8;	
+	}
+	
+.feedback a:hover {
+	color: #7aa055;	
+	}
+
+#hidden {
+	display:none;
+	}
+	
+	
+img { 
+ 	border: 1px solid #7aa055; 
+ 	padding: 4px;
+	margin-right: 8px;
+ 	margin-left: 4px;
+ }
+
+.wp-smiley {
+	   border: none;
+	   padding: 0px;
+	   margin-right: 2px;
+	   margin-left: 2px;
+	}
+	
+p { 
+	font: 100%/175% Verdana, Helvetica, sans-serif;
+	}
+
+
+/* --- credits --- */
+
+.credit {
+	color: #fff;
+	font-size: 90%;
+	margin: 10px 0 0 0;
+	padding: 3px;
+	text-align: center;
+	}
+
+.credit a, .credit a:hover {
+	color: #fff;
+	text-decoration: none;
+	}
+	
+
+/* ---------------------------------------------------------------------------------------
+Posts
+----------------------------------------------------------------------------------------*/
+
+
+	
+.post { 
+	margin: 10px 35px 40px 10px; 
+	}
+	
+.entrytext {
+	margin-left: 30px;
+	}
+	
+.storytitle { 
+	margin-top: 10px; 
+	margin-bottom: 2px; 
+	}
+	
+.storytitle a { 
+	text-decoration: none; 
+	}
+	
+.storycontent{
+	margin-bottom: 25px; 
+	}
+	
+	
+.post ul li {
+	padding: 0px;
+	font-weight: normal;
+	list-style: url(images-green/icon.png);
+	line-height: 1.5em;
+}
+
+.post ul li:hover {
+	padding: 0px;
+	font-weight: normal;
+	list-style: url(images-green/icon2.png);
+	line-height: 1.5em;
+}
+
+
+/* ---------------------------------------------------------------------------------------
+Comments
+----------------------------------------------------------------------------------------*/
+
+#commentform { 
+	margin-left: 20px; 
+	width: 465px;
+	}
+	
+#commentform  #comment { 
+	width:465px; 
+	}
+	
+.commentbox {
+	background: #EFEFEF;
+	border: 1px solid #333;
+	padding: 5px;
+	margin-bottom: 15px;
+	color: #333;
+	width: 465px;
+}
+
+.commentby {
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.commentinfo {
+	font-size: 10px;
+	margin-top: -10px;
+	border-bottom: 1px solid #333;
+}
+
+.commentid {
+	float: right;
+	font-size: 24px;
+	font-style: italic;
+	padding-left: 10px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #c0c0c0;
+}
+
+.commentid a {
+	color: #c0c0c0;
+	text-decoration: none;
+}
+
+/* ---------------------------------------------------------------------------------------
+Menu
+----------------------------------------------------------------------------------------*/
+#mnav {
+		padding-left: 10px;
+}
+
+#mnav a {
+	color: #333;
+}
+
+#mnav a:hover { 
+	color: #c0c0c0;
+	text-decoration: none;
+	}
+	
+.mnav ul {
+	margin-left: 0px;
+	padding-left: 0;
+	list-style-type: none;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 100%;
+	}
+
+.mnav li {
+	display: block;
+	padding: 3px;
+	padding-left: 3px;
+	margin-left: -40px;
+	background-color: #FFF;
+	
+	background-repeat: no-repeat;
+	background-position: 0 55%;
+	border-bottom: 1px dotted #b5b5b5;
+	color: #333;
+	}
+	
+.mnav li:hover {
+	  
+	background-repeat: no-repeat;
+	background-position: 0 55%;
+	color: #c0c0c0;
+	text-decoration: none;
+	}
+
+#nav form {
+	margin: 0 0 0 13px;
+	}
+
+#nav input#s {
+	width: 80%;
+	background: #eee;
+	border: 1px solid #999;
+	color: #000;
+	}
+
+
+#nav ul ul ul.children {
+	font-size: 100%;
+	padding-left: 15px;
+	}
+
+
+#nav { 
+	width: 95%; 
+	}
+
+#nav ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style-type: none;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 100%;
+	margin-bottom: 20px;
+	}
+
+#nav a {
+	display: block;
+	padding: 3px;
+	padding-left: 3px;
+	background-repeat: no-repeat;
+	background-position: top left;
+	border-bottom: 1px dotted #b5b5b5;
+	color: #333;
+	}
+
+#nav a:link, #navlist a:visited, #navlist a:active {
+	text-decoration: none;
+	}
+
+#nav a:hover {
+	
+	color: #7aa055;
+	text-decoration: none;
+	}
+
+/* ---------------------------------------------------------------------------------------
+no buttons
+If you have selected to show graphic bullets in sidebar links there may be times
+when you don't want the buttons to show on links. If that is the case enclose them in 
+<div class="nobuttons"></div> tags.
+----------------------------------------------------------------------------------------*/
+
+.nobuttons a  {
+		display: block;
+		padding: 3px;
+		padding-left: 3px;
+	
+	background-image: none !important;
+	padding-left: 0px !important;
+	border-bottom: none !important;
+	}
+.nobuttons a:visited {
+		display: block;
+		padding: 3px;
+		padding-left: 3px;
+	
+	background-image: none !important;
+	padding-left: 0px !important;
+	border-bottom: none !important;
+	}
+.nobuttons a img { 
+	border: none; 
+	padding: 0px;
+	border-bottom: none !important;
+	}
+	
+#recentcomments a {
+	background-image: none !important;
+	border-bottom: none !important;
+	}
+#recentcomments a:visited {
+	background-image: none !important;
+	border-bottom: none !important;
+	
+	}
+	
+#recentcomments a:hover {
+	background-image: none !important;
+	border-bottom: none !important;
+	
+	}
+.recentcomments a {
+	background-image: none !important;
+	border-bottom: none !important;
+	}
+.recentcomments a:visited {
+	background-image: none !important;
+	border-bottom: none !important;
+	
+	}
+	
+.recentcomments a:hover {
+	background-image: none !important;
+	border-bottom: none !important;
+	
+	}
+
+td a 
+	{
+	background-image: none !important;
+	padding: 0px !important;
+	background-position: bottom center;
+	border-bottom: none !important;
+	}
+td a:visited 
+	{
+	background-image: none !important;
+	padding: 0px !important;
+	background-position: bottom center;
+	border-bottom: none !important;
+	}
+td a:hover 
+	{
+	background-image: none !important;
+	padding: 0px !important;
+	background-position: bottom center;
+	border-bottom: none !important;
+	
+	}
+	
+#accessibility a {
+	display: inline;
+	}
+
+
+/* ---------------------------------------------------------------------------------------
+hnav
+----------------------------------------------------------------------------------------*/
+
+#hmenu {
+	background: #d0e3b8;
+	border: 1px solid #025012;
+	}
+	
+#hnav {
+	background: #d0e3b8;
+	}
+
+#hnav ul {
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 0;
+	margin-top: 0;
+	/* cancels gap caused by top padding in Opera 7.54 */
+	margin-left: 0;
+	color: #333;
+	background: #d0e3b8;
+	width: 100%;
+	font-size: 120%;
+	font-weight: normal;
+	font-family: 'Century Gothic', Arial, Helvetica, sans-serif;
+	line-height: 18px;
+	/* fixes Firefox 0.9.3 */
+	}
+
+#hnav ul li {
+	display: inline;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 5px;
+	/* matches link padding except for left and right */
+	padding-top: 5px;
+	}
+
+#hnav ul li a {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	color: #333;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+	}
+
+#hnav ul li a:hover {
+	background: #fff;
+	color: #d0e3b8;
+	}
+
+#hnav #active { 
+	border-left: 1px solid #fff; 
+	}
+
+/* ---------------------------------------------------------------------------------------
+Classes for Plugins
+----------------------------------------------------------------------------------------*/
+
+
+.gravatar {
+	float:left;
+	padding: 3px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border: 1px solid #333;
+}	
+
+
+/*--------------------------- 'Comment Edit' Buttons ------------------------ */
+#ed_toolbar {
+ background: #d5d7db; 
+ border: 1px solid #d5d7db;
+ padding-left: 5px;
+ width: 465px;
+}
+
+
+#ed_bold {
+ background: url(images/bold.gif) no-repeat top;
+ height: 22px;
+
+ width: 22px;
+ border: 0px none;
+}
+
+
+#ed_italic {
+ background: url(images/italic.gif) no-repeat top;
+ height: 22px;
+ width: 22px;
+ border: 0px none;
+ margin-left: 5px;
+}
+
+
+#ed_link {
+ background: url(images/link.gif) no-repeat top;
+ height: 22px;
+ width: 22px;
+ border: 0px none;
+ margin-left: 5px;
+}
+
+
+#ed_close{
+ background: url(images/close.gif) no-repeat top;
+ height: 22px;
+ width: 22px;
+ border: 0px none;
+ margin-left: 25px;
+}
+

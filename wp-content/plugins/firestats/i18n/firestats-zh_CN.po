@@ -1,0 +1,1455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Firestats\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-03-09 21:06+0800\n"
+"Last-Translator: aw <awflasher@gmail.com>\n"
+"Language-Team: Neptune Studio <sinof2@126.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-KeywordsList: fs_e;fs_r\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese(简体中文)\n"
+"X-Poedit-SearchPath-0: E:\\wwwroot\\Apachenew\\projects\\FireStats\\firestats-1.2\n"
+
+# c:/temp/firestats/firestats-wordpress.php:80
+# c:/temp/firestats/index.php:22
+# c:/temp/firestats/index.php:45
+# c:/temp/firestats/php/footer.php:8
+msgid "FireStats"
+msgstr "FireStats"
+
+# c:/temp/firestats/firestats-wordpress.php:80
+msgid "Loading..."
+msgstr "读取中……"
+
+# c:/temp/firestats/firestats-wordpress.php:99
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "总共： %s 个页面被浏览和 %s 访客。"
+
+# c:/temp/firestats/firestats-wordpress.php:100
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "最近 24 小时： %s 个页面被浏览和 %s 个访客。"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/firestats-wordpress.php:195
+msgid "Only blog administrators can access FireStats"
+msgstr "只有blog管理员才能察看FireStats的统计报告"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/firestats-wordpress.php:413
+msgid "Pages displayed : "
+msgstr "总浏览次数："
+
+# c:/temp/firestats/php/page-stats.php:30
+msgid "Unique visitors : "
+msgstr "总访问者数： "
+
+# c:/temp/firestats/php/page-stats.php:31
+msgid "Pages displayed in last 24 hours : "
+msgstr "最近24小时浏览次数： "
+
+# c:/temp/firestats/php/page-stats.php:32
+msgid "Unique visitors in last 24 hours : "
+msgstr "最近24小时访问者数： "
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/firestats-wordpress.php:467
+#, fuzzy
+msgid "pages viewed"
+msgstr "显示了的页面："
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/firestats-wordpress.php:467
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/firestats-wordpress.php:468
+msgid "today"
+msgstr "今天"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/firestats-wordpress.php:468
+#, fuzzy
+msgid "visits"
+msgstr "访客"
+
+# c:/temp/firestats/firestats-wordpress.php:80
+# c:/temp/firestats/index.php:22
+# c:/temp/firestats/index.php:45
+# c:/temp/firestats/php/footer.php:8
+msgid "Powered by FireStats"
+msgstr "技术支持： FireStats，汉化：张林军"
+
+# c:/temp/firestats/index.php:25
+msgid "FireStats is installed inside WordPress"
+msgstr "FireStats 安装于 WordPress 内"
+
+# c:/temp/firestats/index.php:26
+msgid "Please access it from the WordPress admin interface"
+msgstr "请通过WordPress的管理页面来访问它。"
+
+# c:/temp/firestats/php/ajax-handler.php:538
+#, fuzzy
+msgid "Unknown site type"
+msgstr "未知单元： %s"
+
+# c:/temp/firestats/php/page-help.php:2
+msgid "Collect hits from PHP pages"
+msgstr "从PHP页面中获取点击统计"
+
+# c:/temp/firestats/php/page-help.php:10
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "为了让FireStats能够监视您的页面访问情况，请把下面的代码放到每个需要监视的页面的head标签中(这个页面必须是php页面)。"
+
+# c:/temp/firestats/php/page-help.php:19
+msgid "A typical page header will look like this:"
+msgstr "一个典型的页面开头通常是："
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/tabbed-pane.php:90
+#, fuzzy
+msgid "WordPress"
+msgstr "Wordpress设置"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/help-window.php:102
+msgid "The WordPress plugin registers itself automatically when the its activated"
+msgstr "该WordPress插件将在激活后自动生效"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/help-window.php:108
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/help-window.php:116
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/help-window.php:131
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/help-window.php:137
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/help-window.php:149
+msgid "plugin"
+msgstr "插件"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/help-window.php:124
+msgid "module"
+msgstr "模块"
+
+# c:/temp/firestats/php/page-help.php:2
+#, fuzzy, php-format
+msgid "Collect hits from a %s site"
+msgstr "从PHP页面中获取点击统计"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/help-window.php:189
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "然后再管理员的FireStats配置界面中配置路径 %s 和ID %s"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/help-window.php:199
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "然后编辑以下代码 %s 以包含这些:"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/help-window.php:206
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "为了获得站点%s的统计，您必须安装%s"
+
+# c:/temp/firestats/php/ajax-handler.php:97
+#, php-format
+msgid "Unsupported action code : %s"
+msgstr "不支持的行为代码： %s"
+
+# c:/temp/firestats/php/ajax-handler.php:105
+#, php-format
+msgid "Unexpexted output: %s"
+msgstr "未知的输出： %s"
+
+# c:/temp/firestats/php/ajax-handler.php:117
+#, php-format
+msgid "Saved %d entries to show"
+msgstr "保存的 %d 条目来显示"
+
+# c:/temp/firestats/php/ajax-handler.php:119
+msgid "Saved"
+msgstr "已保存"
+
+# c:/temp/firestats/php/ajax-handler.php:131
+#, php-format
+msgid "Imported %d records from Counterize"
+msgstr "从计数器中导入了 %d 条记录"
+
+# c:/temp/firestats/php/ajax-handler.php:132
+# c:/temp/firestats/php/page-import.php:17
+# c:/temp/firestats/php/tabbed-pane.php:98
+msgid "Import"
+msgstr "导入"
+
+# c:/temp/firestats/php/ajax-handler.php:137
+#, php-format
+msgid "An Error occured while importing from Counterize : %s"
+msgstr "从计数器中导入发生错误： %s"
+
+# c:/temp/firestats/php/ajax-handler.php:148
+#, php-format
+msgid "Added %s to exclude list"
+msgstr "添加了 %s 到现存的列表"
+
+# c:/temp/firestats/php/ajax-handler.php:165
+#, php-format
+msgid "Removed %s from exclude list"
+msgstr "从现有列表中移除了 %s 条记录"
+
+# c:/temp/firestats/php/ajax-handler.php:210
+msgid "Excluded users list saved"
+msgstr "排除用户列表已保存"
+
+# c:/temp/firestats/php/ajax-handler.php:228
+#, php-format
+msgid "Added %s to bots list"
+msgstr "添加了 %s 条记录到bot列表中"
+
+# c:/temp/firestats/php/ajax-handler.php:241
+msgid "Empty string is not allowed"
+msgstr "不允许输入空字符"
+
+# c:/temp/firestats/php/ajax-handler.php:251
+msgid "Removed"
+msgstr "已移除"
+
+# c:/temp/firestats/php/ajax-handler.php:302
+msgid "Not using configuration file"
+msgstr "不使用配置文件"
+
+# c:/temp/firestats/php/ajax-handler.php:309
+msgid "Not installed inside Wordpress"
+msgstr "没有安装于WordPress中"
+
+# c:/temp/firestats/php/ajax-handler.php:320
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "不能删除 fs-config.php : %s"
+
+# c:/temp/firestats/php/ajax-handler.php:341
+msgid "Error creating config file: "
+msgstr "创建配置文件失败："
+
+# c:/temp/firestats/php/ajax-handler.php:364
+msgid "Error upgrading tables"
+msgstr "升级表格错误"
+
+# c:/temp/firestats/php/ajax-handler.php:389
+msgid "Error installing tables"
+msgstr "安装表格错误"
+
+# c:/temp/firestats/php/ajax-handler.php:498
+msgid "Error rebuilding database cache"
+msgstr "重建数据库缓存错误"
+
+# c:/temp/firestats/php/ajax-handler.php:502
+msgid "Database cache rebuilt successfully"
+msgstr "重建数据库缓存成功"
+
+# c:/temp/firestats/php/ajax-handler.php:538
+#, php-format
+msgid "Unkown field: %s"
+msgstr "未知单元： %s"
+
+# c:/temp/firestats/php/ajax-handler.php:573
+msgid "IP-to-country database is already up-to-date"
+msgstr "“IP地址－国家名称转换库”已经是最新版本"
+
+# c:/temp/firestats/php/ajax-handler.php:565
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "在升级“IP地址－国家名称转换库”过程中发生一个错误"
+
+# c:/temp/firestats/php/ajax-handler.php:563
+msgid "file"
+msgstr "文件"
+
+# c:/temp/firestats/php/ajax-handler.php:567
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "您可以下载 %s 来手工升级数据库并且把它解压到 %s"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/ajax-handler.php:739
+msgid "this"
+msgstr "这个"
+
+# c:/temp/firestats/php/ajax-handler.php:567
+#, fuzzy, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "您可以下载 %s 来手工升级数据库并且把它解压到 %s"
+
+# c:/temp/firestats/php/ajax-handler.php:568
+msgid "Error"
+msgstr "错误"
+
+# c:/temp/firestats/php/ip2country.php:186
+#, fuzzy, php-format
+msgid "Error updating bots list: %s"
+msgstr "更新bot列表错误： %s"
+
+# c:/temp/firestats/php/ip2country.php:182
+msgid "Successfully updated bots list"
+msgstr "成功更新bot列表"
+
+# c:/temp/firestats/php/ajax-handler.php:583
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "清空“需排除记录”时发生错误： %s"
+
+# c:/temp/firestats/php/ajax-handler.php:588
+msgid "Purged excluded records"
+msgstr "清空“需排除记录”"
+
+# c:/temp/firestats/php/db-config-utils.php:22
+msgid "Error connecting to database"
+msgstr "连接数据库错误"
+
+# c:/temp/firestats/php/db-config-utils.php:34
+msgid "Error exporting bots list"
+msgstr "导出bot列表错误"
+
+# c:/temp/firestats/php/tabbed-pane.php:64
+msgid "Statistics widget"
+msgstr "侧边栏统计widget"
+
+# c:/temp/firestats/php/version-check.php:164
+msgid "here"
+msgstr "这里"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:17
+#, php-format
+msgid "You can configure the sidebar widget from %s"
+msgstr "您可以通过 %s 来设置侧边栏widget"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:21
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "侧边栏统计工具需要 %s 插件来达到最佳效果。"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:24
+msgid "Widgets"
+msgstr "Widget"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:26
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "您同样可以手工添加下列代码到您主题的侧边栏中："
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:34
+msgid "Comments icons"
+msgstr "在评论中添加小图标"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:42
+msgid "Add flag icon to comments"
+msgstr "在评论中添加国旗小图标"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:51
+msgid "Add browser and operating system icons to comments"
+msgstr "在评论中添加浏览器和操作系统小图标"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:56
+msgid "Blog footer"
+msgstr "Blog页脚设置"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:64
+msgid "Add FireStats footer to blog"
+msgstr "添加FireStats 页脚到您的Blog"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:73
+msgid "Show statistics in footer"
+msgstr "在每个页面的FireStats页脚显示统计信息"
+
+# c:/temp/firestats/php/page-settings.php:125
+msgid "Excluded users"
+msgstr "在统计中需要排除的用户"
+
+# c:/temp/firestats/php/page-settings.php:47
+# c:/temp/firestats/php/page-settings.php:129
+# c:/temp/firestats/php/page-stats.php:21
+# c:/temp/firestats/php/page-stats.php:47
+# c:/temp/firestats/php/page-stats.php:55
+# c:/temp/firestats/php/page-stats.php:74
+# c:/temp/firestats/php/page-stats.php:82
+# c:/temp/firestats/php/page-stats.php:102
+# c:/temp/firestats/php/page-stats.php:125
+# c:/temp/firestats/php/page-stats.php:147
+# c:/temp/firestats/php/page-stats.php:155
+# c:/temp/firestats/php/page-stats.php:174
+msgid "Save"
+msgstr "保存"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-wordpress-settings.php:128
+msgid "Advanced"
+msgstr "高级"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-wordpress-settings.php:129
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "WordPress的FireStats站点ID，该站点的所有行为将被记录到这个ID下，以便与其它站点区分"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-wordpress-settings.php:130
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "这应该与站点列表中的ID相同，您基本上没有必要修改"
+
+# c:/temp/firestats/php/ip2country.php:112
+#, php-format
+msgid "Error getting version information from %s : %s"
+msgstr "从 %s 获取版本更新信息错误： %s"
+
+# c:/temp/firestats/php/version-check.php:142
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "一个新的“IP地址－国家名称转换库”可用，你可以通过“设置”选项卡来升级它"
+
+# c:/temp/firestats/php/version-check.php:162
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "版本 %s 可用！点击 %s 来获取更多信息"
+
+# c:/temp/firestats/php/version-check.php:188
+#, php-format
+msgid "Error opening %s"
+msgstr "打开 %s 错误"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:30
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:110
+msgid "ID"
+msgstr "ID"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:31
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:122
+msgid "Name"
+msgstr "名称"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:32
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:123
+msgid "Type"
+msgstr "类型"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:47
+msgid "How to integrate with this site"
+msgstr "该站点采取何种集成方式"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:62
+msgid "Add a new site"
+msgstr "增加一个新站点"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:97
+msgid "Generic PHP site"
+msgstr "普通PHP站点"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:99
+msgid "Wordpress"
+msgstr "WordPress"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:101
+msgid "Django"
+msgstr "Django"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:103
+msgid "Drupal"
+msgstr "Drupal"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:105
+msgid "Gregarius"
+msgstr "Gregarius"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:107
+msgid "Joomla"
+msgstr "Joomla"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:109
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:111
+msgid "Trac"
+msgstr "Trac"
+
+# c:/temp/firestats/php/html-utils.php:357
+msgid "Unknown"
+msgstr "未知"
+
+# c:/temp/firestats/php/html-utils.php:27
+msgid "Invalid"
+msgstr "无效"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/html-utils.php:211
+msgid "All"
+msgstr "全部"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-wordpress-settings.php:73
+#, fuzzy
+msgid "Show statistics from"
+msgstr "在每个页面的FireStats页脚显示统计信息"
+
+# c:/temp/firestats/php/html-utils.php:80
+msgid "unknown"
+msgstr "未知位置"
+
+# c:/temp/firestats/php/html-utils.php:136
+msgid "IP"
+msgstr "IP地址"
+
+# c:/temp/firestats/php/html-utils.php:137
+msgid "TimeStamp"
+msgstr "访问时间"
+
+# c:/temp/firestats/php/html-utils.php:138
+msgid "URL"
+msgstr "URL地址"
+
+# c:/temp/firestats/php/html-utils.php:139
+msgid "Referrer"
+msgstr "查阅"
+
+# c:/temp/firestats/php/html-utils.php:140
+msgid "Image"
+msgstr "图示"
+
+# c:/temp/firestats/php/html-utils.php:141
+msgid "UserAgent"
+msgstr "客户端情况"
+
+# c:/temp/firestats/php/html-utils.php:162
+# c:/temp/firestats/php/html-utils.php:198
+# c:/temp/firestats/php/html-utils.php:348
+# c:/temp/firestats/php/html-utils.php:442
+# c:/temp/firestats/php/html-utils.php:477
+msgid "No data yet, go get some hits"
+msgstr "还没有数据，先让您的WP获得一些点击吧～"
+
+# c:/temp/firestats/php/html-utils.php:264
+# c:/temp/firestats/php/html-utils.php:288
+# c:/temp/firestats/php/html-utils.php:314
+msgid "Empty"
+msgstr "空"
+
+# c:/temp/firestats/php/html-utils.php:296
+msgid "excluded"
+msgstr "排除"
+
+# c:/temp/firestats/php/html-utils.php:377
+#, php-format
+msgid "(%d hits) (%d more from %s)"
+msgstr "(%d 次点击) (%d 次来自 %s)"
+
+# c:/temp/firestats/php/html-utils.php:382
+#, php-format
+msgid "%d hits"
+msgstr "%d 点击"
+
+# c:/temp/firestats/php/html-utils.php:399
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d 次点击来自 %s"
+
+# c:/temp/firestats/firestats-wordpress.php:80
+# c:/temp/firestats/index.php:22
+# c:/temp/firestats/index.php:45
+# c:/temp/firestats/php/footer.php:8
+#, fuzzy
+msgid "Support FireStats"
+msgstr "FireStats"
+
+# c:/temp/firestats/php/tabbed-pane.php:35
+msgid "Demo"
+msgstr "演示"
+
+# c:/temp/firestats/php/tabbed-pane.php:27
+msgid "Hide"
+msgstr "隐藏"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/tabbed-pane.php:67
+msgid "No"
+msgstr "否"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/tabbed-pane.php:68
+msgid "Yes"
+msgstr "是"
+
+# c:/temp/firestats/php/tabbed-pane.php:64
+msgid "Statistics"
+msgstr "统计数据"
+
+# c:/temp/firestats/php/tabbed-pane.php:78
+msgid "Settings"
+msgstr "设置"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/tabbed-pane.php:90
+msgid "WordPress settings"
+msgstr "Wordpress设置"
+
+# c:/temp/firestats/php/tabbed-pane.php:93
+msgid "Database"
+msgstr "数据库"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/tabbed-pane.php:120
+msgid "Sites management"
+msgstr "站点管理"
+
+# c:/temp/firestats/js/firestats.js.php:123
+msgid "You need to select an bot you want to remove from the table"
+msgstr "你需要选择一个你想从表格中删除的bot"
+
+# c:/temp/firestats/js/firestats.js.php:145
+msgid "Invalid IP address"
+msgstr "无效的IP地址"
+
+# c:/temp/firestats/js/firestats.js.php:154
+msgid "You need to select an IP address you want to remove from the table"
+msgstr "你需要选择一个你想从表格中删除的IP地址"
+
+# c:/temp/firestats/php/page-settings.php:5
+msgid "Automatic version check"
+msgstr "自动版本检测"
+
+# c:/temp/firestats/php/page-settings.php:13
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "自动检测新版本的 FireStats (推荐)"
+
+# c:/temp/firestats/php/page-settings.php:22
+msgid "IP-to-country database"
+msgstr "IP地址－国家名称转换库"
+
+# c:/temp/firestats/php/page-settings.php:25
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "“IP地址－国家名称转换库”版本: %s"
+
+# c:/temp/firestats/php/page-settings.php:30
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "自动检测新版本的“IP地址－国家名称转换库”"
+
+# c:/temp/firestats/php/page-settings.php:32
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "升级“IP地址－国家名称转换库” (请在需要时升级)"
+
+# c:/temp/firestats/php/page-settings.php:34
+msgid "Update"
+msgstr "更新"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-settings.php:113
+msgid "Options"
+msgstr "选项"
+
+# c:/temp/firestats/php/page-settings.php:43
+msgid "Select language"
+msgstr "选择语言"
+
+# c:/temp/firestats/php/page-settings.php:48
+msgid "How to translate to a new language"
+msgstr "如何翻译到一个新的语言"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-settings.php:57
+msgid "Select your time zone"
+msgstr "选择您的时区"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-settings.php:67
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "时区设置需要 %s 或者更新的"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-settings.php:142
+msgid "Select WHOIS provider"
+msgstr "设置WHOIS提供者"
+
+# c:/temp/firestats/php/page-settings.php:54
+msgid "Exclude hits"
+msgstr "希望被排除的点击"
+
+# c:/temp/firestats/php/page-settings.php:69
+msgid "Save excluded records (not recommended)"
+msgstr "保存排除的数据(不推荐)"
+
+# c:/temp/firestats/php/page-settings.php:72
+msgid "Purge excluded records stored in the database"
+msgstr "清空数据库中需要排除的数据"
+
+# c:/temp/firestats/php/page-settings.php:75
+msgid "Purge"
+msgstr "清空"
+
+# c:/temp/firestats/php/page-settings.php:85
+msgid "Bots list"
+msgstr "Bot列表"
+
+# c:/temp/firestats/php/page-settings.php:90
+# c:/temp/firestats/php/page-settings.php:109
+msgid "Add"
+msgstr "添加"
+
+# c:/temp/firestats/php/page-settings.php:91
+# c:/temp/firestats/php/page-settings.php:110
+msgid "Remove"
+msgstr "移除"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-settings.php:128
+msgid "Automatic update"
+msgstr "自动更新"
+
+# c:/temp/firestats/php/page-settings.php:34
+msgid "Update now"
+msgstr "现在更新"
+
+# c:/temp/firestats/php/ajax-handler.php:132
+# c:/temp/firestats/php/page-import.php:17
+# c:/temp/firestats/php/tabbed-pane.php:98
+msgid "Export"
+msgstr "导出"
+
+# c:/temp/firestats/php/page-settings.php:104
+msgid "Excluded IPs"
+msgstr "排除的IP地址"
+
+# c:/temp/firestats/php/db-common.php:111
+msgid "FireStats is properly installed in the database"
+msgstr "FireStats 被成功安装抱数据库中"
+
+# c:/temp/firestats/php/db-config-utils.php:58
+#, fuzzy
+msgid "FireStats is not configured"
+msgstr "FireStats安装完成"
+
+# c:/temp/firestats/php/db-common.php:114
+#, fuzzy
+msgid "Database error, check your configuration"
+msgstr "数据库错误，到 %s 中更正设置"
+
+# c:/temp/firestats/php/db-common.php:111
+#, fuzzy
+msgid "FireStats is not installed in the database"
+msgstr "FireStats 被成功安装抱数据库中"
+
+# c:/temp/firestats/php/page-database.php:48
+#, fuzzy
+msgid "FireStats database need to be upgraded"
+msgstr "FireStats 数据库需要升级。"
+
+# c:/temp/firestats/php/db-common.php:123
+msgid "The FireStats database version is newer this code version, you need to upgrade FireStats"
+msgstr "FireStats数据库版本比目前更高，您需要升级FireStats"
+
+# c:/temp/firestats/php/db-common.php:126
+msgid "Unknown database status code"
+msgstr "未知的数据库情况代码"
+
+# c:/temp/firestats/php/db-common.php:100
+#, fuzzy
+msgid "Database status"
+msgstr "数据库标签"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-database.php:138
+msgid "Click to upgrade"
+msgstr "单击升级"
+
+# c:/temp/firestats/php/page-database.php:49
+msgid "Upgrade"
+msgstr "升级"
+
+# c:/temp/firestats/php/page-database.php:75
+#, php-format
+msgid "Configuration source : %s"
+msgstr "配置来源： %s"
+
+# c:/temp/firestats/php/page-database.php:81
+msgid "To use wordpress database, click this button."
+msgstr "使用WordPress数据库，请点击这里。"
+
+# c:/temp/firestats/php/page-database.php:82
+msgid "FireStats database configuration will be lost."
+msgstr "FireStats 数据库设置将丢失。"
+
+# c:/temp/firestats/php/page-database.php:83
+msgid "Use Wordpress database"
+msgstr "使用WordPress 数据库"
+
+# c:/temp/firestats/php/page-database.php:94
+msgid "To perform one of the following actions:"
+msgstr "如果需要执行下面的任意一个动作："
+
+# c:/temp/firestats/php/page-database.php:96
+msgid "Attach to an existing FireStats installation"
+msgstr "放置到一个现有的FireStats安装中"
+
+# c:/temp/firestats/php/page-database.php:97
+# c:/temp/firestats/php/page-database.php:217
+msgid "Install FireStats into an existing database"
+msgstr "安装FireStats到一个现有的数据库"
+
+# c:/temp/firestats/php/page-database.php:98
+# c:/temp/firestats/php/page-database.php:220
+msgid "Create a new database and install FireStats there"
+msgstr "创建一个新的数据库并且安装FireStats到这个数据库"
+
+# c:/temp/firestats/php/page-database.php:100
+msgid "Follow instructions in the help"
+msgstr "请按照右侧“帮助”中指示的步骤来设置。"
+
+# c:/temp/firestats/php/page-database.php:109
+msgid "Database host"
+msgstr "数据库主机"
+
+# c:/temp/firestats/php/page-database.php:115
+msgid "Database name"
+msgstr "数据库名称"
+
+# c:/temp/firestats/php/page-database.php:121
+msgid "Database user name"
+msgstr "数据库用户名"
+
+# c:/temp/firestats/php/page-database.php:127
+msgid "Database password"
+msgstr "数据库密码"
+
+# c:/temp/firestats/php/page-database.php:133
+msgid "Tables prefix"
+msgstr "表格前缀"
+
+# c:/temp/firestats/php/page-database.php:142
+# c:/temp/firestats/php/page-database.php:215
+# c:/temp/firestats/php/page-database.php:218
+# c:/temp/firestats/php/page-database.php:221
+msgid "Test connection"
+msgstr "测试连接"
+
+# c:/temp/firestats/php/page-database.php:152
+msgid "Click to install and switch to new FireStats tables"
+msgstr "单击来安装并切换到一个新的FireStats表格"
+
+# c:/temp/firestats/php/page-database.php:155
+# c:/temp/firestats/php/page-database.php:218
+msgid "Install tables"
+msgstr "安装表格"
+
+# c:/temp/firestats/php/page-database.php:164
+msgid "Click to use this FireStats database"
+msgstr "点击这里来使用FireStats数据库"
+
+# c:/temp/firestats/php/page-database.php:168
+# c:/temp/firestats/php/page-database.php:215
+msgid "Use this database"
+msgstr "使用这个数据库"
+
+# c:/temp/firestats/php/page-database.php:180
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "要创建一个新的数据库，必须在上面的表格中使用一个管理员账户"
+
+# c:/temp/firestats/php/page-database.php:181
+msgid "However, For security reason, it is recommanded not to use a database administrator user for day to day operations."
+msgstr "然后，为了安全起见，我们不推荐使用管理员账户来执行每天的操作。"
+
+# c:/temp/firestats/php/page-database.php:182
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "输入新的FireStats用户名和密码，这个用户将仅仅有权使用FireStats数据库。"
+
+# c:/temp/firestats/php/page-database.php:183
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "如果您不设置用户名和密码，将使用管理员用户和密码。"
+
+# c:/temp/firestats/php/page-database.php:190
+msgid "FireStats User name"
+msgstr "FireStats用户名"
+
+# c:/temp/firestats/php/page-database.php:194
+msgid "FireStats password"
+msgstr "FireStats密码"
+
+# c:/temp/firestats/php/page-database.php:200
+# c:/temp/firestats/php/page-database.php:221
+msgid "Create database"
+msgstr "创建数据库"
+
+# c:/temp/firestats/php/page-database.php:213
+# c:/temp/firestats/php/page-database.php:224
+# c:/temp/firestats/php/tabbed-pane.php:111
+msgid "Help"
+msgstr "帮助"
+
+# c:/temp/firestats/php/page-database.php:214
+msgid "Attach to an existing FireStats database"
+msgstr "放置到一个现存的FireStats数据库中"
+
+# c:/temp/firestats/php/page-database.php:215
+# c:/temp/firestats/php/page-database.php:218
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "在表格中输入参数， 按 %s，然后按 %s。"
+
+# c:/temp/firestats/php/page-database.php:221
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "在表格中输入参数， <u>您需要输入一个数据库管理员账户</u>. 按 %s，并且输入FireStats数据库用户名和密码，并在完成后按 %s 。"
+
+# c:/temp/firestats/php/page-database.php:225
+# c:/temp/firestats/php/page-database.php:240
+msgid "Configuration locked"
+msgstr "配置被锁定"
+
+# c:/temp/firestats/php/page-database.php:226
+msgid "To change the database configuration you need to unlock it, please enter the password."
+msgstr "要改变数据库设置需要对它解锁，请输入密码。"
+
+# c:/temp/firestats/php/page-database.php:227
+#, php-format
+msgid "if you forgot your password you can simply delete the file %s from firestats/php directory."
+msgstr "如果您忘记密码，您可以删除位于 firestats/php中的文件 %s 。"
+
+# c:/temp/firestats/php/page-database.php:241
+msgid "Database configuration is locked, to unlock for 5 minutes enter the lock password."
+msgstr "数据库配置被锁定，请输入密码来得到5分钟的解锁时间。"
+
+# c:/temp/firestats/php/page-database.php:243
+# c:/temp/firestats/php/page-database.php:251
+msgid "Password"
+msgstr "密码"
+
+# c:/temp/firestats/php/page-database.php:244
+msgid "Unlock"
+msgstr "解锁"
+
+# c:/temp/firestats/php/db-config-utils.php:80
+# c:/temp/firestats/php/page-database.php:248
+msgid "Configuration unlocked"
+msgstr "配置可以更改"
+
+# c:/temp/firestats/php/page-database.php:249
+msgid "Database configuration is open for changes, enter a password to lock."
+msgstr "数据库已经被打开，目前它可以被改写，您可以输入密码来锁定它。"
+
+# c:/temp/firestats/php/page-database.php:252
+msgid "Lock"
+msgstr "锁定"
+
+# c:/temp/firestats/php/ip2country.php:83
+# c:/temp/firestats/php/ip2country.php:198
+msgid "Error creating temporary file"
+msgstr "创建临时文件错误"
+
+# c:/temp/firestats/php/ip2country.php:92
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "创建到 %s 的连接错误"
+
+# c:/temp/firestats/php/ip2country.php:98
+#, php-format
+msgid "Error sending request to %s"
+msgstr "发送要求到 %s 错误"
+
+# c:/temp/firestats/php/ip2country.php:112
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "从 %s  中读取数据错误： %s"
+
+# c:/temp/firestats/php/ip2country.php:139
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "解压“IP地址－国家名称转换库”错误： %s"
+
+# c:/temp/firestats/php/ip2country.php:144
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "不支持的文件格式： %s"
+
+# c:/temp/firestats/php/ip2country.php:157
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "不能升级“IP地址－国家名称转换库”，目录是只读的： %s"
+
+# c:/temp/firestats/php/ip2country.php:159
+# c:/temp/firestats/php/ip2country.php:161
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "不能升级“IP地址－国家名称转换库”，文件是只读的： %s"
+
+# c:/temp/firestats/php/ip2country.php:176
+msgid "Error installing new IP-to-country database"
+msgstr "安装新的“IP地址－国家名称转换库”失败"
+
+# c:/temp/firestats/php/ip2country.php:182
+msgid "Successfuly updated IP-to-country database"
+msgstr "更新“IP地址－国家名称转换库”成功"
+
+# c:/temp/firestats/php/ip2country.php:186
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "更新版本文件错误： %s"
+
+# c:/temp/firestats/php/db-config-utils.php:19
+msgid "Error accessing database"
+msgstr "访问数据库错误"
+
+# c:/temp/firestats/php/db-config-utils.php:25
+msgid "Cannot write configuration file (read only file or directory)"
+msgstr "不能写入设置文件 (只读文件或者文件夹)"
+
+# c:/temp/firestats/php/db-config-utils.php:28
+msgid "Error creating database"
+msgstr "创建数据库错误"
+
+# c:/temp/firestats/php/db-config-utils.php:31
+msgid "Error creating user"
+msgstr "创建用户错误"
+
+# c:/temp/firestats/php/db-config-utils.php:34
+msgid "Error creating tables"
+msgstr "创建表格错误"
+
+# c:/temp/firestats/php/db-config-utils.php:37
+msgid "Error saving configuration"
+msgstr "保存设置错误"
+
+# c:/temp/firestats/php/db-config-utils.php:40
+msgid "Password not specified"
+msgstr "密码未输入，请输入密码"
+
+# c:/temp/firestats/php/db-config-utils.php:43
+msgid "Wrong password"
+msgstr "密码错误"
+
+# c:/temp/firestats/php/db-config-utils.php:53
+msgid "FireStats tables are not installed"
+msgstr "FireStats表格没有安装"
+
+# c:/temp/firestats/php/db-config-utils.php:58
+msgid "FireStats is installed"
+msgstr "FireStats安装完成"
+
+# c:/temp/firestats/php/db-config-utils.php:63
+msgid "Another FireStats database detected"
+msgstr "发现了另外的一个FireStats数据库"
+
+# c:/temp/firestats/php/db-config-utils.php:68
+msgid "New database created successfuly"
+msgstr "成功创建新的数据库"
+
+# c:/temp/firestats/php/db-config-utils.php:72
+msgid "Configuration is locked"
+msgstr "配置被锁定"
+
+# c:/temp/firestats/php/db-config-utils.php:75
+msgid "Error changing lock file"
+msgstr "改变被锁定文件错误"
+
+# c:/temp/firestats/php/db-config-utils.php:83
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "未知的错误代码 %s"
+
+# c:/temp/firestats/php/db-config-utils.php:311
+msgid "Not configured"
+msgstr "没有被设置"
+
+# c:/temp/firestats/php/db-config-utils.php:314
+msgid "FireStats configuration file"
+msgstr "FireStats设置文件"
+
+# c:/temp/firestats/php/db-config-utils.php:317
+msgid "Wordpress configuration file"
+msgstr "WordPress设置文件"
+
+# c:/temp/firestats/php/db-import.php:24
+msgid "Counterize not detected"
+msgstr "没有检测到计数器"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-settings.php:128
+#, fuzzy
+msgid "Automatic"
+msgstr "自动更新"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:91
+msgid "Delete"
+msgstr "删除"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:91
+msgid "Transfer"
+msgstr "移植"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-stats.php:29
+#, fuzzy
+msgid "Manage sites"
+msgstr "页面浏览次数"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:118
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-stats.php:323
+msgid "Clear"
+msgstr "清除"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:125
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:148
+msgid "Close"
+msgstr "关闭"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:133
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "该操作将删除这个站点的统计信息，且不可逆。"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:134
+msgid "What do you want to do with the site hits?"
+msgstr "您想对该站点统计数据进行何种操作?"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:137
+msgid "Delete all the hits"
+msgstr "删除所有统计数据"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:138
+msgid "Transfer the hits to another site"
+msgstr "将该站点统计数据移植到另一站点下"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:141
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "输入一个已经在统计中的站点ID来保存这些数据"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:159
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "注意：这里的某些不当操作极有可能引发潜在问题"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:161
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "FireStats能够统计同一台服务器上不通站点的数据"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:163
+msgid "The site need to be registered in the sites table"
+msgstr "该网站需要登记到站点表中"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:164
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "您需要为该站点设置一个唯一的ID"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-sites.php:167
+#, php-format
+msgid "Click %s for more information"
+msgstr "单击 %s 以获得更多信息"
+
+# c:/temp/firestats/php/db-sql.php:573
+#, php-format
+msgid "Database error: %s"
+msgstr "数据库错误： %s"
+
+# c:/temp/firestats/js/firestats.js.php:55
+# c:/temp/firestats/js/firestats.js.php:106
+# c:/temp/firestats/php/page-stats.php:4
+msgid "Refresh statistics"
+msgstr "刷新统计数据"
+
+# c:/temp/firestats/js/firestats.js.php:95
+# c:/temp/firestats/js/firestats.js.php:221
+msgid "Not a positive number : "
+msgstr "不是一个有效的数字："
+
+# c:/temp/firestats/php/page-stats.php:17
+msgid "Auto refresh every"
+msgstr "自动更新每"
+
+# c:/temp/firestats/php/page-stats.php:20
+msgid "minutes"
+msgstr "分钟"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-stats.php:141
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-stats.php:174
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-stats.php:199
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-stats.php:266
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-stats.php:328
+msgid "Apply"
+msgstr "应用"
+
+# c:/temp/firestats/php/page-stats.php:26
+msgid "Status"
+msgstr "统计情况"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-stats.php:29
+msgid "Page views"
+msgstr "页面浏览次数"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/page-stats.php:30
+msgid "Visits"
+msgstr "访客数"
+
+# c:/temp/firestats/php/page-stats.php:31
+msgid "Page views in last 24 hours"
+msgstr "最近24小时浏览的页面数目"
+
+# c:/temp/firestats/php/page-stats.php:31
+msgid "Visits in last 24 hours"
+msgstr "最近24小时访客的数目"
+
+# c:/temp/firestats/php/page-stats.php:38
+msgid "Recent referrers"
+msgstr "最近查阅"
+
+# c:/temp/firestats/php/page-stats.php:42
+# c:/temp/firestats/php/page-stats.php:69
+# c:/temp/firestats/php/page-stats.php:142
+msgid "Maximum"
+msgstr "最大值"
+
+# c:/temp/firestats/php/page-stats.php:50
+# c:/temp/firestats/php/page-stats.php:77
+# c:/temp/firestats/php/page-stats.php:97
+# c:/temp/firestats/php/page-stats.php:120
+# c:/temp/firestats/php/page-stats.php:150
+msgid "Days ago"
+msgstr "天前"
+
+# c:/temp/firestats/php/page-stats.php:65
+msgid "Recent popular pages"
+msgstr "最近最受欢迎页面"
+
+# c:/temp/firestats/php/page-stats.php:92
+msgid "Browsers"
+msgstr "浏览器类型"
+
+# c:/temp/firestats/php/page-stats.php:115
+msgid "Operating systems"
+msgstr "使用的操作系统"
+
+# c:/temp/firestats/php/page-stats.php:138
+msgid "Countries"
+msgstr "国家和地区"
+
+# c:/temp/firestats/php/page-stats.php:165
+msgid "Hits table"
+msgstr "访问记录列表"
+
+# c:/temp/firestats/php/page-stats.php:169
+msgid "Number of hits to show"
+msgstr "需要显示的点击统计数目"
+
+# c:/temp/firestats/php/html-utils.php:141
+#, fuzzy
+msgid "User agent"
+msgstr "客户端情况"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/page-stats.php:299
+msgid "Filter"
+msgstr "过滤条件"
+
+# c:/temp/firestats/php/page-database.php:155
+# c:/temp/firestats/php/page-database.php:218
+#, fuzzy
+msgid "Installed"
+msgstr "已安装："
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:42
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain.<br/>"
+msgstr "虽然FireStats 是免费的，但是它需要很多时间和很多工作来开发和维护它。<br/>"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:43
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated.<br/>"
+msgstr "如果你喜欢FireStats，并且想支持我在其中付出的努力，您可以给我捐赠。即使是5美元也非常感谢！<br/> "
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:47
+msgid "Yeah, I want to help"
+msgstr "是的，我需要帮助"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:48
+msgid "Nah, go away"
+msgstr "不，走开"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:49
+msgid "Maybe later"
+msgstr "或许以后"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:50
+msgid "Already donated"
+msgstr "已经捐赠"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:60
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d 秒之前"
+
+# c:/temp/firestats/php/page-stats.php:20
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d 分钟之前"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:66
+msgid "one hour ago"
+msgstr "一小时以前"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:69
+#, php-format
+msgid "%d hours ago"
+msgstr "%d 小时前"
+
+# c:/temp/firestats/php/page-stats.php:50
+# c:/temp/firestats/php/page-stats.php:77
+# c:/temp/firestats/php/page-stats.php:97
+# c:/temp/firestats/php/page-stats.php:120
+# c:/temp/firestats/php/page-stats.php:150
+msgid "one day ago"
+msgstr "一天前"
+
+# c:/temp/firestats/php/page-stats.php:50
+# c:/temp/firestats/php/page-stats.php:77
+# c:/temp/firestats/php/page-stats.php:97
+# c:/temp/firestats/php/page-stats.php:120
+# c:/temp/firestats/php/page-stats.php:150
+#, php-format
+msgid "%d days ago"
+msgstr "%d 天前"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:78
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d 星期前"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:81
+#, php-format
+msgid "%d months ago"
+msgstr "%d 月前"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/donation-window.php:84
+#, php-format
+msgid "%d years ago"
+msgstr "%d 年前"
+
+# c:/temp/firestats/php/db-config-utils.php:40
+#, fuzzy
+msgid "Site name not specified"
+msgstr "密码未输入，请输入密码"
+
+# c:/temp/firestats/js/firestats.js.php:95
+# c:/temp/firestats/js/firestats.js.php:221
+#, fuzzy
+msgid "Site ID must be a positive number"
+msgstr "不是一个有效的数字："
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/db-sql.php:39
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/db-sql.php:73
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "该ID已经被另一个站点使用"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/db-sql.php:64
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/db-sql.php:115
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/db-sql.php:131
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "不存在ID为%s的站点"
+
+# c:/temp/firestats/php/db-sql.php:15
+# c:/temp/firestats/php/db-sql.php:52
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "无效的IP地址： %s"
+
+# c:/temp/firestats/php/db-sql.php:27
+#, php-format
+msgid "The IP address %s is already in the database"
+msgstr "IP地址 %s 已经存在于数据库中"
+
+# c:/temp/firestats/php/db-sql.php:89
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "bot的通配符 %s 已经存在于数据库中"
+
+# c:/temp/firestats/php/db-sql.php:541
+msgid "Others"
+msgstr "其他"
+
+# c:/temp/firestats/php/version-check.php:188
+#, php-format
+msgid "Error opening file : %s"
+msgstr "打开文件错误： %s"
+
+# c:/temp/firestats/js/firestats.js.php:447
+msgid "Import in progress"
+msgstr "正在导入"
+
+# c:/temp/firestats/php/page-import.php:4
+msgid "You can import your hits from another statistics system here."
+msgstr "在这里您可以从其他统计系统导入点击统计数据。"
+
+# c:/temp/firestats/php/page-import.php:6
+# c:/temp/firestats/php/page-import.php:9
+msgid "Recalculate database cache"
+msgstr "重新计算数据库缓存"
+
+# c:/temp/firestats/php/page-import.php:7
+msgid "In case of data consistency problems, The database cache may need to be rebuilt."
+msgstr "如果数据库出现一致性错误，则需要重建数据库缓存。"
+
+# c:/temp/firestats/php/page-import.php:8
+msgid "Its not normally needed, but it does not cause any damage"
+msgstr "这个通常并不需要，但是也不会带来任何损坏"
+
+# c:/temp/firestats/php/page-import.php:11
+# c:/temp/firestats/php/page-import.php:16
+# c:/temp/firestats/php/page-import.php:22
+msgid "Counterize"
+msgstr "计数器"
+
+# c:/temp/firestats/php/page-import.php:16
+#, php-format
+msgid "%s detected"
+msgstr "%s 被检测到"
+
+# c:/temp/firestats/php/page-import.php:22
+#, php-format
+msgid "%s was not detected"
+msgstr "%s 没有检测到"
+
+# c:/temp/firestats/php/ajax-handler.php:228
+#, fuzzy
+msgid "Import bots list"
+msgstr "添加到bot列表"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/import-bots-list.php:18
+msgid "Select bot-list file"
+msgstr "选择bot列表文件"
+
+# c:/temp/firestats/php/ajax-handler.php:132
+# c:/temp/firestats/php/page-import.php:17
+# c:/temp/firestats/php/tabbed-pane.php:98
+msgid "Import type"
+msgstr "导入类型"
+
+# c:/temp/firestats/php/ajax-handler.php:228
+msgid "Add to bots list"
+msgstr "添加到bot列表"
+
+# c:/temp/firestats/php/page-settings.php:85
+msgid "Replace bots list"
+msgstr "替换bot列表"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/php/import-bots-list.php:31
+msgid "Send File"
+msgstr "发送文件"
+
+# F:\starypc\sysdvd2\projects\localization\firestats\firestats_svn\firestats-1.1/php/import-bots-list.php:34
+msgid "Incorrect file format"
+msgstr "错误文件格式"
+
+# c:/temp/firestats/php/ip2country.php:186
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "导入bot列表错误： %s"
+
+# c:/temp/firestats/php/db-config-utils.php:68
+msgid "bots list imported successfully"
+msgstr "bot列表导入成功"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:41
+msgid "User name and password are required to connect to database"
+msgstr "需要用户名和密码来连接数据库"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:42
+msgid "Error establishing mySQL database connection"
+msgstr "建立mySQL 数据库连接错误"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Database name is required to connect to database"
+msgstr "需要数据库名称来连接数据库"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:44
+msgid "mySQL database connection is not active"
+msgstr "mySQL 数据库连接没有处于活动状态"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:45
+msgid "Unexpected error while querying database"
+msgstr "查阅数据库发生没有预计的错误"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:121
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:132
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "不能断开连接： %s"
+
+# c:/temp/firestats/php/ezsql/mysql/ez_sql_mysql.php:132
+msgid "Not connected"
+msgstr "未连接"
+
+# E:\wwwroot\Apachenew\projects\FireStats\firestats-1.2/firestats/js/firestats.js.php:525
+msgid "Session expired, press ok to reload"
+msgstr "Session过期，单击确定重载页面"
+

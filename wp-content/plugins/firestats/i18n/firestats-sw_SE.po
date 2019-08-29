@@ -1,0 +1,1437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FireStats\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-03-16 15:56+0100\n"
+"Last-Translator: Markus Magnuson <markus.magnuson@gmail.com>\n"
+"Language-Team: Markus Magnuson <markus.magnuson@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Swedish (Svenska)\n"
+"X-Poedit-Country: Sweden\n"
+"X-Poedit-KeywordsList: fs_r;fs_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/markus/Kod/firestats/branches/firestats-1.2\n"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:127
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/index.php:20
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/index.php:43
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/footer.php:31
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:49
+msgid "FireStats"
+msgstr "FireStats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:127
+msgid "Loading..."
+msgstr "Laddar…"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:146
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Totalt: %s sidvisningar och %s besökare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:147
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "Senaste dygnet: %s sidvisningar och %s besökare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:195
+msgid "Only blog administrators can access FireStats"
+msgstr "Endast administratörer kan komma åt FireStats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:461
+msgid "Pages displayed : "
+msgstr "Sidvisningar:"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:462
+msgid "Unique visitors : "
+msgstr "Besökare:"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:463
+msgid "Pages displayed in last 24 hours : "
+msgstr "Sidvisningar det senaste dygnet:"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:464
+msgid "Unique visitors in last 24 hours : "
+msgstr "Besökare det senaste dygnet:"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:515
+msgid "pages viewed"
+msgstr "sidvisningar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:515
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:516
+msgid "today"
+msgstr "idag"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:516
+msgid "visits"
+msgstr "besökare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/firestats-wordpress.php:525
+msgid "Powered by FireStats"
+msgstr "Använder FireStats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/index.php:23
+msgid "FireStats is installed inside WordPress"
+msgstr "FireStats är installerat i WordPress"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/index.php:24
+msgid "Please access it from the WordPress admin interface"
+msgstr "Använd det genom administrationssidan i WordPress"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/js/firestats.js.php:211
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:91
+msgid "Not a positive number : "
+msgstr "Inte ett positivt tal:"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/js/firestats.js.php:525
+msgid "Session expired, press ok to reload"
+msgstr "Sessionen har avslutats, klicka på OK för att ladda om"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:153
+#, php-format
+msgid "Unsupported action code : %s"
+msgstr "Okänd åtgärdskod: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:162
+#, php-format
+msgid "Unexpexted output: %s"
+msgstr "Oväntat resultat: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:174
+#, php-format
+msgid "Saved %d entries to show"
+msgstr "Sparade %d objekt för visning"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:176
+msgid "Saved"
+msgstr "Sparade"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:188
+#, php-format
+msgid "Imported %d records from Counterize"
+msgstr "Importerade %d objekt från Counterize"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:189
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:36
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:218
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:116
+msgid "Import"
+msgstr "Importera"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:194
+#, php-format
+msgid "An Error occured while importing from Counterize : %s"
+msgstr "Ett fel uppstod vid importering från Counterize: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:205
+#, php-format
+msgid "Added %s to exclude list"
+msgstr "Lade till %s i listan över exkluderade användare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:222
+#, php-format
+msgid "Removed %s from exclude list"
+msgstr "Tog bort %s från listan över exkluderade användare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:318
+msgid "Excluded users list saved"
+msgstr "Listan över exkluderade användare uppdaterades"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:336
+#, php-format
+msgid "Added %s to bots list"
+msgstr "Lade till %s i listan över botar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:349
+msgid "Empty string is not allowed"
+msgstr "Du kan inte ange en tom textsträng"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:359
+msgid "Removed"
+msgstr "Tog bort"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:410
+msgid "Not using configuration file"
+msgstr "Använder inte en inställningsfil"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:417
+msgid "Not installed inside Wordpress"
+msgstr "Är inte installerat i WordPress"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:428
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "Kunde inte ta bort fs-config.php: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:449
+msgid "Error creating config file: "
+msgstr "Kunde inte skapa inställningsfil: "
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:472
+msgid "Error upgrading tables"
+msgstr "Kunde inte uppgradera tabeller"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:497
+msgid "Error installing tables"
+msgstr "Kunde inte installera tabeller"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:608
+msgid "Error rebuilding database cache"
+msgstr "Kunde inte bygga om databascachen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:612
+msgid "Database cache rebuilt successfully"
+msgstr "Databascachen byggdes om utan problem"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:686
+#, php-format
+msgid "Unkown field: %s"
+msgstr "Okänt fält: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:723
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "Kunde inte uppdatera databasen för ip-till-land"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:727
+msgid "file"
+msgstr "fil"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:729
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Du kan uppdatera databasen manuellt genom att ladda ner %s och packa upp den i %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:734
+msgid "this"
+msgstr "den här"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:736
+#, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "Du kan uppdatera databasen manuellt genom att öppna %s, ladda ner <b>zip_url</b>, och packa upp den i %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:738
+msgid "Error"
+msgstr "Fel"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:743
+msgid "IP-to-country database is already up-to-date"
+msgstr "Databasen för ip-till-land är redan uppgraderad"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:765
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:784
+#, php-format
+msgid "Error updating bots list: %s"
+msgstr "Kunde inte uppdatera listan över botar: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:777
+msgid "Successfully updated bots list"
+msgstr "Uppdaterade listan över botar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:799
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Kunde inte ta bort exkluderade objekt: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:804
+msgid "Purged excluded records"
+msgstr "Tog bort exkluderade objekt"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ajax-handler.php:886
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-common.php:132
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:22
+msgid "Error connecting to database"
+msgstr "Kunde inte ansluta till databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-common.php:114
+msgid "FireStats is properly installed in the database"
+msgstr "FireStats är installerat i databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-common.php:117
+msgid "FireStats is not configured"
+msgstr "FireStats är inte inställt"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-common.php:120
+msgid "Database error, check your configuration"
+msgstr "Databasfel, kontrollera dina inställningar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-common.php:123
+msgid "FireStats is not installed in the database"
+msgstr "FireStats är inte installerat i databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-common.php:126
+msgid "FireStats database need to be upgraded"
+msgstr "FireStats databas måste uppgraderas"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-common.php:129
+msgid "The FireStats database version is newer this code version, you need to upgrade FireStats"
+msgstr "Versionen av FireStats i databasen är senare än kodens version, du måste uppgradera FireStats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-common.php:135
+msgid "Unknown database status code"
+msgstr "Okänd statuskod för databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:19
+msgid "Error accessing database"
+msgstr "Kunde inte läsa databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:25
+msgid "Cannot write configuration file (read only file or directory)"
+msgstr "Kunde inte spara inställningsfilen (endast läsrättigheter)"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:28
+msgid "Error creating database"
+msgstr "Kunde inte skapa databas"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:31
+msgid "Error creating user"
+msgstr "Kunde inte skapa användare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:34
+msgid "Error creating tables"
+msgstr "Kunde inte skapa tabeller"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:37
+msgid "Error saving configuration"
+msgstr "Kunde inte spara inställningar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:40
+msgid "Password not specified"
+msgstr "du har inte angett något lösenord"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:43
+msgid "Wrong password"
+msgstr "Fel lösenord"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:53
+msgid "FireStats tables are not installed"
+msgstr "FireStats tabeller är inte installerade"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:58
+msgid "FireStats is installed"
+msgstr "FireStats är installerat"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:63
+msgid "Another FireStats database detected"
+msgstr "En annan FireStats-databas hittades"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:68
+msgid "New database created successfuly"
+msgstr "Skapade en ny databas"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:72
+msgid "Configuration is locked"
+msgstr "Inställningarna är låsta"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:75
+msgid "Error changing lock file"
+msgstr "Kunde inte ändra låsfilen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:80
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:338
+msgid "Configuration unlocked"
+msgstr "Inställningarna är upplåsta"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:83
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Oväntad felkod %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:311
+msgid "Not configured"
+msgstr "Ej inställt"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:314
+msgid "FireStats configuration file"
+msgstr "FireStats inställningsfil"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-config-utils.php:317
+msgid "Wordpress configuration file"
+msgstr "WordPress inställningsfil"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-import.php:24
+msgid "Counterize not detected"
+msgstr "Counterize kunde inte hittas."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:24
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:53
+msgid "Site name not specified"
+msgstr "du har inte angett något webbplatsnamn"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:36
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:57
+msgid "Site ID must be a positive number"
+msgstr "Webbplatsens id-nummer måste vara ett positivt tal"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:39
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:73
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "Det finns redan en webbplats med id-numret %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:64
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:115
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:131
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "Det finns ingen webbplats med id-numret %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:165
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:202
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Felaktig ip-adress: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:177
+#, php-format
+msgid "The IP address %s is already in the database"
+msgstr "Ip-adressen %s finns redan i databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:238
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "Wildcardet %s för botar finns redan i databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:582
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:628
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:113
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:565
+msgid "Unknown"
+msgstr "Okänd"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:762
+msgid "Others"
+msgstr "Andra"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:794
+#, php-format
+msgid "Database error: %s"
+msgstr "Databasfel: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/db-sql.php:829
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Kunde inte öppna fil: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:12
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:33
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:46
+msgid "Support FireStats"
+msgstr "Stöd FireStats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:36
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:149
+msgid "Page views"
+msgstr "Sidvisningar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:37
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:150
+msgid "Visits"
+msgstr "Besökare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:38
+msgid "Installed"
+msgstr "Installerat"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:48
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain.<br/>"
+msgstr "FireStats är gratis, men det tar ändå en massa tid att utveckla och underhålla.<br />"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:49
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated.<br/>"
+msgstr "Om du gillar FireStats och vill stödja projektet kan du göra en mindre donation, till och med en ynka femtiolapp uppskattas!<br />"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:52
+msgid "Yeah, I want to help"
+msgstr "Ja, jag vill hjälpa till"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:53
+msgid "Nah, go away"
+msgstr "Nej tack"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:54
+msgid "Maybe later"
+msgstr "Kanske senare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:55
+msgid "Already donated"
+msgstr "Jag har redan donerat"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:66
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d sekunder sen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:69
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d minuter sen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:72
+msgid "one hour ago"
+msgstr "ett timme sen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:75
+#, php-format
+msgid "%d hours ago"
+msgstr "%d timmar sen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:78
+msgid "one day ago"
+msgstr "en dag sen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:81
+#, php-format
+msgid "%d days ago"
+msgstr "%d dagar sen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:84
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d veckor sen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:87
+#, php-format
+msgid "%d months ago"
+msgstr "%d månader sen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/donation-window.php:90
+#, php-format
+msgid "%d years ago"
+msgstr "%d år sen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/export-bots-list.php:21
+msgid "Error exporting bots list"
+msgstr "Kunde inte exportera listan över botar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:34
+msgid "Unknown site type"
+msgstr "Okänd webbplatstyp"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:77
+msgid "Collect hits from PHP pages"
+msgstr "Samla träffar från php-sidor"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:78
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "För att FireStats ska kunna samla träffar från dina sidor måste du lägga till följande rad i sidhuvudet på varje sida du vill hålla reda på (sidan måste vara en php-sida)."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:84
+msgid "A typical page header will look like this:"
+msgstr "Ett typiskt sidhuvud kan se ut så här:"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:101
+msgid "WordPress"
+msgstr "WordPress"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:102
+msgid "The WordPress plugin registers itself automatically when the its activated"
+msgstr "Insticksprogrammet för WordPress registrerar sig självt när det aktiveras"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:108
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:116
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:131
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:137
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:149
+msgid "plugin"
+msgstr "insticksprogram"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:124
+msgid "module"
+msgstr "modul"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:168
+#, php-format
+msgid "Collect hits from a %s site"
+msgstr "Samla träffar från en %s-webbplats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:189
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "och sedan ställa in det i administrationsmenyn med sökvägen %s och id-numret %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:199
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "och sedan ändra i %s så att följande rader finns med:"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/help-window.php:206
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "För att samla statistik från webbplatsen %s måste du installera %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:30
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:110
+msgid "ID"
+msgstr "Id-nummer"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:31
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:122
+msgid "Name"
+msgstr "Namn"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:32
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:123
+msgid "Type"
+msgstr "Typ"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:47
+msgid "How to integrate with this site"
+msgstr "Hur du integrerar den här webbplatsen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:62
+msgid "Add a new site"
+msgstr "Lägg till en ny webbplats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:97
+msgid "Generic PHP site"
+msgstr "Allmän php-sida"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:99
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:101
+msgid "Django"
+msgstr "Django"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:103
+msgid "Drupal"
+msgstr "Drupal"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:105
+msgid "Gregarius"
+msgstr "Gregarius"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:107
+msgid "Joomla"
+msgstr "Joomla"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:109
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:111
+msgid "Trac"
+msgstr "Trac"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:198
+msgid "Invalid"
+msgstr "Felaktig"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:211
+msgid "All"
+msgstr "Alla"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:212
+msgid "Show statistics from"
+msgstr "Visa statistik från"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:287
+msgid "unknown"
+msgstr "okänd"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:354
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:292
+msgid "IP"
+msgstr "IP"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:355
+msgid "TimeStamp"
+msgstr "Datum/tid"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:356
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:293
+msgid "URL"
+msgstr "URL"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:357
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:294
+msgid "Referrer"
+msgstr "Hänvisning"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:358
+msgid "Image"
+msgstr "Bild"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:359
+msgid "UserAgent"
+msgstr "Klient"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:380
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:413
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:556
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:645
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:680
+msgid "No data yet, go get some hits"
+msgstr "Ingen information än, skaffa besökare först."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:475
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:499
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:525
+msgid "Empty"
+msgstr "Tom"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:507
+msgid "excluded"
+msgstr "exkluderad"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:585
+#, php-format
+msgid "(%d hits) (%d more from %s)"
+msgstr "(%d sidvisningar) (%d till från %s)"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:590
+#, php-format
+msgid "%d hits"
+msgstr "%d sidvisningar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/html-utils.php:607
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d sidvisningar från %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:7
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:14
+msgid "Import bots list"
+msgstr "Importera lista över botar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:25
+msgid "Select bot-list file"
+msgstr "Välj fil som innehåller en lista över botar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:26
+msgid "Import type"
+msgstr "Importeringstyp"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:28
+msgid "Add to bots list"
+msgstr "Lägg till i listan över botar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:29
+msgid "Replace bots list"
+msgstr "Ersätt listan över botar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:31
+msgid "Send File"
+msgstr "Skicka fil"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:41
+msgid "Incorrect file format"
+msgstr "Fel filformat"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:53
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Kunde inte importera listan över btar: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/import-bots-list.php:58
+msgid "bots list imported successfully"
+msgstr "Listan över botar importerades"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:87
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:201
+msgid "Error creating temporary file"
+msgstr "Kunde inte skapa tillfällig fil"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:96
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "Kunde inte öppna anslutning till %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:101
+#, php-format
+msgid "Error sending request to %s"
+msgstr "Kunde inte skicka förfrågan till %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:115
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Kunde inte läsa information från %s: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:142
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "Kunde inte läsa databasen för ip-till-land: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:147
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Inget stöd för filtypen %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:160
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "Kunde inte uppdatera databasen för ip-till-land, endast läsbar mapp: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:162
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:164
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "Kunde inte uppdatera databasen för ip-till-land, endast läsbar fil: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:179
+msgid "Error installing new IP-to-country database"
+msgstr "Kunde inte installera ny databas för ip-till-land"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:185
+msgid "Successfuly updated IP-to-country database"
+msgstr "Uppdatera databasen för ip-till-land"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ip2country.php:189
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "Kunde inte uppdatera versionsfilen: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:103
+msgid "Database status"
+msgstr "Databasstatus"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:138
+msgid "Click to upgrade"
+msgstr "Klicka för att uppgradera"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:139
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:165
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Inställningskälla: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:171
+msgid "To use wordpress database, click this button."
+msgstr "För att använda WordPress databas, klicka på den här knappen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:172
+msgid "FireStats database configuration will be lost."
+msgstr "FireStats databasinställningar kommer att tas bort"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:173
+msgid "Use Wordpress database"
+msgstr "Använd WordPress databas"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:184
+msgid "To perform one of the following actions:"
+msgstr "För att utföra någon av dessa åtgärder:"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:186
+msgid "Attach to an existing FireStats installation"
+msgstr "Lägg till i en existerande installation av FireStats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:187
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:307
+msgid "Install FireStats into an existing database"
+msgstr "Installera FireStats i en existerande databas"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:188
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:310
+msgid "Create a new database and install FireStats there"
+msgstr "Skapa en ny databas och installera FireStats i den"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:190
+msgid "Follow instructions in the help"
+msgstr "Följ instruktionerna i hjälpen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:199
+msgid "Database host"
+msgstr "Databasens adress"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:205
+msgid "Database name"
+msgstr "Databasens namn"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:211
+msgid "Database user name"
+msgstr "Användarnamn för databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:217
+msgid "Database password"
+msgstr "Lösenord för databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:223
+msgid "Tables prefix"
+msgstr "Tabellprefix"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:232
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:305
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:308
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:311
+msgid "Test connection"
+msgstr "Testa anslutningen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:242
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Klicka för att installera och byta till de nya FireStats-tabellerna"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:245
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:308
+msgid "Install tables"
+msgstr "Installera tabeller"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:254
+msgid "Click to use this FireStats database"
+msgstr "Klicka för att använda den här FireStats-databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:258
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:305
+msgid "Use this database"
+msgstr "Använd den här databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:270
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "För att skapa en ny databas bör administratörsuppgifter anges ovan"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:271
+msgid "However, For security reason, it is recommanded not to use a database administrator user for day to day operations."
+msgstr "Däremot bör du av säkerhetsskäl inte använda dessa administratörsuppgifter vid vanlig användning av FireStats."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:272
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "Ange ett nytt användarnamn och lösenord för FireStats, den här användaren kommer endast ha tillgång till FireStats-databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:273
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Om du inte anger användarnamn och lösenord kommer administratörsuppgifterna att användas."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:280
+msgid "FireStats User name"
+msgstr "Användarnamn för FireStats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:284
+msgid "FireStats password"
+msgstr "Lösenord för FireStats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:290
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:311
+msgid "Create database"
+msgstr "Skapa databas"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:303
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:314
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:158
+msgid "Help"
+msgstr "Hjälp"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:304
+msgid "Attach to an existing FireStats database"
+msgstr "Lägg till i en existerande FireStats-databas"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:305
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:308
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Ange uppgifterna, tryck på %s, och sedan på %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:311
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Ange uppgifterna, <u>du måste ange administratörsuppgifter</u>. Tryck på %s, fyll i användarnamnet och lösenordet för FireStats, och tryck sedan på %s."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:315
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:330
+msgid "Configuration locked"
+msgstr "Inställningarna låsta"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:316
+msgid "To change the database configuration you need to unlock it, please enter the password."
+msgstr "För att ändra inställningarna i databasen måste du låsa upp dem, var vänlig ange lösenordet."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:317
+#, php-format
+msgid "if you forgot your password you can simply delete the file %s from firestats/php directory."
+msgstr "Om du har glömt lösenordet kan du ta bort filen %s från mappen firestats/php."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:331
+msgid "Database configuration is locked, to unlock for 5 minutes enter the lock password."
+msgstr "Inställningarna för databasen är låsta, för att låsa upp dem i fem minuter, ange lösenordet"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:333
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:341
+msgid "Password"
+msgstr "Lösenord"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:334
+msgid "Unlock"
+msgstr "Lås upp"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:339
+msgid "Database configuration is open for changes, enter a password to lock."
+msgstr "Inställningarna för databasen kan ändras, ange lösenordet för att låsa dem."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-database.php:342
+msgid "Lock"
+msgstr "Lås"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:13
+msgid "Import in progress"
+msgstr "Import pågår"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:23
+msgid "You can import your hits from another statistics system here."
+msgstr "Du kan importera träffar från andra statistiksystem här."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:25
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:28
+msgid "Recalculate database cache"
+msgstr "Bygg om databascachen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:26
+msgid "In case of data consistency problems, The database cache may need to be rebuilt."
+msgstr "Om problem med datasammansättningen uppstår kan du behöva bygga om databascachen."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:27
+msgid "Its not normally needed, but it does not cause any damage"
+msgstr "Det behövs vanligtvis inte, men det skadar heller inte databasen på något sätt."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:30
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:35
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:41
+msgid "Counterize"
+msgstr "Counterize"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:35
+#, php-format
+msgid "%s detected"
+msgstr "%s hittades"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-import.php:41
+#, php-format
+msgid "%s was not detected"
+msgstr "Kunde inte hitta %s."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:17
+msgid "You need to select an bot you want to remove from the table"
+msgstr "Du måste välja vilken bot du vill ta bort från listan"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:39
+msgid "Invalid IP address"
+msgstr "Felaktig ip-adress"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:48
+msgid "You need to select an IP address you want to remove from the table"
+msgstr "Du måste välja vilken ip-adress du vill ta bort från listan"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:76
+msgid "Automatic version check"
+msgstr "Automatisk versionskontroll"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:84
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "Leta automatiskt efter nya versioner av FireStats (rekommenderas)"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:93
+msgid "IP-to-country database"
+msgstr "Databas för ip-till-land"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:96
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "Version av databas för ip-till-land: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:101
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "Leta automatiskt efter nya versioner av databasen för ip-till-land"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:103
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "Uppdatera databasen för ip-till-land nu (om det behövs)"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:105
+msgid "Update"
+msgstr "Uppdatera"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:113
+msgid "Options"
+msgstr "Alternativ"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:114
+msgid "Select language"
+msgstr "Välj språk"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:120
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:132
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:148
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:126
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:218
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:239
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:283
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:113
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:135
+msgid "Save"
+msgstr "Spara"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:122
+msgid "How to translate to a new language"
+msgstr "Hur du översätter till ett nytt språk"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:128
+msgid "Select your time zone"
+msgstr "Välj din tidszon"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:138
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "För att kunna välja tidszon måste du ha %s eller senare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:142
+msgid "Select WHOIS provider"
+msgstr "Välj whois-operatör"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:159
+msgid "Exclude hits"
+msgstr "Exkludera träffar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:174
+msgid "Save excluded records (not recommended)"
+msgstr "Spara exkluderade träffar (rekommenderas ej)"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:177
+msgid "Purge excluded records stored in the database"
+msgstr "Ta bort exkluderade träffar i databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:180
+msgid "Purge"
+msgstr "Ta bort"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:190
+msgid "Bots list"
+msgstr "Lista över botar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:196
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:243
+msgid "Add"
+msgstr "Lägg till"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:197
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:244
+msgid "Remove"
+msgstr "Ta bort"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:211
+msgid "Automatic update"
+msgstr "Automatisk uppdatering"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:214
+msgid "Update now"
+msgstr "Uppdatera nu"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:222
+msgid "Export"
+msgstr "Exportera"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-settings.php:238
+msgid "Excluded IPs"
+msgstr "Exkluderade ip-nummer"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:22
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:24
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:65
+msgid "Automatic"
+msgstr "Automatisk"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:91
+msgid "Delete"
+msgstr "Ta bort"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:91
+msgid "Transfer"
+msgstr "Flytta"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:103
+msgid "Manage sites"
+msgstr "Ställ in webbplatser"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:118
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:323
+msgid "Clear"
+msgstr "Rensa"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:125
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:148
+msgid "Close"
+msgstr "Stäng"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:133
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Webbplatsen kommer att tas bort från databasen, detta går ej att ångra."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:134
+msgid "What do you want to do with the site hits?"
+msgstr "Vad vill du göra med sidträffarna?"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:137
+msgid "Delete all the hits"
+msgstr "Ta bort alla sidträffar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:138
+msgid "Transfer the hits to another site"
+msgstr "Flytta sidträffarna till en annan webbplats"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:141
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Ange id-numret för den webbplats du vill flytta sidträffarna till"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:159
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Varning, från och med nu kan saker och ting gå riktigt snett, var försiktig!"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:161
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "FireStats kan samla statistik från flera olika webbplatser (som ligger på samma server)."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:163
+msgid "The site need to be registered in the sites table"
+msgstr "Webbplatsen måste vara registrerad i listan över webbplatser."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:164
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "Webbplatsen måste ställas in så att den anger sitt id-nummer när den rapporterar en sidträff, klicka på hjälpknappen bredvid webbplatsen för mer information."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:167
+#, php-format
+msgid "Click %s for more information"
+msgstr "Klicka %s för mer information"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-sites.php:168
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:35
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:40
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/version-check.php:148
+msgid "here"
+msgstr "här"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:68
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:102
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:117
+msgid "Refresh statistics"
+msgstr "Uppdatera statistiken"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:137
+msgid "Auto refresh every"
+msgstr "Uppdatera automatiskt efter"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:140
+msgid "minutes"
+msgstr "minuter"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:141
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:174
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:199
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:266
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:328
+msgid "Apply"
+msgstr "OK"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:146
+msgid "Status"
+msgstr "Status"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:151
+msgid "Page views in last 24 hours"
+msgstr "Sidvisningar det senaste dygnet"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:152
+msgid "Visits in last 24 hours"
+msgstr "Besökare det senaste dygnet"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:158
+msgid "Recent referrers"
+msgstr "Senaste hänvisningar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:162
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:188
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:254
+msgid "Maximum"
+msgstr "Maximum"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:169
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:193
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:213
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:234
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:261
+msgid "Days ago"
+msgstr "Dagar sen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:184
+msgid "Recent popular pages"
+msgstr "Senaste populära sidor"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:208
+msgid "Browsers"
+msgstr "Webbläsare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:229
+msgid "Operating systems"
+msgstr "Operativsystem"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:250
+msgid "Countries"
+msgstr "Länder"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:274
+msgid "Hits table"
+msgstr "Lista över träffar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:278
+msgid "Number of hits to show"
+msgstr "Antal träffar att visa"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:295
+msgid "User agent"
+msgstr "Klient"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-stats.php:299
+msgid "Filter"
+msgstr "Filtrera"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:30
+msgid "Statistics widget"
+msgstr "Statistikwidget"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:45
+#, php-format
+msgid "You can configure the sidebar widget from %s"
+msgstr "Du kan ställa in widgeten från %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:49
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "Statistikwidgeten kräver insticksprogrammet %s för bästa resultat."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:52
+msgid "Widgets"
+msgstr "Widgets"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:54
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Du kan också manuellt lägga till följande kod i ditt sidofält:"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:62
+msgid "Comments icons"
+msgstr "Ikon vid kommentarer"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:70
+msgid "Add flag icon to comments"
+msgstr "Visa flaggikon vid kommentarer"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:79
+msgid "Add browser and operating system icons to comments"
+msgstr "Visa ikoner för webbläsare och operativsystem vid kommentarer"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:84
+msgid "Blog footer"
+msgstr "Sidfot"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:92
+msgid "Add FireStats footer to blog"
+msgstr "Lägg till FireStats i sidfoten"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:101
+msgid "Show statistics in footer"
+msgstr "Visa statistik i sidfoten"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:109
+msgid "Excluded users"
+msgstr "Exkluderade användare"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:128
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:129
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "WordPress id-nummer, alla sidträffar från den här bloggen sparas med detta id-nummer."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/page-wordpress-settings.php:130
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "Detta bör vara samma id-nummer som i listan över webbplatser, vanligtvis behöver du aldrig ändra detta."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:51
+msgid "Demo"
+msgstr "Demo"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:61
+msgid "Hide"
+msgstr "Göm"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:67
+msgid "No"
+msgstr "Nej"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:68
+msgid "Yes"
+msgstr "Ja"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:94
+msgid "Statistics"
+msgstr "Statistik"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:98
+msgid "Settings"
+msgstr "Inställningar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:104
+msgid "WordPress settings"
+msgstr "WordPress-inställningar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:112
+msgid "Database"
+msgstr "Databas"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/tabbed-pane.php:120
+msgid "Sites management"
+msgstr "Webbplatsinställningar"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/version-check.php:41
+#, php-format
+msgid "Error getting version information from %s : %s"
+msgstr "Kunde inte hämta versionsinformation från %s: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/version-check.php:123
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "En ny version av databasen för ip-till-land hittades, du kan uppdatera till denna version från inställningsfliken."
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/version-check.php:146
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "Version %s finns tillgänglig, klicka %s för mer information"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/version-check.php:172
+#, php-format
+msgid "Error opening %s"
+msgstr "Kunde inte öppna %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:41
+msgid "User name and password are required to connect to database"
+msgstr "Du måste ange användarnamn och lösenord för att kunna ansluta till databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:42
+msgid "Error establishing mySQL database connection"
+msgstr "Kunde inte upprätta en anslutning till MySQL-databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Database name is required to connect to database"
+msgstr "Du måste ange databasnamn för att kunna ansluta till databasen"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:44
+msgid "mySQL database connection is not active"
+msgstr "Anslutningen till MySQL-databasen är inaktiv"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:45
+msgid "Unexpected error while querying database"
+msgstr "Ett fel uppstod vid databasförfrågning"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:122
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:133
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "Kunde inte avbryta anslutningen: %s"
+
+#: /Users/markus/Kod/firestats/branches/firestats-1.2/firestats/php/ezsql/mysql/ez_sql_mysql.php:133
+msgid "Not connected"
+msgstr "Ej ansluten"
+

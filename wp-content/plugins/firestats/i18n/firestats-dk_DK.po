@@ -1,0 +1,1394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FireStats\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-03-18 11:00+0100\n"
+"Last-Translator: Peter <joecool@tdcadsl.dk>\n"
+"Language-Team: Peter J <joecool@tdcadsl.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: fs_e;fs_r;pt_BR\n"
+"X-Poedit-Basepath: /home/ubuntuser/Desktop/firestats-1.2\n"
+"X-Poedit-SearchPath-0: E:\\Firestats_branch\\firestats-1.2\n"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+msgid "FireStats"
+msgstr "FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+msgid "Loading..."
+msgstr "Loader..."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:49
+#, php-format
+msgid "Total : %s page views and %s visits"
+msgstr "Totale : %s sidevisninger %s besøg"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:50
+#, php-format
+msgid "Last 24 hours : %s page views and %s visits"
+msgstr "De sidste 24 timer : %s sidevisninger og %s besøg"
+
+# E:\Firestats_branch\firestats-1.2/firestats/firestats-wordpress.php:195
+msgid "Only blog administrators can access FireStats"
+msgstr "Kun blog administratorer kan tilgå FireStats"
+
+# E:\Firestats_work_location\firestats-1.1/firestats-wordpress.php:415
+msgid "Pages displayed : "
+msgstr "Viste sider :"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:11
+msgid "Unique visitors : "
+msgstr "Unikke hits"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+msgid "Pages displayed in last 24 hours : "
+msgstr "Sider vist de seneste 24 timer :"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:13
+msgid "Unique visitors in last 24 hours : "
+msgstr "Unikke besøg de sidste 24 timer :"
+
+# E:\Firestats_work_location\firestats-1.1/firestats-wordpress.php:469
+#, fuzzy
+msgid "pages viewed"
+msgstr "Sete sider"
+
+# E:\Firestats_work_location\firestats-1.1/firestats-wordpress.php:469
+# E:\Firestats_work_location\firestats-1.1/firestats-wordpress.php:470
+msgid "today"
+msgstr "i dag"
+
+# E:\Firestats_work_location\firestats-1.1/firestats-wordpress.php:470
+#, fuzzy
+msgid "visits"
+msgstr "besøg"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+msgid "Powered by FireStats"
+msgstr "Powered by FireStats"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:296
+msgid "FireStats is installed inside WordPress"
+msgstr "FireStats er installeret i WordPress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:26
+msgid "Please access it from the WordPress admin interface"
+msgstr "Åbn venligst fra WordPress admin menuen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:69
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:190
+msgid "Not a positive number : "
+msgstr "Ikke et positivt nummer :"
+
+# E:\Firestats_branch\firestats-1.2/firestats/js/firestats.js.php:525
+#, fuzzy
+msgid "Session expired, press ok to reload"
+msgstr "Sessionen er udløbet, klik ok for at genlæse"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:62
+#, php-format
+msgid "Unsupported action code : %s"
+msgstr "Ikke supporteret aktiviveringscode: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:69
+#, php-format
+msgid "Unexpexted output: %s"
+msgstr "Ikke forventet output: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:81
+#, php-format
+msgid "Saved %d entries to show"
+msgstr "Gemte %d registreringer som skal vises"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:83
+msgid "Saved"
+msgstr "Gemt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:94
+#, php-format
+msgid "Imported %d records from Counterize"
+msgstr "Importerede %d registreringer fra Counterize"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+msgid "Import"
+msgstr "Importer"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:99
+#, php-format
+msgid "An Error occured while importing from Counterize : %s"
+msgstr "En fejl opstod under forsøget på at importere fra Counterize : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:110
+#, php-format
+msgid "Added %s to exclude list"
+msgstr "Tilføjet %s til udelukkelseslisten"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:126
+#, php-format
+msgid "Removed %s from exclude list"
+msgstr "Fjernet %s fra udelukkelseslisten"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:171
+msgid "Excluded users list saved"
+msgstr "Listen for udelukkede brugere er gemt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+#, php-format
+msgid "Added %s to bots list"
+msgstr "Tilføjet %s til bot listen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:201
+msgid "Empty string is not allowed"
+msgstr "Tom nøgle ikke tilladt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:211
+msgid "Removed"
+msgstr "Fjernet"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:290
+msgid "Not using configuration file"
+msgstr "Bruger ikke konfigurationsfilen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:296
+msgid "Not installed inside Wordpress"
+msgstr "Ikke installeret i Wordpress"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:306
+#, php-format
+msgid "Failed to delete fs-config.php : %s"
+msgstr "Kunne ikke slette fs-config.php : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+msgid "Error creating config file: "
+msgstr "Fejl ved oprettelse af config file:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:354
+msgid "Error upgrading tables"
+msgstr "Fejl under opgradering af tabeller"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:354
+msgid "Error installing tables"
+msgstr "Fejl under installation af tabeller"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+msgid "Error rebuilding database cache"
+msgstr "Fejl under genopbygning af database cache"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:354
+msgid "Database cache rebuilt successfully"
+msgstr "Database cache genopbygget med succes"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/ajax-handler.php:515
+#, php-format
+msgid "Unkown field: %s"
+msgstr "Ukendt felt: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+msgid "IP-to-country database is already up-to-date"
+msgstr "IP-to-country er allerede opdateret"
+
+msgid "An error has occured while trying to update the IP-to-country database"
+msgstr "En fejl er opstået under forsøget på at opdatere IP-to-country databasen"
+
+msgid "file"
+msgstr "fil"
+
+#, php-format
+msgid "You can update the database manually by downloading this %s and extracting it into %s"
+msgstr "Du kan opdatere databasen manuelt ved at downloade %s og pakke den ud i "
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/ajax-handler.php:734
+msgid "this"
+msgstr "denne"
+
+#, php-format
+msgid "You can update the database manually by opening %s and downloading the <b>zip_url</b>, and extracting it into %s"
+msgstr "Du kan opdatere databasen manuelt ved at åbne %s og downloade <b>zip_url</b>, og pakke den ud i %s"
+
+msgid "Error"
+msgstr "Fejl"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#, fuzzy, php-format
+msgid "Error updating bots list: %s"
+msgstr "Fejl under opdatering af bots-listen: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+msgid "Successfully updated bots list"
+msgstr "Bots-listen er opdateret med succes"
+
+#, php-format
+msgid "Error purging excluded records: %s"
+msgstr "Fejl under forsøget på at rense udelukkede registreringer: %s"
+
+msgid "Purged excluded records"
+msgstr "Rensede  udelukkede registreringer"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+msgid "Error connecting to database"
+msgstr "Fejl under forbindelse til databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+msgid "FireStats is properly installed in the database"
+msgstr "Firestats er installeret korrekt i databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+msgid "FireStats is not configured"
+msgstr "Firestats er ikke konfigureret"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:98
+msgid "Database error, check your configuration"
+msgstr "Database fejl. Check din konfiguration"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+msgid "FireStats is not installed in the database"
+msgstr "Firestats er ikke installeret i databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:124
+#, fuzzy
+msgid "FireStats database need to be upgraded"
+msgstr "FireStars databasen skal opgraderes"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:107
+msgid "The FireStats database version is newer this code version, you need to upgrade FireStats"
+msgstr "FireStats databasens version er nyere. FireStats skal opgraderes"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-common.php:110
+msgid "Unknown database status code"
+msgstr "Ukendt database status kode"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+msgid "Error accessing database"
+msgstr "Fejl under tilgang til databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:25
+msgid "Cannot write configuration file (read only file or directory)"
+msgstr "Kan ikke skrive konfigurationsfilen (read-only fil eller bibliotek)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+msgid "Error creating database"
+msgstr "Fejl under oprettelse af database"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+msgid "Error creating user"
+msgstr "Fejl under oprettelse af bruger"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+msgid "Error creating tables"
+msgstr "Fejl under oprettelse af tabeller"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:290
+msgid "Error saving configuration"
+msgstr "Fejl under gemning af konfiguration"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+msgid "Password not specified"
+msgstr "Kodeord ikke specificeret"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+msgid "Wrong password"
+msgstr "Forkert kodeord"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:110
+msgid "FireStats tables are not installed"
+msgstr "FireStats tabeller er ikke installeret"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+msgid "FireStats is installed"
+msgstr "Firestats er installeret"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:124
+msgid "Another FireStats database detected"
+msgstr "En anden FireStats database fundet"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:198
+msgid "New database created successfuly"
+msgstr "Ny database oprettet korrekt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:22
+msgid "Configuration is locked"
+msgstr "Konfigurationen er låst"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+msgid "Error changing lock file"
+msgstr "Fejl under ændring a låse fil"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:22
+msgid "Configuration unlocked"
+msgstr "Konfigurationen er låst op"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:45
+#, php-format
+msgid "Unexpected error code %s"
+msgstr "Ikke forventet fejl kode %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:15
+msgid "Not configured"
+msgstr "Ikke konfigureret"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:11
+msgid "FireStats configuration file"
+msgstr "FireStats konfigurations fil"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:13
+msgid "Wordpress configuration file"
+msgstr "Wordpress konfigurations fil"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1482
+#, php-format
+msgid "Database error: %s"
+msgstr "Database fejl: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1384
+msgid "Counterize not detected"
+msgstr "Counterize ikke fundet"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/db-config-utils.php:40
+msgid "Site name not specified"
+msgstr "Site navn er ikke specificeret"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:69
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:190
+msgid "Site ID must be a positive number"
+msgstr "Site ID skal være et positivt tal"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/db-sql.php:39
+# E:\Firestats_branch\firestats-1.2/firestats/php/db-sql.php:73
+#, php-format
+msgid "A site with the ID %s already exists"
+msgstr "Et site med ID %s eksisterer allerede"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/db-sql.php:64
+# E:\Firestats_branch\firestats-1.2/firestats/php/db-sql.php:115
+# E:\Firestats_branch\firestats-1.2/firestats/php/db-sql.php:131
+#, php-format
+msgid "No site with the id %s exists"
+msgstr "Intet site med id %s eksisterer"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:453
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:487
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr "Invalid IP adresse : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:463
+#, php-format
+msgid "The IP address %s is already in the database"
+msgstr "IP adressen %s er allerede i databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:522
+#, php-format
+msgid "The bot wildcard %s is already in the database"
+msgstr "Bot betegnelsen %s er allerede i databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:10
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1226
+msgid "Unknown"
+msgstr "Ukendt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+msgid "Others"
+msgstr "Andre"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#, php-format
+msgid "Error opening file : %s"
+msgstr "Fejl under åbning af filen %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/firestats-wordpress.php:29
+# C:\www\testwp-en\wp-content\plugins\FireStats/index.php:51
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/footer.php:8
+msgid "Support FireStats"
+msgstr "Støt FireStats"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-stats.php:29
+msgid "Page views"
+msgstr "Sidevisninger"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-stats.php:30
+msgid "Visits"
+msgstr "besøg"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:97
+msgid "Installed"
+msgstr "Installeret"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:42
+msgid "Even though FireStats is free, it takes a lot of time and hard work to develop and maintain.<br/>"
+msgstr "Selvom FireStats er gratis, kræver det meget tid og hårdt arbejde at udvikle og vedligeholde det. <br/>"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:43
+msgid "If you like FireStats and would like to show your support for the hard work I put into it, You can make a small Donation. Even a $5 donation would be greatly appreciated.<br/>"
+msgstr "Hvis du kan lide FireStats og vil vise din support for det hårde arbejde jeg har lagt i det, kan du give en lille donation. Selv 5$ vil være meget værdsat. <br/>"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:47
+msgid "Yeah, I want to help"
+msgstr "Yeah, jeg vil gerne hjælpe"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:48
+msgid "Nah, go away"
+msgstr "Nah, gå væk"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:49
+msgid "Maybe later"
+msgstr "Måske senere"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:50
+msgid "Already donated"
+msgstr "har allerede give en donation"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:60
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d sekunder siden"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:39
+#, php-format
+msgid "%d minutes ago"
+msgstr "%d minutter siden"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:66
+msgid "one hour ago"
+msgstr "en time siden"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:69
+#, php-format
+msgid "%d hours ago"
+msgstr "%d timer siden"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:31
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:58
+msgid "one day ago"
+msgstr "en dag siden"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:31
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:58
+#, php-format
+msgid "%d days ago"
+msgstr "%d dage siden"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:78
+#, php-format
+msgid "%d weeks ago"
+msgstr "%d uger siden"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:81
+#, php-format
+msgid "%d months ago"
+msgstr "%d måneder siden"
+
+# E:\Firestats_work_location\firestats-1.1/php/donation-window.php:84
+#, php-format
+msgid "%d years ago"
+msgstr "%d år siden"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+msgid "Error exporting bots list"
+msgstr "Fejl under eksport af bots-listen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/ajax-handler.php:515
+msgid "Unknown site type"
+msgstr "Ukendt site type"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-help.php:2
+msgid "Collect hits from PHP pages"
+msgstr "Registrer hits fra PHP sider"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:14
+msgid "To allow FireStats to track access to your pages, you need to add the following line inside the head tag of each of the pages you want to monitor (the page must be a php page)."
+msgstr "For at tillade FireStats at registrere tilgang til dine sider, er du nødt til at tilføje følgende linie i head koden på hver side du vil overvåge (siden skal være en php side)."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:21
+msgid "A typical page header will look like this:"
+msgstr "En typisk side head'er vil se sådan ud:"
+
+# E:\Firestats_work_location\firestats-1.1/php/tabbed-pane.php:90
+msgid "WordPress"
+msgstr "WordPress"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/help-window.php:102
+msgid "The WordPress plugin registers itself automatically when the its activated"
+msgstr "WordPress pluginet registrerer sigselv automatisk når det er aktiveret"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/help-window.php:108
+# E:\Firestats_branch\firestats-1.2/firestats/php/help-window.php:116
+# E:\Firestats_branch\firestats-1.2/firestats/php/help-window.php:131
+# E:\Firestats_branch\firestats-1.2/firestats/php/help-window.php:137
+# E:\Firestats_branch\firestats-1.2/firestats/php/help-window.php:149
+msgid "plugin"
+msgstr "plugin"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/help-window.php:124
+msgid "module"
+msgstr "modul"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-help.php:2
+#, php-format
+msgid "Collect hits from a %s site"
+msgstr "Saml hits fra et %s site"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/help-window.php:189
+#, php-format
+msgid "and then configure it in the administration menu with the path %s and the ID %s"
+msgstr "og konfigurer det så i administrations menuen med stien %s og ID %s"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/help-window.php:199
+#, php-format
+msgid "and then edit the lines in %s to contain this:"
+msgstr "og ret så i linierne i %s for at få dette:"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/help-window.php:206
+#, php-format
+msgid "To collect statistics from your %s site your need to install the %s"
+msgstr "For at få statistik fra dit %s site, skal du installere %s"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:30
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:110
+msgid "ID"
+msgstr "ID"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:31
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:122
+msgid "Name"
+msgstr "Navn"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:32
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:123
+msgid "Type"
+msgstr "Type"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:47
+msgid "How to integrate with this site"
+msgstr "Hvordan integreres med dette site"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:73
+msgid "Orphaned hits"
+msgstr "Forældreløse hits"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:62
+msgid "Add a new site"
+msgstr "Tilføj et nyt site"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:97
+msgid "Generic PHP site"
+msgstr "Generisk PHP site"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:99
+msgid "Wordpress"
+msgstr "WordPress"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:101
+msgid "Django"
+msgstr "Django"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:103
+msgid "Drupal"
+msgstr "Drupal"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:105
+msgid "Gregarius"
+msgstr "Gregarius"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:107
+msgid "Joomla"
+msgstr "Joomla"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:109
+msgid "MediaWiki"
+msgstr "MediaWiki"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:111
+msgid "Trac"
+msgstr "Trac"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/html-utils.php:27
+msgid "Invalid"
+msgstr "Invalid"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/html-utils.php:211
+msgid "All"
+msgstr "Alt"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:73
+msgid "Show statistics from"
+msgstr "Vis statistik fra"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:943
+msgid "unknown"
+msgstr "Ukendt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:998
+msgid "IP"
+msgstr "IP"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:999
+msgid "TimeStamp"
+msgstr "Tid"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1000
+msgid "URL"
+msgstr "URL"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1001
+msgid "Referrer"
+msgstr "Henviser"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1002
+msgid "Image"
+msgstr "Billede"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+msgid "UserAgent"
+msgstr "BrugerAgent"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1024
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1047
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1217
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1319
+msgid "No data yet, go get some hits"
+msgstr "Endnu ingen data, ud og få dig selv nogle hits"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1112
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1145
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1170
+msgid "Empty"
+msgstr "Tom"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1153
+msgid "excluded"
+msgstr "Udelukket"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1248
+#, php-format
+msgid "(%d hits) (%d more from %s)"
+msgstr "(%d hits) (%d flere fra %s)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1253
+#, php-format
+msgid "%d hits"
+msgstr "%d hits"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1270
+#, php-format
+msgid "%d hits from %s"
+msgstr "%d hits fra %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+msgid "Import bots list"
+msgstr "Importer bots liste"
+
+# E:\Firestats_work_location\firestats-1.1/php/import-bots-list.php:18
+msgid "Select bot-list file"
+msgstr "Vælg bot-liste fil"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+msgid "Import type"
+msgstr "Import type"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:189
+msgid "Add to bots list"
+msgstr "Tilføj til bots liste"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:92
+msgid "Replace bots list"
+msgstr "Erstat bots-liste"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/import-bots-list.php:31
+msgid "Send File"
+msgstr "Send fil"
+
+# E:\Firestats_work_location\firestats-1.1/php/import-bots-list.php:34
+msgid "Incorrect file format"
+msgstr "Forkert filformat"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#, php-format
+msgid "Error importing bots list : %s"
+msgstr "Fejl under import af bots-liste: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db-config-utils.php:198
+msgid "bots list imported successfully"
+msgstr "bots liste importeret med succes"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+msgid "Error creating temporary file"
+msgstr "Fejl under forsøg på at oprette en midlertidig fil"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#, php-format
+msgid "Error opening connection to %s"
+msgstr "Fejl ved oprettelse af forbindelse til %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/ip2country.php:27
+#, php-format
+msgid "Error sending request to %s"
+msgstr "Fejl ved forespørgsel til %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#, php-format
+msgid "Error reading data from %s : %s"
+msgstr "Fejl under læsning af data fra %s : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#, php-format
+msgid "Error extracting IP-to-country database: %s"
+msgstr "Fejl under udpakning af IP-to-country databasen: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:62
+#, php-format
+msgid "Unsupported file type : %s"
+msgstr "Ikke supporteret fil type: %s"
+
+#, php-format
+msgid "can't update ip-to-country database, read-only directory : %s"
+msgstr "kan ikke opdatere IP-to-country databasen. Biblioteket er read-only: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#, php-format
+msgid "can't update ip-to-country database, read-only file : %s"
+msgstr "kan ikke opdatere IP-to-country databasen, filen er read-only : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+msgid "Error installing new IP-to-country database"
+msgstr "Fejl under installation af ny IP-to-country database"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+msgid "Successfuly updated IP-to-country database"
+msgstr "IP-to-country databasen er opdateret korrekt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ajax-handler.php:328
+#, php-format
+msgid "Error updating version file : %s"
+msgstr "Fejl under opdatering a versions fil: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+msgid "Database status"
+msgstr "Database status"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-database.php:138
+msgid "Click to upgrade"
+msgstr "Klik for at opgradere"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+msgid "Upgrade"
+msgstr "Opgrader"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:22
+#, php-format
+msgid "Configuration source : %s"
+msgstr "Konfigurationskilde : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:28
+msgid "To use wordpress database, click this button."
+msgstr "Klik her for at bruge WordPress's database"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:29
+msgid "FireStats database configuration will be lost."
+msgstr "FireStats databasens konfiguration vil blive tabt"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:30
+msgid "Use Wordpress database"
+msgstr "Bruger WordPress databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:50
+msgid "To perform one of the following actions:"
+msgstr "For at udføre en af følgende handlinger:"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:52
+msgid "Attach to an existing FireStats installation"
+msgstr "Tilknyt til en  eksisterende FireStats installation"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:53
+msgid "Install FireStats into an existing database"
+msgstr "Installer FireStats i en eksisterende database"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:54
+msgid "Create a new database and install FireStats there"
+msgstr "Opret en ny database og installer FireStats der"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:90
+msgid "Follow instructions in the help"
+msgstr "Følg instruktionerne i hjælp"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+msgid "Database host"
+msgstr "Database vært"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:65
+msgid "Database name"
+msgstr "Dtabase navn"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:69
+msgid "Database user name"
+msgstr "Database og brugernavn"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:73
+msgid "Database password"
+msgstr "Database kodeord"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:77
+msgid "Tables prefix"
+msgstr "Tabeller fræfiks"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:84
+msgid "Test connection"
+msgstr "Test forbindelse"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:94
+msgid "Click to install and switch to new FireStats tables"
+msgstr "Klik for at installere og skifte til nyeste FireStats tabel"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:97
+msgid "Install tables"
+msgstr "Installer tabeller"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:106
+msgid "Click to use this FireStats database"
+msgstr "Klik for at bruge denne FireStats database"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:30
+msgid "Use this database"
+msgstr "Brug denne database"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:167
+msgid "To create a new database, an administrator user should be used in the above fields."
+msgstr "En administrator bør bruges i de ovennævnte felter for at oprette en ny database"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:168
+msgid "However, For security reason, it is recommanded not to use a database administrator user for day to day operations."
+msgstr "Af sikkerheds hensyn, er det dog anbefalet ikke at bruge en database administrator bruger i daglige operationer."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:169
+msgid "Enter new user name and password for FireStats, this user will only have access to the FireStats database"
+msgstr "Skriv et nyt brugernavn og kodeord til FireStats. Denne bruger vil kun have adgang til FireStats databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:170
+msgid "If you will not specify user and password the Admin user and password will be used."
+msgstr "Hvis du ikke speciferer bruger og kodeord, vil Administrator bruger og kodeord blive brugt."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/db_config_utils.php:118
+msgid "FireStats User name"
+msgstr "Firestats Brugernavn"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:39
+msgid "FireStats password"
+msgstr "FireStats kodeord"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+msgid "Create database"
+msgstr "Opret en ny database"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:21
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:86
+msgid "Help"
+msgstr "Hjælp"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:52
+msgid "Attach to an existing FireStats database"
+msgstr "Tilføj en eksisterende FireStats database"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:23
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:26
+#, php-format
+msgid "Enter the parameters in the table, press %s, and then %s."
+msgstr "Tilføj parametre i tabellen, tryk %s og herefter %s."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:29
+#, php-format
+msgid "Enter the parameters into the table, <u>you need to enter a database administrator user</u>. press %s, and then enter FireStats database user and password, and finally press %s."
+msgstr "Tilføj parametrene til tabellen, <u>du skal tilføje en database administrator bruger</u>. Tryk %s, og tilføj FireStats database bruger og kodeord, og tryk herefter %s."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:22
+msgid "Configuration locked"
+msgstr "Konfiguration låst"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:222
+msgid "To change the database configuration you need to unlock it, please enter the password."
+msgstr "For at skifte database konfiguration er du nødt til at låse den op, tast venligst kodeordet."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:223
+#, php-format
+msgid "if you forgot your password you can simply delete the file %s from firestats/php directory."
+msgstr "Hvis du har glemt dit kodeord, kan du slette filen %s fra firestats/php biblioteket."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:237
+msgid "Database configuration is locked, to unlock for 5 minutes enter the lock password."
+msgstr "Konfigurationen er låst. For at låse op skal du taste kodeordet."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:239
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:247
+msgid "Password"
+msgstr "Kodeord"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:240
+msgid "Unlock"
+msgstr "Lås op"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:245
+msgid "Database configuration is open for changes, enter a password to lock."
+msgstr "Database konfigurationen kan nu ændres. Skriv kodeordet for at låse."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-database.php:248
+msgid "Lock"
+msgstr "Lås"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:116
+msgid "Import in progress"
+msgstr "Importering i gang"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:37
+msgid "You can import your hits from another statistics system here."
+msgstr "Du kan ikke importere dine hits fra et andet statistik system her."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+msgid "Recalculate database cache"
+msgstr "Genberegn database cache"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-import.php:7
+msgid "In case of data consistency problems, The database cache may need to be rebuilt."
+msgstr "I tilfælde af overensstemmelsesproblemer, skal database cache'en muligvis genopbygges"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-import.php:8
+msgid "Its not normally needed, but it does not cause any damage"
+msgstr "Det er ikke nødvendigt normalt, men kan ikke ødelægge noget"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:125
+msgid "Counterize"
+msgstr "Counterize"
+
+#, php-format
+msgid "%s detected"
+msgstr "%s fundet"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1384
+#, php-format
+msgid "%s was not detected"
+msgstr "%s blev ikke fundet"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:97
+msgid "You need to select an bot you want to remove from the table"
+msgstr "Du skal vælge en bot du vil fjerne fra tabellen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:119
+msgid "Invalid IP address"
+msgstr "Invalid IP adresse"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:128
+msgid "You need to select an IP address you want to remove from the table"
+msgstr "Du skal vælge en IP adresse som du vil fjerne fra tabellen"
+
+msgid "Automatic version check"
+msgstr "Automatisk versions tjek"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:23
+msgid "Automatically check if there is a new version of FireStats (recommended)"
+msgstr "Tjek automatisk om der er en ny version af FireStats (anbefalet)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+msgid "IP-to-country database"
+msgstr "IP-to-country database"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+#, php-format
+msgid "IP-to-country database version : %s"
+msgstr "IP-to-country database version : %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:23
+msgid "Automatically check if there is a new version of IP-to-country database"
+msgstr "Tjek automatisk om der er en ny version af IP-to-country databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:17
+msgid "Update IP-to-country database now (only if needed)"
+msgstr "Opdater IP-to-country databasen nu (kun hvis det er nødvendigt)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+msgid "Update"
+msgstr "Opdater"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-settings.php:113
+msgid "Options"
+msgstr "Indstillinger"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:40
+msgid "Select language"
+msgstr "Vælg sprog"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:13
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:77
+msgid "Save"
+msgstr "Gem"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-settings.php:45
+msgid "How to translate to a new language"
+msgstr "Hvordan oversætter du til et nyt sprog"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-settings.php:52
+msgid "Select your time zone"
+msgstr "Vælg din tidszone"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-settings.php:67
+#, php-format
+msgid "Time zone selection requires %s or newer"
+msgstr "Tids zone valg kræver %s eller nyere"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-settings.php:142
+msgid "Select WHOIS provider"
+msgstr "Vælg WHOIS udbyder"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:54
+msgid "Exclude hits"
+msgstr "Udelukkede hits"
+
+msgid "Save excluded records (not recommended)"
+msgstr "Gem udelukkelsesliste (ikke anbefalet)"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:522
+msgid "Purge excluded records stored in the database"
+msgstr "Rens udelukkelsesliste gemt i databasen"
+
+msgid "Purge"
+msgstr "Rens"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:92
+msgid "Bots list"
+msgstr "Bots liste"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:59
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:97
+msgid "Add"
+msgstr "Tilføj"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:60
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:98
+msgid "Remove"
+msgstr "Fjern"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-settings.php:115
+msgid "Automatic update"
+msgstr "Automatisk opdatering"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-database.php:73
+msgid "Update now"
+msgstr "Opdater nu"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:34
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:130
+msgid "Export"
+msgstr "Eksport"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:54
+msgid "Excluded IPs"
+msgstr "Udelukkede IPer"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-settings.php:115
+msgid "Automatic"
+msgstr "Automatisk"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:91
+msgid "Delete"
+msgstr "Slet"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:91
+msgid "Transfer"
+msgstr "Overfør"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-stats.php:29
+msgid "Manage sites"
+msgstr "Vedligehold sites"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:118
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-stats.php:323
+msgid "Clear"
+msgstr "Ryd"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:125
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:148
+msgid "Close"
+msgstr "Luk"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:133
+msgid "This will delete this site from the database, the operation is irreversible!"
+msgstr "Dette vil slette dit site fra databasen. Operationen er uigenkaldelig!"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:134
+msgid "What do you want to do with the site hits?"
+msgstr "Hvad vil du gøre med sitets besøg?"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:137
+msgid "Delete all the hits"
+msgstr "Slet alle besøg"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:138
+msgid "Transfer the hits to another site"
+msgstr "Overfør hits til et andet site"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:141
+msgid "Enter an existing site ID to transfer the hits to"
+msgstr "Skriv et eksisterende site at overføre hits til"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:159
+msgid "Warning, you can really mess things up from here, be careful!"
+msgstr "Advarsel, du kan virkelig lave ulykker her, så vær forsigtig!"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:161
+msgid "FireStats can collect statistics from multiple sites (on the same server)."
+msgstr "FireStats kan samle statistikker fra flere sites (på samme server)."
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:163
+msgid "The site need to be registered in the sites table"
+msgstr "Sitet skal registreres i site tabellen"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:164
+msgid "The site should be configured to use its ID when reporting a hit, click on the help button next to the site you created for more information"
+msgstr "Sitet bør være konfigureret til at bruge dets ID når det registrerer it hit. Klik på hjælp knappen ved siden at det site du har lavet for mere information"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-sites.php:167
+#, php-format
+msgid "Click %s for more information"
+msgstr "Klik %s for mere information"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:40
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:73
+msgid "here"
+msgstr "Her"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:52
+# C:\www\testwp-en\wp-content\plugins\FireStats/js/firestats-admin.js.php:80
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:3
+msgid "Refresh statistics"
+msgstr "Genopfrish statistikker"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:36
+msgid "Auto refresh every"
+msgstr "Auto genopfrish hvert"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:39
+msgid "minutes"
+msgstr "minutter"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-stats.php:141
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-stats.php:174
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-stats.php:199
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-stats.php:266
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-stats.php:328
+msgid "Apply"
+msgstr "Udfør"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:7
+msgid "Status"
+msgstr "Status"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+msgid "Page views in last 24 hours"
+msgstr "Sidevisninger de seneste 24 timer"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:12
+msgid "Visits in last 24 hours"
+msgstr "Besøg de sidste 24 timer"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:19
+msgid "Recent referrers"
+msgstr "Seneste henvisninger"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:23
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:50
+msgid "Maximum"
+msgstr "Maksimum"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:31
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/page-stats.php:58
+msgid "Days ago"
+msgstr "Dage siden"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:26
+msgid "Recent popular pages"
+msgstr "Seneste populære sider"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:33
+msgid "Browsers"
+msgstr "Browsere"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:43
+msgid "Operating systems"
+msgstr "Operativsystemer"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/first_time.php:125
+msgid "Countries"
+msgstr "Lande"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-stats.php:52
+msgid "Hits table"
+msgstr "Hits tabel"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:8
+msgid "Number of hits to show"
+msgstr "Nummer af hits der skal vises"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/sql-functions.php:1003
+msgid "User agent"
+msgstr "Bruger Agent"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-stats.php:299
+msgid "Filter"
+msgstr "Filter"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:45
+msgid "Statistics widget"
+msgstr "Statistik widget"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:17
+#, php-format
+msgid "You can configure the sidebar widget from %s"
+msgstr "Du kan konfigurere sidebar widget'en fra %s"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:21
+#, php-format
+msgid "The statistics widget requires the %s plugin for optimal usage."
+msgstr "Statistik widget'en kræver %s plugin'et for at virke optimalt"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:24
+msgid "Widgets"
+msgstr "Widgets"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:26
+msgid "You can also manually add the following code to your theme sidebar:"
+msgstr "Du kan manuelt tilføje det følgende kode i din tema sidebar:"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:34
+msgid "Comments icons"
+msgstr "Kommentar ikoner"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:42
+msgid "Add flag icon to comments"
+msgstr "Tilføj flag til kommentarer"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:51
+msgid "Add browser and operating system icons to comments"
+msgstr "Tilføj browser og operativsystem ikoner til kommentarer"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:56
+msgid "Blog footer"
+msgstr "Blog sidefod"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:64
+msgid "Add FireStats footer to blog"
+msgstr "Tilføj FireStats sidefod til bloggen"
+
+# E:\Firestats_work_location\firestats-1.1/php/page-wordpress-settings.php:73
+msgid "Show statistics in footer"
+msgstr "Vis statistik i sidefoden"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-settings.php:73
+msgid "Excluded users"
+msgstr "Udelukkede brugere"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-wordpress-settings.php:128
+msgid "Advanced"
+msgstr "Avanceret"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-wordpress-settings.php:129
+msgid "WordPress site ID, every hit From this blog is recorded with this as the source Site ID"
+msgstr "WordPress site ID, alle hits fra denne blog er registreret med dette som kilde site ID"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/page-wordpress-settings.php:130
+msgid "This should be the same ID as the Site ID in the sites table. you don't normally need to change this."
+msgstr "Dette bør være det samme ID son Site ID i site tabellen. Du behøver normalt ikke at ændre dette."
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/trunk/firestats/php/tabbed-pane.php:32
+msgid "Demo"
+msgstr "Demo"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:32
+msgid "Hide"
+msgstr "Skjul"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/tabbed-pane.php:67
+msgid "No"
+msgstr "Nej"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/tabbed-pane.php:68
+msgid "Yes"
+msgstr "Ja"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:45
+msgid "Statistics"
+msgstr "Statistik"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/tabbed-pane.php:49
+msgid "Settings"
+msgstr "Indstillinger"
+
+# E:\Firestats_work_location\firestats-1.1/php/tabbed-pane.php:90
+msgid "WordPress settings"
+msgstr "WordPress indstillinger"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:61
+msgid "Database"
+msgstr "Database"
+
+# E:\Firestats_branch\firestats-1.2/firestats/php/tabbed-pane.php:120
+#, fuzzy
+msgid "Sites management"
+msgstr "Site vedligeholdelse"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#, php-format
+msgid "Error getting version information from %s : %s"
+msgstr "Fejl ved hentning af versionsinformation fra %s : %s"
+
+msgid "A new version of the IP-to-country database is available! you can update it from the settings tab"
+msgstr "En ny version af IP-to-country databasen er klar! Du kan opdatere den fra indstillinger fanebladet"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/utils.php:71
+#, php-format
+msgid "Version %s is available! click %s for more info"
+msgstr "Version %s er klar! Klik %s for mere information"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:120
+#, php-format
+msgid "Error opening %s"
+msgstr "Fejl under åbning af %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:41
+msgid "User name and password are required to connect to database"
+msgstr "Bruger navn og kodeord er nødvendige for at oprette forbndelse til databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:42
+msgid "Error establishing mySQL database connection"
+msgstr "Fejl ved etablering a MySQL database forbindelse"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:43
+msgid "Database name is required to connect to database"
+msgstr "Database navn er nødvendig for at oprette forbindelse til databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:44
+msgid "mySQL database connection is not active"
+msgstr "MySQL database forbindelse er ikke aktiv"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:45
+msgid "Unexpected error while querying database"
+msgstr "Ikke forventet fejl ved forespørgsel til databasen"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:114
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/ezsql/mysql/ez_sql_mysql.php:125
+#, php-format
+msgid "Can't disconnect: %s"
+msgstr "Kan ikke afbryde forbindelsen: %s"
+
+# C:\www\testwp-en\wp-content\plugins\FireStats/php/page-advanced.php:84
+msgid "Not connected"
+msgstr "Ikke forbundet"
+
